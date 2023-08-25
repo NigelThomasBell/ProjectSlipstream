@@ -1,0 +1,975 @@
+{{game|fh4=y}}{{DISPLAYTITLE:Cars}}
+{{CarListInfobox
+|title         = Cars
+|image         = FH4 Screenshot 3.jpg
+|description   = Full car list
+|unlock        = 
+Horizon Festival: 640
+:[[Autoshow]]: 402
+:[[Forza Horizon 4/Horizon Life|Horizon Life]]: 34
+:Star Cards: 3
+:[[Forza Horizon 4/Barn Find|Barn Finds]]: 15
+:[[Forza Horizon 4/Player House|House Purchase]]: 1
+:Skill Tree: 6
+:[[Forza Horizon 4/Cars/Wheelspin|Horizon Wheelspin]]: 40
+:[[Forza Horizon 4/Cars/Hard-to-Find|Hard-to-Find]]: 139
+[[Forza Horizon 4/Downloadable Content|Downloadable Content]]: 112
+:[[Forza Horizon 4/Barrett-Jackson Car Pack|Barrett-Jackson Car Pack]]: 7
+:[[Forza Horizon 4/Best of Bond Car Pack|''Best of Bond'' Car Pack]]: 10
+:[[Forza Horizon 4/Car Pass|Car Pass]]: 42
+:[[Forza Horizon 4/Formula Drift Car Pack|Formula Drift Car Pack]]: 7
+:[[Forza Horizon 4/Fortune Island|Fortune Island]]: 10
+:[[Forza Horizon 4/LEGO Speed Champions|LEGO Speed Champions]]: 5
+:[[Forza Horizon 4/Mitsubishi Motors Car Pack|Mitsubishi Motors Car Pack]]: 7
+:[[Forza Horizon 4/Welcome Pack|Welcome Pack]]: 8
+:[[Forza Horizon 4/Hot Wheels Legends Car Pack|Hot Wheels Legends Car Pack]]: 6
+:[[Forza Horizon 4/Preorder Car|Pre-Order Cars]]: 7
+:[[Forza Horizon 4/VIP Membership|VIP Membership]]: 3
+Unreleased: 1
+|cars          = 752/753<ref>Unlockable cars/Unlockable cars & locked cars</ref>
+|lowest class  = {{PI|fh4|100}}
+|highest class = {{PI|fh4|998}}
+|related       = [[:Category:Car Classes (FH4)|Car Classes]]<br>[[:Category:Championships (FH4)|Championships]]
+}}
+'''Cars''' in ''[[Forza Horizon 4]]'' are purchaseable from the [[Autoshow]], [[Forza Horizon 4/Forzathon Shop|Forzathon Shop]] and [[Auction House]]. Additional cars for purchase may be acquired through [[Forza Horizon 4/Downloadable Content|downloadable content]].
+
+==Synopsis==
+A series of cars cannot be obtained directly and are rewarded to players in different manners including [[Forza Horizon 4/Barn Find|Barn Find]]s, [[Forza_Horizon_4/Cars/Wheelspin|Wheelspin cars]], [[:Category:Horizon Life Reward (FH4)|Horizon Life rewards]], [[Forza Horizon 4/Player House|Player House rewards]], [[Forza Horizon 4/Festival Playlist|Festival Playlist]]-only cars that may be made unlockable again in a future Season, and the [[Forza_Horizon_4/Horizon_Backstage|Horizon Backstage]].
+
+There are also special car variants in the game including [[Forza Horizon 4/Preorder Car|Preorder Cars]] that come with bespoke upgrade presets and [[Forza Horizon 4/Forza Edition|Forza Edition cars]], which come with upgrade presets and a gameplay progression perk. Several special car variants such as Horizon Story cars are only playable in certain gameplay events.
+
+Every unlockable car can be listed in and bought from the Auction House. Alternatively, a series of cars are featured in the Forzathon Shop for the duration of a Season, where they can be bought for a specific amount of Forzathon Points.
+
+==Cars==
+{| class="table sortable" style="width: 100%"
+!class="unsortable"|Image
+!Vehicle
+!style="width: 6px; font-size: xx-small" data-sort-type="number"|<abbr title="Unlock/Availability">🔓</abbr>
+!style="width: 6px; font-size: xx-small" data-sort-type="number"|<abbr title="Rarity">🦄</abbr>
+!style="width: 6px; font-size: xx-small" data-sort-type="number"|<abbr title="Year">📅</abbr>
+!data-sort-type="number"|Value
+!data-sort-type="number"|<abbr title="Speed">Sp</abbr>
+!data-sort-type="number"|<abbr title="Handling">Ha</abbr>
+!data-sort-type="number"|<abbr title="Acceleration">Ac</abbr>
+!data-sort-type="number"|<abbr title="Launch">La</abbr>
+!data-sort-type="number"|<abbr title="Braking">Br</abbr>
+!data-sort-type="number"|<abbr title="Performance Index">PI</abbr>
+|-
+<!--Abarth-->
+{{CarListStatsFH4|c|Abarth 124|2017|[[Abarth 124 Spider]]|autoshow|43,500|6.0|5.9|5.6|7.6|5.4|577}}
+{{CarListStatsFH4|c|Abarth 595|1968|[[Abarth 595 esseesse]]|autoshow|35,000|3.9|4.0|3.7|4.9|4.0|100}}
+{{CarListStatsFH4|r|Abarth 695|2016|[[Abarth 695 Biposto]]|autoshow|48,000|5.7|6.3|5.9|7.5|6.4|607}}
+{{CarListStatsFH4|c|Abarth Fiat|1980|[[Abarth Fiat 131]]|autoshow|38,000|5.5|4.7|5.5|7.1|4.5|449}}
+<!--Acura-->
+{{CarListStatsFH4|c|Acura Integra|2001|[[Acura Integra Type-R]]|autoshow|25,000|6.3|5.8|5.6|6.9|5.4|596}}
+{{CarListStatsFH4|c|Acura RSX|2002|[[Acura RSX Type-S]]|autoshow|25,000|6.3|5.8|5.6|6.7|5.4|588}}
+{{CarListStatsFH4|r|Acura NSX|2017|[[Acura NSX (2017)|Acura NSX]]|autoshow|170,000|7.4|7.6|9.6|10|8.3|850}}
+<!--Alfa Romeo-->
+{{CarListStatsFH4|e|AR 155 FH4|1992|[[Alfa Romeo 155 Q4]]|htf|250,000|6.2|5.0|5.8|7.8|4.7|541}}
+{{CarListStatsFH4|r|AR 4C|2014|[[Alfa Romeo 4C]]|autoshow|74,000|6.6|7.1|6.5|8.8|7.0|770}}
+{{CarListStatsFH4|e|AR 8C|2007|[[Alfa Romeo 8C Competizione]]|autoshow|300,000|7.5|6.6|6.6|8.2|6.8|777}}
+{{CarListStatsFH4|fe|AR 8C FE|2007|[[Alfa Romeo 8C Competizione Forza Edition|Alfa Romeo 8C Competizione ''F.E.'']]|spin|550,000|7.6|9.1|8.3|9.6|9.6|899}}
+{{CarListStatsFH4|l|AR 33|1968|[[Alfa Romeo 33 Stradale]]|autoshow|10,000,000|6.9|5.8|6.9|8.6|5.5|716}}
+{{CarListStatsFH4|r|AR Giulia 65 Sprint|1965|[[Alfa Romeo Giulia Sprint GTA Stradale]]|autoshow|300,000|5.1|4.6|5.4|6.9|4.5|432}}
+{{CarListStatsFH4|l|AR Giulia 65 TZ2|1965|[[Alfa Romeo Giulia TZ2]]|autoshow|2,500,000|6.3|5.7|5.8|7.0|5.1|639}}
+{{CarListStatsFH4|r|AR Giulia 17|2017|[[Alfa Romeo Giulia Quadrifoglio]]|autoshow|120,000|7.7|7.2|6.9|8.5|7.9|795}}
+{{CarListStatsFH4|fe|AR Giulia 17 FE|2017|[[Alfa Romeo Giulia Quadrifoglio Forza Edition|Alfa Romeo Giulia Quadrifoglio ''F.E.'']]|spin|370,000|8.7|8.1|7.6|9.1|8.7|900}}
+{{CarListStatsFH4|l|AR P3|1934|[[Alfa Romeo P3]]|purchase|other=Edinburgh Castle|10,000,000|6.6|5.0|5.6|7.1|4.9|626}}
+{{CarListStatsFH4|r|AR Stelvio|2018|[[Alfa Romeo Stelvio Quadrifoglio]]|car pass|80,000|7.2|5.9|9.0|10|6.3|752}}
+<!--Alpine-->
+{{CarListStatsFH4|e|Alpine A110|2017|[[Alpine A110]]|htf|250,000|6.7|7.0|6.9|8.5|6.9|740}}
+<!--Alumi Craft-->
+{{CarListStatsFH4|e|AC Class|2015|[[Alumi Craft Class 10 Race Car]]|autoshow|100,000|5.3|6.5|6.6|7.9|6.2|673}}
+{{CarListStatsFH4|fe|AC Class FE|2015|[[Alumi Craft Class 10 Race Car Forza Edition|Alumi Craft Class 10 Race Car ''F.E.'']]|spin|350,000|6.0|6.6|7.7|9.2|6.8|800}}
+<!--AMC-->
+{{CarListStatsFH4|c|AMC Gremlin|1973|[[AMC Gremlin X]]|autoshow|35,000|5.0|4.4|5.2|6.6|4.4|394}}
+{{CarListStatsFH4|r|AMC Javelin|1971|[[AMC Javelin AMX]]|autoshow|35,000|5.4|4.5|5.2|6.6|4.2|512}}
+{{CarListStatsFH4|r|AMC Rebel|1970|[[AMC Rebel "The Machine"]]|htf|250,000|5.9|4.6|5.3|6.8|4.4|541}}
+<!--AMG TD-->
+{{CarListStatsFH4|l|AMG TD M12S|2554|[[AMG Transport Dynamics M12S Warthog CST]]|autoshow|850,000|5.2|7.1|9.7|10|7.5|756}}
+<!--Apollo-->
+{{CarListStatsFH4|l|Apollo IE|2018|[[Apollo Intensa Emozione]]|htf|1,050,000|7.9|10|8.3|9.6|10|984}}
+<!--Ariel-->
+{{CarListStatsFH4|e|Ariel Atom|2013|[[Ariel Atom 500 V8]]|life|life=szh|lvl=11|108,000|7.0|10|8.6|9.8|10|970}}
+{{CarListStatsFH4|e|Ariel Nomad|2016|[[Ariel Nomad]]|autoshow|93,000|6.0|6.3|7.6|9.2|6.1|732}}
+<!--Ascari-->
+{{CarListStatsFH4|e|Ascari KZ1R|2012|[[Ascari KZ1R]]|autoshow|240,000|7.9|8.6|7.4|8.6|8.9|866}}
+<!--Aston Martin-->
+{{CarListStatsFH4|l|AM DB4|1960|[[Aston Martin DB4 GT Zagato]]|barn|500,000|6.9|5.4|4.6|5.1|4.6|619}}
+{{CarListStatsFH4|l|AM DB5|1964|[[Aston Martin DB5]]|autoshow|800,000|6.2|4.7|5.6|7.1|4.3|534}}
+{{CarListStatsFH4|e|AM DB11|2017|[[Aston Martin DB11]]|autoshow|300,000|7.8|7.1|6.8|8.4|7.6|810}}
+{{CarListStatsFH4|e|AM DB11 PO|2017|[[Aston Martin DB11 Preorder Car]]|po|other=/ [[Forza Horizon 4/Forzathon Shop|Forzathon Shop]]|300,000|8.9|8.2|6.7|8.3|8.7|900}}
+{{CarListStatsFH4|l|AM DBR1|1958|[[Aston Martin DBR1]]|autoshow|10,000,000|7.1|5.6|5.3|6.1|5.1|688}}
+{{CarListStatsFH4|e|AM DBS 19|2019|[[Aston Martin DBS Superleggera]]|htf|250,000|8.2|7.4|6.9|8.5|8.1|853}}
+{{CarListStatsFH4|l|AM One-77|2010|[[Aston Martin One-77]]|autoshow|1,400,000|8.3|7.5|7.1|8.7|8.0|863}}
+{{CarListStatsFH4|e|AM V12|2013|[[Aston Martin V12 Vantage S]]|autoshow|240,000|8.2|6.9|6.6|8.2|7.4|814}}
+{{CarListStatsFH4|e|AM Vanquish 17|2017|[[Aston Martin Vanquish Zagato Coupé]]|htf|250,000|7.8|7.3|6.9|8.5|8.0|824}}
+{{CarListStatsFH4|e|AM Vantage 18|2018|[[Aston Martin Vantage]]|car pass|400,000|7.5|7.5|6.9|8.6|7.9|822}}
+{{CarListStatsFH4|r|AM Vanquish 12|2012|[[Aston Martin Vanquish]]|autoshow|348,000|7.9|7.0|6.7|8.3|7.5|802}}
+{{CarListStatsFH4|e|AM Vantage 16|2016|[[Aston Martin Vantage GT12]]|autoshow|400,000|7.2|8.4|6.9|8.5|9.1|846}}
+{{CarListStatsFH4|l|AM Vulcan|2016|[[Aston Martin Vulcan]]|autoshow|1,500,000|8.1|10|7.5|9.0|10|954}}
+{{CarListStatsFH4|e|AM Vulcan 17|2017|[[Aston Martin Vulcan AMR Pro]]|htf|1,500,000|7.7|10|7.5|9.0|10|954}}
+{{CarListStatsFH4|fe|AM Vulcan FE|2016|[[Aston Martin Vulcan Forza Edition|Aston Martin Vulcan ''F.E.'']]|spin|1,750,000|8.4|10|7.6|9.2|10|998}}
+<!--ATS-->
+{{CarListStatsFH4|e|ATS GT|2018|[[ATS GT]]|htf|250,000|8.3|8.0|7.7|9.2|8.6|894}}
+<!--Audi-->
+{{CarListStatsFH4|l|Audi 2 Sport|1986|[[Audi 2 Audi Sport quattro S1|Audi #2 Audi Sport quattro S1]]|autoshow|375,000|6.9|8.0|9.5|8.0|8.1|850}}
+{{CarListStatsFH4|e|Audi R8 13|2013|[[Audi R8 Coupé V10 plus 5.2 FSI quattro]]|autoshow|290,000|7.8|7.2|8.5|9.5|7.7|824}}
+{{CarListStatsFH4|e|Audi R8 16|2016|[[Audi R8 V10 plus]]|autoshow|242,000|8.2|7.5|9.1|9.9|8.1|856}}
+{{CarListStatsFH4|c|Audi RS 2|1995|[[Audi RS 2 Avant]]|autoshow|50,000|6.7|5.3|6.6|8.7|5.2|616}}
+{{CarListStatsFH4|c|Audi RS 3|2011|[[Audi RS 3 Sportback]]|autoshow|42,000|6.7|6.1|6.8|8.9|6.3|699}}
+{{CarListStatsFH4|r|Audi RS 4 06|2006|[[Audi RS 4]]|autoshow|53,000|7.5|6.2|7.5|8.9|6.2|729}}
+{{CarListStatsFH4|r|Audi RS 4 01|2001|[[Audi RS 4 Avant (2001)|Audi RS 4 Avant]]|autoshow|94,000|7.1|6.0|7.1|9.0|5.5|695}}
+{{CarListStatsFH4|r|Audi RS 4 13|2013|[[Audi RS 4 Avant (2013)|Audi RS 4 Avant]]|autoshow|83,000|7.5|6.2|7.0|8.7|6.7|750}}
+{{CarListStatsFH4|r|Audi RS 5|2011|[[Audi RS 5 Coupé]]|autoshow|88,000|7.3|6.5|7.3|9.0|7.0|750}}
+{{CarListStatsFH4|r|Audi RS 6 03|2003|[[Audi RS 6 (2003)|Audi RS 6]]|autoshow|105,000|7.4|5.9|6.7|8.4|5.8|710}}
+{{CarListStatsFH4|r|Audi RS 6 09|2009|[[Audi RS 6 (2009)|Audi RS 6]]|autoshow|155,000|8.0|6.2|7.6|9.1|6.7|743}}
+{{CarListStatsFH4|r|Audi RS 6 15|2015|[[Audi RS 6 Avant]]|autoshow|150,000|7.8|6.2|8.8|10|6.7|778}}
+{{CarListStatsFH4|r|Audi RS 7|2013|[[Audi RS 7 Sportback]]|autoshow|225,000|8.0|6.1|8.3|9.9|6.5|761}}
+{{CarListStatsFH4|c|Audi S1|2015|[[Audi S1]]|autoshow|35,000|6.3|6.3|6.8|8.7|6.6|679}}
+{{CarListStatsFH4|l|Audi Sport|1983|[[Audi Sport quattro]]|barn|175,000|6.4|5.2|7.1|8.8|5.2|621}}
+{{CarListStatsFH4|r|Audi TT 10|2010|[[Audi TT RS Coupé]]|spin|66,000|7.2|6.3|7.3|9.2|6.2|722}}
+{{CarListStatsFH4|c|Audi TTS|2015|[[Audi TTS Coupé]]|autoshow|52,000|7.4|6.4|7.3|9.0|5.8|740}}
+<!--Austin-->
+{{CarListStatsFH4|c|Austin FX4|1964|[[Austin FX4 Taxi]]|life|life=it|lvl=10|20,000|4.5|3.8|3.6|4.5|3.5|100}}
+{{CarListStatsFH4|l|Austin Seven|1924|[[Austin Seven]]|life|life=s7|lvl=5|250,000|3.1|4.1|3.0|3.0|4.4|100}}
+<!--Austin-Healey-->
+{{CarListStatsFH4|c|A-H 3000|1965|[[Austin-Healey 3000 MkIII]]|autoshow|50,000|5.7|4.0|5.1|6.5|3.6|326}}
+{{CarListStatsFH4|c|A-H Sprite|1958|[[Austin-Healey Sprite MkI]]|autoshow|20,000|4.3|4.0|3.9|5.6|3.7|100}}
+<!--Auto Union-->
+{{CarListStatsFH4|l|AU Type|1939|[[Auto Union Type D]]|autoshow|10,000,000|8.7|5.1|6.0|7.3|4.6|692}}
+<!--BAC-->
+{{CarListStatsFH4|e|BAC Mono|2014|[[BAC Mono]]|autoshow|160,000|6.8|10|7.5|9.0|10|900}}
+<!--Bentley-->
+{{CarListStatsFH4|l|Bentley 4-1-2|1931|[[Bentley 4-1/2 Liter Supercharged]]|barn|10,000,000|4.8|3.7|4.0|5.9|3.7|200}}
+{{CarListStatsFH4|l|Bentley 8-Liter|1931|[[Bentley 8-Liter]]|life|life=brg|lvl=10|1,500,000|4.8|3.7|4.7|5.8|3.7|176}}
+{{CarListStatsFH4|e|Bentley Bentayga|2016|[[Bentley Bentayga]]|autoshow|180,000|7.5|6.1|7.6|9.4|6.3|758}}
+{{CarListStatsFH4|e|Bentley Continental 13|2013|[[Bentley Continental GT Speed]]|autoshow|242,000|8.0|6.3|7.8|9.5|6.7|774}}
+{{CarListStatsFH4|fe|Bentley Continental 13 FE|2013|[[Bentley Continental GT Speed Forza Edition|Bentley Continental GT Speed ''F.E.'']]|spin|492,000|7.4|9.4|8.1|9.5|10|900}}
+{{CarListStatsFH4|e|Bentley Continental 17|2017|[[Bentley Continental Supersports (2017)|Bentley Continental Supersports]]|autoshow|200,000|8.0|6.3|9.2|10|7.0|798}}
+{{CarListStatsFH4|rare |Bentley Turbo|1991|[[Bentley Turbo R]]|htf|250,000|6.2|5.0|4.9|5.5|4.8|546}}
+<!--BMW-->
+{{CarListStatsFH4|r|BMW 1 Series|2011|[[BMW 1 Series M Coupe]]|autoshow|55,000|7.0|6.4|6.4|8.0|6.4|731}}
+{{CarListStatsFH4|c|BMW 2002|1973|[[BMW 2002 Turbo]]|autoshow|26,000|5.8|4.6|5.5|5.9|4.5|500}}
+{{CarListStatsFH4|r|BMW i8|2015|[[BMW i8]]|autoshow|140,000|7.7|6.6|9.0|10|6.6|785}}
+{{CarListStatsFH4|r|BMW i8 18|2018|[[BMW i8 Roadster]]|car pass|150,000|7.6|6.4|8.5|10|6.4|776}}
+{{CarListStatsFH4|r|BMW Isetta|1957|[[BMW Isetta 300 Export]]|autoshow|45,000|3.2|4.0|3.3|3.1|4.0|100}}
+{{CarListStatsFH4|r|BMW 850CSi|1995|[[BMW 850CSi]]|htf|250,000|7.3|5.2|6.1|7.8|5.1|612}}
+{{CarListStatsFH4|e|BMW M1|1981|[[BMW M1]]|autoshow|585,000|6.6|5.4|6.1|7.2|5.4|652}}
+{{CarListStatsFH4|c|BMW M2|2016|[[BMW M2 Coupé]]|autoshow|69,000|7.1|6.3|6.4|8.1|6.3|737}}
+{{CarListStatsFH4|r|BMW M3 91|1991|[[BMW M3 (1991)|BMW M3]]|autoshow|70,000|6.4|5.4|6.0|7.4|5.0|586}}
+{{CarListStatsFH4|c|BMW M3 97|1997|[[BMW M3 (1997)|BMW M3]]|autoshow|35,000|7.1|5.9|6.3|8.0|5.5|694}}
+{{CarListStatsFH4|c|BMW M3 05|2005|[[BMW M3 (2005)|BMW M3]]|life|life=tdr|lvl=8|33,000|7.0|6.1|6.4|8.0|5.7|706}}
+{{CarListStatsFH4|r|BMW M3 08|2008|[[BMW M3 (2008)|BMW M3]]|autoshow|48,000|7.3|6.3|6.3|7.9|6.4|745}}
+{{CarListStatsFH4|e|BMW M3-GTR|2002|[[BMW M3-GTR]]|htf|120,000|7.2|6.9|6.6|8.2|7.0|765}}
+{{CarListStatsFH4|e|BMW M3 10|2010|[[BMW M3 GTS]]|htf|250,000|7.4|7.6|6.6|8.3|8.0|814}}
+{{CarListStatsFH4|r|BMW M4 14|2014|[[BMW M4 Coupe]]|autoshow|92,000|7.7|6.9|6.5|8.2|7.5|800}}
+{{CarListStatsFH4|e|BMW M4 16|2016|[[BMW M4 GTS]]|autoshow|135,000|7.4|8.1|6.7|8.4|8.8|841}}
+{{CarListStatsFH4|r|BMW M5 88|1988|[[BMW M5 (1988)|BMW M5]]|autoshow|54,000|6.5|5.3|6.0|7.7|5.3|594}}
+{{CarListStatsFH4|fe|BMW M5 88 FE|1988|[[BMW M5 Forza Edition|BMW M5 ''F.E.'']]|spin|304,000|7.3|6.7|6.7|8.3|7.1|800}}
+{{CarListStatsFH4|r|BMW M5 95|1995|[[BMW M5 (1995)|BMW M5]]|autoshow|25,000|7.3|5.5|6.1|7.8|5.4|634}}
+{{CarListStatsFH4|c|BMW M5 03|2003|[[BMW M5 (2003)|BMW M5]]|autoshow|30,000|7.6|6.0|6.3|7.9|6.0|719}}
+{{CarListStatsFH4|r|BMW M5 09|2009|[[BMW M5 (2009)|BMW M5]]|autoshow|90,000|7.6|6.5|6.5|8.2|6.6|758}}
+{{CarListStatsFH4|r|BMW M5 12|2012|[[BMW M5 (2012)|BMW M5]]|autoshow|112,000|7.9|6.6|6.5|8.2|6.7|790}}
+{{CarListStatsFH4|r|BMW M5 18|2018|[[BMW M5 (2018)|BMW M5]]|fortune|105,000|8.0|6.5|9.3|10|7.2|806}}
+{{CarListStatsFH4|r|BMW M6|2013|[[BMW M6 Coupe (2013)|BMW M6 Coupe]]|autoshow|120,000|7.9|6.3|6.3|7.9|6.8|779}}
+{{CarListStatsFH4|fe|BMW M6 FE|2013|[[BMW M6 Coupe Forza Edition|BMW M6 Coupe ''F.E.'']]|spin|370,000|9.1|7.7|7.4|9.0|8.2|900}}
+{{CarListStatsFH4|c|BMW X5 11|2011|[[BMW X5 M]]|autoshow|100,000|7.0|5.8|7.4|9.1|5.5|708}}
+{{CarListStatsFH4|r|BMW X6|2015|[[BMW X6 M (2015)|BMW X6 M]]|autoshow|130,000|7.1|6.0|7.5|9.4|5.8|727}}
+{{CarListStatsFH4|c|BMW Z3|2002|[[BMW Z3 M Coupe]]|autoshow|30,000|6.8|6.1|6.4|8.1|6.1|713}}
+{{CarListStatsFH4|r|BMW Z4 08|2008|[[BMW Z4 M Coupe]]|autoshow|82,000|7.0|6.5|6.6|8.3|6.0|710}}
+{{CarListStatsFH4|r|BMW Z4 19|2019|[[BMW Z4 Roadster]]|htf|35,000|7.2|6.7|6.8|8.4|6.7|772}}
+{{CarListStatsFH4|r|BMW Z4 11|2011|[[BMW Z4 sDrive35is]]|autoshow|58,000|7.2|6.2|6.5|8.2|5.7|727}}
+<!--Bowler-->
+{{CarListStatsFH4|e|Bowler EXR|2012|[[Bowler EXR S]]|autoshow|200,000|6.8|6.2|8.8|10|6.0|760}}
+<!--Bugatti-->
+{{CarListStatsFH4|l|Bugatti Chiron|2018|[[Bugatti Chiron]]|autoshow|2,400,000|10|8.3|9.8|10|8.7|938}}
+{{CarListStatsFH4|l|Bugatti Divo|2019|[[Bugatti Divo]]|htf|250,000|9.3|9.2|9.9|10|9.5|958}}
+{{CarListStatsFH4|l|Bugatti EB110|1992|[[Bugatti EB110 Super Sport]]|autoshow|1,700,000|8.5|7.1|9.2|9.9|7.4|829}}
+{{CarListStatsFH4|l|Bugatti Type|1926|[[Bugatti Type 35 C]]|autoshow|10,000,000|5.0|4.9|4.4|4.8|4.8|374}}
+{{CarListStatsFH4|l|Bugatti Veyron|2011|[[Bugatti Veyron Super Sport]]|autoshow|2,200,000|9.9|8.0|9.9|10|8.4|922}}
+<!--Buick-->
+{{CarListStatsFH4|e|Buick GSX|1970|[[Buick GSX]]|htf|250,000|6.0|4.8|5.1|6.5|4.4|572}}
+{{CarListStatsFH4|r|Buick Regal|1987|[[Buick Regal GNX]]|autoshow|130,000|6.5|4.7|5.6|7.1|4.5|567}}
+<!--Cadillac-->
+{{CarListStatsFH4|c|Cadillac ATS-V|2016|[[Cadillac ATS-V]]|autoshow|65,000|7.5|6.2|6.4|8.1|6.2|737}}
+{{CarListStatsFH4|c|Cadillac CTS-V 16|2016|[[Cadillac CTS-V Sedan]]|autoshow|80,000|7.7|6.2|6.3|7.9|6.6|785}}
+{{CarListStatsFH4|r|Cadillac Eldorado|1959|[[Cadillac Eldorado Biarritz Convertible]]|car pass|60,000|5.9|4.4|5.2|6.6|4.3|400}}
+{{CarListStatsFH4|c|Cadillac Escalade|2012|[[Cadillac Escalade ESV]]|htf|250,000|6.0|5.7|5.0|6.0|5.9|564}}
+{{CarListStatsFH4|r|Cadillac XTS|2013|[[Cadillac XTS Limousine]]|spin|48,500|6.1|5.7|4.6|5.1|5.4|534}}
+<!--Can-Am-->
+{{CarListStatsFH4|c|C-A Maverick|2018|[[Can-Am Maverick X RS Turbo R]]|car pass|25,000|5.0|6.5|8.2|10|6.4|692}}
+<!--Caterham-->
+{{CarListStatsFH4|r|Caterham Superlight|2013|[[Caterham Superlight R500]]|autoshow|82,000|6.4|6.9|6.8|7.9|7.1|804}}
+{{CarListStatsFH4|fe|Caterham Superlight  FE|2013|[[Caterham Superlight R500 Forza Edition|Caterham Superlight R500 ''F.E.'']]|spin|332,000|6.4|7.0|6.7|8.4|7.1|804}}
+<!--Chevrolet-->
+{{CarListStatsFH4|c|Chevy 150|1955|[[Chevrolet 150 Utility Sedan]]|autoshow|35,000|5.4|3.8|5.0|6.3|3.6|286}}
+{{CarListStatsFH4|r|Chevy Bel|1957|[[Chevrolet Bel Air]]|autoshow|130,000|5.7|4.3|4.7|5.1|4.3|444}}
+{{CarListStatsFH4|r|Chevy Camaro 90 FH4|1990|[[Chevrolet Camaro IROC-Z]]|htf|250,000|6.5|4.6|5.1|6.4|3.9|512}}
+{{CarListStatsFH4|r|Chevy Camaro 69|1969|[[Chevrolet Camaro Super Sport Coupe]]|autoshow|110,000|5.9|4.9|5.3|6.7|4.6|566}}
+{{CarListStatsFH4|r|Chevy Camaro 70|1970|[[Chevrolet Camaro Z28 (1970)|Chevrolet Camaro Z28]]|autoshow|53,000|6.0|4.7|5.2|6.5|4.3|547}}
+{{CarListStatsFH4|r|Chevy Camaro 79|1979|[[Chevrolet Camaro Z28 (1979)|Chevrolet Camaro Z28]]|spin|35,000|5.5|4.8|5.3|6.7|4.4|460}}
+{{CarListStatsFH4|r|Chevy Camaro 15|2015|[[Chevrolet Camaro Z/28 (2015)|Chevrolet Camaro Z/28]]|autoshow|86,000|7.2|7.7|6.6|8.3|8.3|818}}
+{{CarListStatsFH4|r|Chevy Camaro 17|2017|[[Chevrolet Camaro ZL1 (2017)|Chevrolet Camaro ZL1]]|autoshow|60,000|7.8|8.0|7.3|8.7|8.4|848}}
+{{CarListStatsFH4|r|Chevy Camaro 17 PO|2017|[[Chevrolet Camaro ZL1 Preorder Car]]|po|other=/ [[Forza Horizon 4/Forzathon Shop|Forzathon Shop]]|60,000|8.3|8.8|7.3|8.9|9.3|900}}
+{{CarListStatsFH4|e|Chevy Camaro 18|2018|[[Chevrolet Camaro ZL1 1LE]]|car pass|105,000|7.5|8.4|7.0|8.6|8.8|849}}
+{{CarListStatsFH4|r|Chevy Chevelle 67|1967|[[Chevrolet Chevelle Super Sport 396]]|htf|250,000|6.5|4.6|5.2|6.6|4.4|561}}
+{{CarListStatsFH4|r|Chevy Chevelle 70|1970|[[Chevrolet Chevelle Super Sport 454]]|autoshow|80,000|5.6|4.6|5.1|6.4|4.3|542}}
+{{CarListStatsFH4|e|Chevy Chevelle 70 BJ|1970|[[Chevrolet Chevelle Super Sport Barrett-Jackson Edition]]|jackson|105,000|7.8|5.9|6.1|7.8|6.2|757}}
+{{CarListStatsFH4|r|Chevy Colorado|2017|[[Chevrolet Colorado ZR2]]|htf|46,000|6.1|5.7|5.7|7.3|5.6|598}}
+{{CarListStatsFH4|l|Chevy Corvette 53|1953|[[Chevrolet Corvette (1953)|Chevrolet Corvette]]|autoshow|135,000|4.7|4.4|4.2|4.3|4.2|347}}
+{{CarListStatsFH4|e|Chevy Corvette 60|1960|[[Chevrolet Corvette (1960)|Chevrolet Corvette]]|autoshow|150,000|6.2|4.6|5.2|6.6|4.4|521}}
+{{CarListStatsFH4|r|Chevy Corvette 67|1967|[[Chevrolet Corvette Stingray 427]]|autoshow|150,000|6.3|5.0|5.6|6.7|4.8|621}}
+{{CarListStatsFH4|c|Chevy Corvette 02|2002|[[Chevrolet Corvette Z06 (2002)|Chevrolet Corvette Z06]]|autoshow|35,000|7.7|6.5|6.0|7.6|5.4|748}}
+{{CarListStatsFH4|r|Chevy Corvette 15|2015|[[Chevrolet Corvette Z06 (2015)|Chevrolet Corvette Z06]]|autoshow|110,000|7.9|8.2|7.0|8.6|8.9|871}}
+{{CarListStatsFH4|e|Chevy Corvette 20|2020|[[Chevrolet Corvette Stingray Coupe]]|htf|250,000|7.5|7.6|7.7|9.2|7.7|830}}
+{{CarListStatsFH4|r|Chevy Corvette 70|1970|[[Chevrolet Corvette ZR-1 (1970)|Chevrolet Corvette ZR-1]]|autoshow|310,000|5.8|5.1|5.6|6.7|4.7|605}}
+{{CarListStatsFH4|c|Chevy Corvette 95|1995|[[Chevrolet Corvette ZR-1 (1995)|Chevrolet Corvette ZR-1]]|autoshow|45,000|7.1|6.3|6.4|7.8|5.8|741}}
+{{CarListStatsFH4|r|Chevy Corvette 09|2009|[[Chevrolet Corvette ZR1 (2009)|Chevrolet Corvette ZR1]]|autoshow|125,000|8.2|7.1|6.7|8.3|7.5|824}}
+{{CarListStatsFH4|e|Chevy Corvette 19|2019|[[Chevrolet Corvette ZR1 (2019)|Chevrolet Corvette ZR1]]|car pass|225,000|8.1|8.5|7.5|9.0|9.2|895}}
+{{CarListStatsFH4|r|Chevy El|1970|[[Chevrolet El Camino Super Sport 454]]|autoshow|65,000|6.6|4.6|5.0|6.3|4.3|556}}
+{{CarListStatsFH4|c|Chevy Impala 96|1996|[[Chevrolet Impala Super Sport]]|htf|250,000|5.9|4.8|5.4|6.6|4.6|510}}
+{{CarListStatsFH4|c|Chevy Impala 64|1964|[[Chevrolet Impala Super Sport 409]]|autoshow|46,000|6.3|4.3|5.1|6.4|4.2|527}}
+{{CarListStatsFH4|c|Chevy Monte|1988|[[Chevrolet Monte Carlo Super Sport]]|life|life=la|lvl=10|25,000|5.9|4.5|5.0|6.3|3.9|415}}
+{{CarListStatsFH4|c|Chevy Nova 66|1966|[[Chevrolet Nova Super Sport]]|autoshow|70,000|6.2|4.8|5.4|6.9|4.5|582}}
+{{CarListStatsFH4|c|Chevy Nova 69|1969|[[Chevrolet Nova Super Sport 396]]|autoshow|47,000|6.2|4.6|5.3|6.6|4.3|552}}
+{{CarListStatsFH4|fe|Chevy Nova 69 FE|1969|[[Chevrolet Nova Super Sport 396 Forza Edition|Chevrolet Nova Super Sport 396 ''F.E.'']]|spin|297,000|8.5|7.3|10|10|7.5|981}}
+{{CarListStatsFH4|e|Chevy Silverado|2018|[[Chevrolet Silverado 1500 DeBerti Design Drift Truck]]|car pass|300,000|7.2|7.6|6.6|8.3|7.7|849}}
+<!--Chrysler-->
+{{CarListStatsFH4|r|Chrysler VH|1972|[[Chrysler VH Valiant Charger R/T E49]]|autoshow|60,000|5.9|4.7|5.2|6.7|4.4|557}}
+<!-- Citroën -->
+{{CarListStatsFH4|e|Citroen DS|1975|[[Citroën DS 23]]|htf|250,000|5.1|4.6|4.2|5.8|4.4|262}}
+<!--Datsun-->
+{{CarListStatsFH4|c|Datsun 510|1970|[[Datsun 510]]|autoshow|25,000|4.8|3.9|4.7|6.1|3.8|209}}
+<!--Dodge-->
+{{CarListStatsFH4|r|Dodge Challenger 70|1970|[[Dodge Challenger R/T]]|autoshow|210,000|6.2|4.7|5.2|6.5|4.4|562}}
+{{CarListStatsFH4|e|Dodge Challenger 18|2018|[[Dodge Challenger SRT Demon]]|life|life=tsd|lvl=10|150,000|8.2|7.0|6.3|8.0|7.4|823}}
+{{CarListStatsFH4|r|Dodge Challenger 15|2015|[[Dodge Challenger SRT Hellcat]]|autoshow|75,000|8.1|6.1|5.9|7.5|6.5|776}}
+{{CarListStatsFH4|l|Dodge Charger 69 Daytona|1969|[[Dodge Charger Daytona HEMI]]|autoshow|900,000|5.9|5.2|5.4|6.9|4.8|595}}
+{{CarListStatsFH4|r|Dodge Charger 69|1969|[[Dodge Charger R/T]]|autoshow|103,000|5.9|4.7|5.3|6.8|4.3|558}}
+{{CarListStatsFH4|r|Dodge Charger 15|2015|[[Dodge Charger SRT Hellcat]]|autoshow|80,000|8.2|6.1|6.1|7.7|6.5|785}}
+{{CarListStatsFH4|r|Dodge Dart|1968|[[Dodge Dart HEMI Super Stock]]|autoshow|125,000|5.4|4.9|5.5|7.0|4.6|626}}
+{{CarListStatsFH4|r|Dodge Durango|2018|[[Dodge Durango SRT]]|autoshow|70,000|6.9|5.9|7.3|9.2|5.5|709}}
+{{CarListStatsFH4|e|Dodge SRT|2013|[[Dodge SRT Viper GTS]]|autoshow|95,000|8.0|7.3|7.0|8.2|7.2|831}}
+{{CarListStatsFH4|e|Dodge Viper 16|2016|[[Dodge Viper ACR]]|autoshow|150,000|6.9|9.8|7.6|8.7|10|893}}
+{{CarListStatsFH4|r|Dodge Viper 99|1999|[[Dodge Viper GTS ACR]]|autoshow|75,000|7.4|5.9|6.6|8.1|5.9|732}}
+{{CarListStatsFH4|r|Dodge Viper 08|2008|[[Dodge Viper SRT10 ACR]]|autoshow|90,000|7.5|9.2|7.1|8.3|9.6|866}}
+<!--Donkervoort-->
+{{CarListStatsFH4|e|Donkervoort D8|2013|[[Donkervoort D8 GTO]]|autoshow|175,000|6.9|7.4|6.7|8.4|7.8|827}}
+<!--DS Automobiles-->
+{{CarListStatsFH4|c|DSA DS3|2011|[[DS Automobiles DS 3 Racing]]|htf|38,000|6.1|6.0|5.8|7.3|6.0|624}}
+<!--Eagle-->
+{{CarListStatsFH4|l|Eagle Speedster|2012|[[Eagle Speedster]]|autoshow|550,000|6.8|6.5|6.1|7.8|6.7|740}}
+<!--Exomotive-->
+{{CarListStatsFH4|e|Exomotive Exocet|2018|[[Exomotive Exocet Off-Road]]|fortune|50,000|5.4|7.7|6.8|8.5|7.4|729}}
+<!--Ferrari-->
+{{CarListStatsFH4|l|Ferrari 24 330|1967|[[Ferrari 330 P4|Ferrari #24 Ferrari Spa 330 P4]]|autoshow|10,000,000|7.6|6.8|7.3|8.9|6.0|799}}
+{{CarListStatsFH4|l|Ferrari 166MM|1948|[[Ferrari 166MM Barchetta]]|autoshow|6,500,000|5.7|5.1|5.5|7.1|4.9|554}}
+{{CarListStatsFH4|l|Ferrari 250 57 California|1957|[[Ferrari 250 California]]|autoshow|8,000,000|6.2|4.6|5.2|6.0|4.5|540}}
+{{CarListStatsFH4|l|Ferrari 250 62 GT|1962|[[Ferrari 250 GT Berlinetta Lusso]]|autoshow|2,600,000|6.3|4.7|5.6|7.2|4.6|568}}
+{{CarListStatsFH4|l|Ferrari 250 62 GTO|1962|[[Ferrari 250 GTO]]|autoshow|10,000,000|7.0|5.6|5.3|6.2|4.7|679}}
+{{CarListStatsFH4|l|Ferrari 250LM|1963|[[Ferrari 250LM]]|autoshow|10,000,000|7.1|6.0|5.1|5.9|5.6|732}}
+{{CarListStatsFH4|l|Ferrari 250 57 Testa|1957|[[Ferrari 250 Testa Rossa]]|autoshow|10,000,000|6.9|5.6|6.0|7.7|4.7|704}}
+{{CarListStatsFH4|l|Ferrari 288|1984|[[Ferrari 288 GTO]]|autoshow|3,100,000|7.8|6.2|6.8|8.4|6.1|768}}
+{{CarListStatsFH4|e|Ferrari 360|2003|[[Ferrari 360 Challenge Stradale]]|autoshow|200,000|7.5|7.0|7.1|8.7|7.4|792}}
+{{CarListStatsFH4|e|Ferrari 365|1968|[[Ferrari 365 GTB/4]]|autoshow|600,000|7.5|5.1|5.9|7.1|4.6|641}}
+{{CarListStatsFH4|e|Ferrari 430|2007|[[Ferrari 430 Scuderia]]|autoshow|300,000|8.0|7.4|7.2|8.8|7.9|834}}
+{{CarListStatsFH4|e|Ferrari 458 09|2009|[[Ferrari 458 Italia]]|autoshow|225,000|8.1|7.3|7.3|8.9|7.9|846}}
+{{CarListStatsFH4|e|Ferrari 458 13|2013|[[Ferrari 458 Speciale]]|autoshow|340,000|8.1|8.2|7.6|9.1|8.8|885}}
+{{CarListStatsFH4|e|Ferrari 488 15|2015|[[Ferrari 488 GTB]]|autoshow|290,000|8.5|8.1|7.5|9.1|8.7|883}}
+{{CarListStatsFH4|l|Ferrari 488 19|2019|[[Ferrari 488 Pista]]|htf|250,000|8.0|9.0|8.0|9.4|9.6|912}}
+{{CarListStatsFH4|l|Ferrari 500|1953|[[Ferrari 500 Mondial]]|autoshow|1,000,000|6.1|5.1|4.7|5.0|4.7|544}}
+{{CarListStatsFH4|l|Ferrari 512 70|1970|[[Ferrari 512 S]]|htf|250,000|8.0|8.0|7.9|9.0|7.5|872}}
+{{CarListStatsFH4|e|Ferrari 512 92|1992|[[Ferrari 512 TR]]|autoshow|270,000|7.9|6.3|6.6|7.7|5.8|754}}
+{{CarListStatsFH4|e|Ferrari 575M|2002|[[Ferrari 575M Maranello]]|autoshow|140,000|7.9|6.2|6.6|8.3|6.1|772}}
+{{CarListStatsFH4|e|Ferrari 599|2010|[[Ferrari 599 GTO]]|autoshow|690,000|8.3|7.9|7.3|8.9|8.5|861}}
+{{CarListStatsFH4|l|Ferrari 599XX 10|2010|[[Ferrari 599XX]]|autoshow|1,000,000|7.8|9.4|7.9|9.3|9.9|937}}
+{{CarListStatsFH4|l|Ferrari 599XX 12|2012|[[Ferrari 599XX Evolution]]|htf|250,000|8.9|10|8.1|9.5|10|979}}
+{{CarListStatsFH4|l|Ferrari 812|2017|[[Ferrari 812 Superfast]]|star|other=Story|1,400,000|8.3|8.1|7.1|8.7|8.6|897}}
+{{CarListStatsFH4|e|Ferrari California 14|2014|[[Ferrari California T]]|autoshow|240,000|7.7|6.7|6.8|8.5|7.3|804}}
+{{CarListStatsFH4|e|Ferrari Dino|1969|[[Ferrari Dino 246 GT]]|autoshow|425,000|6.0|4.8|5.0|5.8|4.5|512}}
+{{CarListStatsFH4|l|Ferrari Enzo|2002|[[Ferrari Enzo Ferrari]]|autoshow|2,800,000|8.4|8.0|7.4|8.9|8.4|874}}
+{{CarListStatsFH4|e|Ferrari F12berlinetta|2012|[[Ferrari F12berlinetta]]|autoshow|380,000|8.3|7.3|7.1|8.7|7.9|868}}
+{{CarListStatsFH4|e|Ferrari F12tdf|2015|[[Ferrari F12tdf]]|autoshow|500,000|8.8|8.3|7.3|8.9|9.0|901}}
+{{CarListStatsFH4|l|Ferrari F40 87|1987|[[Ferrari F40]]|autoshow|1,200,000|7.7|7.0|7.5|8.1|7.0|807}}
+{{CarListStatsFH4|l|Ferrari F40 89|1989|[[Ferrari F40 Competizione]]|autoshow|3,000,000|8.5|10|7.0|5.4|10|961}}
+{{CarListStatsFH4|l|Ferrari F50 95|1995|[[Ferrari F50]]|autoshow|2,000,000|7.8|7.1|7.2|8.5|7.4|815}}
+{{CarListStatsFH4|l|Ferrari F50 96|1996|[[Ferrari F50 GT]]|autoshow|1,200,000|8.4|10|8.4|9.5|10|992}}
+{{CarListStatsFH4|l|Ferrari F50 96 WP|1996|[[Ferrari F50 GT|Ferrari F50 GT "Welcome Pack"]]|welcome pack|1,200,000|8.4|10|8.3|9.6|10|998}}
+{{CarListStatsFH4|e|Ferrari F355|1994|[[Ferrari F355 Berlinetta]]|autoshow|190,000|7.4|6.3|6.2|7.4|6.3|737}}
+{{CarListStatsFH4|e|Ferrari FF|2011|[[Ferrari FF]]|autoshow|255,000|8.1|6.6|7.5|8.8|7.2|815}}
+{{CarListStatsFH4|l|Ferrari FXX 05|2005|[[Ferrari FXX]]|car pass|2,500,000|8.3|10|8.7|9.9|10|961}}
+{{CarListStatsFH4|l|Ferrari FXX 14|2014|[[Ferrari FXX K]]|autoshow|2,700,000|8.1|10|8.8|9.9|10|989}}
+{{CarListStatsFH4|e|Ferrari GTC4Lusso|2017|[[Ferrari GTC4Lusso]]|car pass|430,000|8.0|7.3|8.2|9.4|7.9|840}}
+{{CarListStatsFH4|l|Ferrari LaFerrari|2013|[[Ferrari LaFerrari]]|autoshow|1,500,000|9.5|9.8|8.2|9.5|10|966}}
+{{CarListStatsFH4|e|Ferrari Portofino|2018|[[Ferrari Portofino]]|autoshow|215,000|8.2|7.3|7.2|8.8|7.9|834}}
+<!--FIAT-->
+{{CarListStatsFH4|c|FIAT 124|1980|[[FIAT 124 Sport Spider]]|autoshow|25,000|4.9|4.0|4.2|6.5|4.0|244}}
+{{CarListStatsFH4|r|FIAT Dino|1969|[[FIAT Dino 2.4 Coupe]]|htf|250,000|5.7|4.7|5.4|6.9|4.5|468}}
+{{CarListStatsFH4|r|FIAT X1-9 FH4|1975|[[FIAT X1/9]]|htf|250,000|4.8|4.1|4.0|5.7|3.7|127}}
+<!--Ford-->
+{{CarListStatsFH4|l|Ford 2 GT40|1966|[[Ford 2 GT40 Mk II Le Mans|Ford #2 GT40 Mk II Le Mans]]|autoshow|10,000,000|7.8|6.6|6.0|7.2|6.0|795}}
+{{CarListStatsFH4|e|Ford 5 Escort|1977|[[Ford 5 Escort RS1800 MK II|Ford #5 RS1800 MK II]]|htf|250,000|5.4|6.6|6.9|8.6|7.0|729}}
+{{CarListStatsFH4|e|Ford 11 F-150|2014|[[Ford 11 Rockstar F-150 Trophy Truck|Ford #11 Rockstar F-150 Trophy Truck]]|autoshow|500,000|6.4|6.6|6.6|8.0|6.2|785}}
+{{CarListStatsFH4|e|Ford 14 GRC|2017|[[Ford 14 Rahal Letterman Lanigan Racing GRC Fiesta|Ford #14 Rahal Letterman Lanigan Racing GRC Fiesta]]|autoshow|500,000|5.8|7.7|10|10|8.0|880}}
+{{CarListStatsFH4|e|Ford 25 Mustang|2018|[[Ford Mustang RTR|Ford #25 RTR Mustang]]|life|life=da|lvl=19|500,000|6.6|7.9|6.7|8.4|8.0|871}}
+{{CarListStatsFH4|e|Ford 88 Mustang|2018|[[Ford Mustang RTR|Ford #88 RTR Mustang]]|htf|500,000|6.6|7.9|6.7|8.4|8.0|871}}
+{{CarListStatsFH4|c|Ford Anglia|1959|[[Ford Anglia 105E]]|autoshow|20,000|3.9|3.9|3.7|4.9|3.9|100}}
+{{CarListStatsFH4|c|Ford Bronco|1975|[[Ford Bronco]]|autoshow|38,000|5.2|4.2|5.3|7.0|3.9|379}}
+{{CarListStatsFH4|e|Ford Bronco BJ|1975|[[Ford Bronco Barrett-Jackson Edition]]|jackson|105,000|5.4|6.3|6.6|8.1|5.7|630}}
+{{CarListStatsFH4|r|Ford Capri|1973|[[Ford Capri RS3100]]|autoshow|55,000|5.7|4.7|5.4|6.9|4.4|478}}
+{{CarListStatsFH4|fe|Ford Capri FE|1973|[[Ford Capri RS3100 Forza Edition|Ford Capri RS3100 ''F.E.'']]|star|other=Complete all challenges|305,000|5.7|6.5|5.5|7.1|5.3|613}}
+{{CarListStatsFH4|c|Ford Crown|2010|[[Ford Crown Victoria Police Interceptor]]|spin|25,000|6.0|5.1|4.9|5.6|4.7|521}}
+{{CarListStatsFH4|e|Ford Custom|1932|[[Ford Custom "Double Down"]]|jackson|105,000|8.6|8.0|10.0|10.0|8.2|927}}
+{{CarListStatsFH4|c|Ford De 40|1940|[[Ford De Luxe Coupe]]|autoshow|44,000|4.4|3.8|4.1|5.5|3.7|100}}
+{{CarListStatsFH4|c|Ford De 32|1932|[[Ford De Luxe Five-Window Coupe]]|autoshow|35,000|4.4|3.8|3.9|5.9|3.2|100}}
+{{CarListStatsFH4|r|Ford Escort 73|1973|[[Ford Escort RS1600]]|autoshow|73,000|5.2|5.0|5.4|6.7|4.8|440}}
+{{CarListStatsFH4|r|Ford Escort 77|1977|[[Ford Escort RS1800]]|autoshow|88,000|5.2|4.0|5.1|6.5|3.7|311}}
+{{CarListStatsFH4|r|Ford Escort 92|1992|[[Ford Escort RS Cosworth]]|autoshow|66,000|6.0|5.3|6.0|8.0|5.3|566}}
+{{CarListStatsFH4|r|Ford Escort 86|1986|[[Ford Escort RS Turbo]]|barn|25,000|5.5|5.2|5.7|7.3|4.9|506}}
+{{CarListStatsFH4|c|Ford F-100|1956|[[Ford F-100]]|autoshow|36,000|4.9|3.7|4.9|6.1|3.7|221}}
+{{CarListStatsFH4|e|Ford F-150 18|2018|[[Ford F-150 Prerunner DeBerti Design Truck]]|life|life=te|lvl=15|250,000|6.5|6.3|7.4|9.0|6.3|750}}
+{{CarListStatsFH4|c|Ford F-150 17|2017|[[Ford F-150 Raptor]]|autoshow|63,000|5.8|5.9|6.4|8.5|5.4|627}}
+{{CarListStatsFH4|r|Ford F-150 11|2011|[[Ford F-150 SVT Raptor]]|spin|42,000|6.1|5.5|5.8|7.2|4.9|564}}
+{{CarListStatsFH4|r|Ford Falcon 15|2015|[[Ford Falcon GT F 351]]|autoshow|60,000|7.5|6.1|6.2|7.8|6.4|739}}
+{{CarListStatsFH4|r|Ford Falcon 72|1972|[[Ford Falcon XA GT-HO]]|autoshow|80,000|7.0|4.9|5.5|6.9|4.6|608}}
+{{CarListStatsFH4|fe|Ford Falcon 72 FE|1972|[[Ford Falcon XA GT-HO Forza Edition|Ford Falcon XA GT-HO ''F.E.'']]|spin|330,000|7.0|7.4|7.2|8.5|6.8|811}}
+{{CarListStatsFH4|c|Ford Fiesta 14|2014|[[Ford Fiesta ST]]|autoshow|25,000|6.1|6.1|5.8|7.4|5.7|621}}
+{{CarListStatsFH4|c|Ford Fiesta 81|1981|[[Ford Fiesta XR2]]|autoshow|25,000|4.8|4.7|4.9|6.4|4.6|324}}
+{{CarListStatsFH4|c|Ford Focus 03|2003|[[Ford Focus RS (2003)|Ford Focus RS]]|autoshow|30,000|6.0|6.2|6.0|7.7|6.4|649}}
+{{CarListStatsFH4|c|Ford Focus 09|2009|[[Ford Focus RS (2009)|Ford Focus RS]]|autoshow|25,000|6.3|6.3|6.0|7.6|6.5|696}}
+{{CarListStatsFH4|r|Ford Focus 17|2017|[[Ford Focus RS (2017)|Ford Focus RS]]|autoshow|59,000|6.9|6.3|7.3|9.2|6.5|718}}
+{{CarListStatsFH4|r|Ford Focus 17 PO|2017|[[Ford Focus RS Preorder Car]]|po|other=/ [[Forza Horizon 4/Cars/Hard-to-Find|Forzathon Shop]]|59,000|7.4|6.7|9.2|10|7.4|800}}
+{{CarListStatsFH4|r|Ford FPV|2014|[[Ford FPV Limited Edition Pursuit Ute]]|autoshow|50,000|7.0|5.8|6.1|7.7|5.9|710}}
+{{CarListStatsFH4|e|Ford GT 05|2005|[[Ford GT (2005)|Ford GT]]|autoshow|300,000|8.1|7.1|6.4|7.3|7.4|810}}
+{{CarListStatsFH4|e|Ford GT 17|2017|[[Ford GT (2017)|Ford GT]]|autoshow|400,000|8.6|8.4|7.5|9.0|8.9|900}}
+{{CarListStatsFH4|l|Ford GT 17 WP|2017|[[Ford GT (2017)|Ford GT "Welcome Pack"]]|welcome pack|400,000|9.2|10|8.3|9.6|10|998}}
+{{CarListStatsFH4|l|Ford GT40 64|1964|[[Ford GT40 Mk I]]|barn|9,000,000|7.4|6.4|6.2|7.4|5.7|772}}
+{{CarListStatsFH4|l|Ford GT70|1970|[[Ford GT70]]|htf|250,000|5.9|6.6|5.9|7.0|5.9|694}}
+{{CarListStatsFH4|c|Ford Lotus|1966|[[Ford Lotus Cortina]]|autoshow|50,000|5.1|4.6|5.3|6.7|4.6|379}}
+{{CarListStatsFH4|e|Ford M-Sport|2017|[[Ford M-Sport Fiesta RS]]|autoshow|500,000|5.9|7.9|9.9|10|8.2|819}}
+{{CarListStatsFH4|r|Ford Mustang 68|1968|[[Ford Mustang 2+2 Fastback]]|car pass|50,000|6.4|4.5|5.1|6.5|4.2|505}}
+{{CarListStatsFH4|l|Ford Mustang 69|1969|[[Ford Mustang Boss 302]]|life|life=dc|lvl=10|230,000|6.3|5.0|5.0|5.8|4.6|564}}
+{{CarListStatsFH4|r|Ford Mustang 18 GT|2018|[[Ford Mustang GT (2018)|Ford Mustang GT]]|autoshow|40,000|7.5|6.5|6.4|8.1|6.6|778}}
+{{CarListStatsFH4|r|Ford Mustang 65|1965|[[Ford Mustang GT Coupe]]|autoshow|46,000|6.0|4.4|5.1|6.4|4.3|507}}
+{{CarListStatsFH4|e|Ford Mustang 18 DeBerti|2018|[[Ford Mustang GT DeBerti Design]]|car pass|500,000|8.2|7.1|7.2|8.8|7.3|835}}
+{{CarListStatsFH4|e|Ford Mustang 71|1971|[[Ford Mustang Mach 1]]|autoshow|45,000|5.7|4.8|5.1|6.4|4.4|561}}
+{{CarListStatsFH4|e|Ford Mustang 18 RTR|2018|[[Ford Mustang RTR Spec 5]]|htf|500,000|7.1|6.8|6.4|8.1|6.8|780}}
+{{CarListStatsFH4|e|Ford Mustang 20|2020|[[Ford Mustang Shelby GT500]]|htf|250,000|7.9|7.9|7.0|8.6|8.4|863}}
+{{CarListStatsFH4|r|Ford Racing|1999|[[Ford Racing Puma]]|htf|250,000|5.7|6.1|5.3|6.7|5.6|549}}
+{{CarListStatsFH4|c|Ford Ranger 19|2019|[[Ford Ranger Raptor]]|autoshow|58,000|5.5|5.8|4.6|7.3|5.6|498}}
+{{CarListStatsFH4|e|Ford Ranger 14|2014|[[Ford Ranger T6 Rally Raid]]|autoshow|500,000|5.4|5.8|7.0|10|5.8|703}}
+{{CarListStatsFH4|e|Ford Roadster|1932|[[Ford Roadster "Hula Girl"]]|jackson|105,000|5.2|5.7|6.1|7.8|5.1|590}}
+{{CarListStatsFH4|l|Ford RS200|1985|[[Ford RS200 Evolution|Ford RS200]]|life|life=dr|lvl=4|260,000|6.2|7.4|8.2|8.0|7.2|839}}
+{{CarListStatsFH4|e|Ford Shelby 16|2016|[[Ford Shelby GT350R]]|autoshow|75,000|7.7|8.1|7.2|8.8|8.5|840}}
+{{CarListStatsFH4|e|Ford Shelby 13|2013|[[Ford Shelby GT500 (2013)|Ford Shelby GT500]]|autoshow|115,000|7.8|6.4|6.1|7.7|6.4|774}}
+{{CarListStatsFH4|r|Ford Sierra|1987|[[Ford Sierra Cosworth RS500]]|autoshow|66,000|6.4|5.7|6.1|7.7|5.2|608}}
+{{CarListStatsFH4|c|Ford Super|1946|[[Ford Super Deluxe Station Wagon]]|autoshow|75,000|4.6|3.7|3.7|5.4|3.6|100}}
+{{CarListStatsFH4|e|Ford Supervan|1994|[[Ford Supervan 3]]|htf|500,000|5.8|9.4|8.2|9.6|10|828}}
+{{CarListStatsFH4|c|Ford SVT 93|1993|[[Ford SVT Cobra R (1993)|Ford SVT Cobra R]]|spin|28,000|6.1|4.8|5.5|7.0|4.9|533}}
+{{CarListStatsFH4|c|Ford SVT 00|2000|[[Ford SVT Cobra R (2000)|Ford SVT Cobra R]]|autoshow|55,000|7.3|5.7|5.8|7.4|5.6|682}}
+{{CarListStatsFH4|c|Ford Transit 65|1965|[[Ford Transit]]|car pass|25,000|3.8|4.1|3.4|3.0|4.4|100}}
+{{CarListStatsFH4|r|Ford Transit 11|2011|[[Ford Transit SuperSportVan]]|autoshow|50,000|5.4|5.1|4.6|7.1|5.1|416}}
+{{CarListStatsFH4|fe|Ford Transit 11 FE|2011|[[Ford Transit SuperSportVan Forza Edition|Ford Transit SuperSportVan ''F.E.'']]|vip|50,000|5.4|9.4|5.4|8.5|9.4|695}}
+{{CarListStatsFH4|r|Ford XB|1973|[[Ford XB Falcon GT]]|spin|60,000|6.0|4.7|5.1|6.4|4.5|529}}
+<!--Formula Drift-->
+{{CarListStatsFH4|e|FD Ford 13 Mustang|2015|[[Formula Drift 13 Ford Mustang|Formula Drift #13 Ford Mustang]]|formula|300,000|6.6|7.6|6.6|8.3|7.7|852}}
+{{CarListStatsFH4|e|FD Dodge 43 Viper|2006|[[Formula Drift 43 Dodge Viper SRT10|Formula Drift #43 Dodge Viper SRT10]]|formula|300,000|7.7|7.8|6.6|8.2|7.9|859}}
+{{CarListStatsFH4|e|FD 64 Nissan 370Z|2018|[[Formula Drift 64 Nissan 370Z|Formula Drift #64 Nissan 370Z]]|htf|500,000|7.8|7.7|6.7|8.4|7.6|884}}
+{{CarListStatsFH4|e|FD BMW 98 325i|1989|[[Formula Drift 98 BMW 325i|Formula Drift #98 BMW 325i]]|formula|300,000|7.4|7.2|6.6|8.2|7.2|837}}
+{{CarListStatsFH4|e|FD Ferrari 117 599|2007|[[Formula Drift 117 599 GTB Fiorano|Formula Drift #117 599 GTB Fiorano]]|htf|500,000|7.3|8.2|7.2|8.8|8.3|896}}
+{{CarListStatsFH4|e|FD Nissan 118 240SX|1995|[[Formula Drift 118 Nissan 240SX|Formula Drift #118 Nissan 240SX]]|formula|300,000|6.5|7.6|6.9|8.5|7.6|860}}
+{{CarListStatsFH4|e|FD Nissan 232 240SX|1996|[[Formula Drift 232 Nissan 240SX|Formula Drift #232 Nissan 240SX]]|formula|300,000|7.5|7.6|6.5|8.2|7.6|859}}
+{{CarListStatsFH4|e|FD HSV 530 Maloo|2016|[[Formula Drift 530 HSV Maloo Gen-F|Formula Drift #530 HSV Maloo Gen-F]]|formula|300,000|7.9|7.3|6.2|7.9|7.4|836}}
+{{CarListStatsFH4|e|FD Chevy 777 Corvette|2013|[[Formula Drift 777 Chevrolet Corvette|Formula Drift #777 Chevrolet Corvette]]|htf|500,000|7.0|7.8|6.6|8.3|7.8|885}}
+{{CarListStatsFH4|e|FD Nissan 777 240SX|1997|[[Formula Drift 777 Nissan 240SX|Formula Drift #777 Nissan 240SX]]|formula|300,000|7.3|7.5|6.8|8.4|7.5|861}}
+<!--Funco-->
+{{CarListStatsFH4|e|FM F9|2018|[[Funco Motorsports F9]]|fortune|500,000|6.0|6.7|8.7|9.9|6.7|860}}
+<!--GMC-->
+{{CarListStatsFH4|e|GMC Syclone FH4|1991|[[GMC Syclone]]|htf|250,000|6.1|4.7|6.9|8.4|4.6|545}}
+{{CarListStatsFH4|e|GMC Typhoon|1992|[[GMC Typhoon]]|htf|250,000|5.9|4.6|6.2|7.7|4.5|510}}
+{{CarListStatsFH4|c|GMC Vandura|1983|[[GMC Vandura G-1500]]|autoshow|25,000|4.7|3.9|4.3|5.4|3.8|151}}
+<!--HDT-->
+{{CarListStatsFH4|r|HDT VK|1985|[[HDT VK Commodore Group A]]|autoshow|28,000|5.9|4.8|5.5|6.6|4.6|545}}
+<!--Hennessey-->
+{{CarListStatsFH4|l|Hennessey VelociRaptor|2019|[[Hennessey VelociRaptor 6x6]]|htf|350,000|6.0|6.6|7.1|8.9|6.4|705}}
+{{CarListStatsFH4|l|Hennessey Venom|2012|[[Hennessey Venom GT]]|autoshow|1,200,000|10|8.3|7.6|9.1|8.7|930}}
+<!--Hillman-->
+{{CarListStatsFH4|c|Hillman Imp|1966|[[Hillman Imp]]|car pass|25,000|4.3|4.0|3.7|5.6|3.8|100}}
+<!--Holden-->
+{{CarListStatsFH4|c|Holden HQ|1973|[[Holden HQ Monaro GTS 350]]|autoshow|75,000|5.7|4.7|5.3|6.7|4.4|524}}
+{{CarListStatsFH4|c|Holden Sandman|1974|[[Holden Sandman HQ Panel Van]]|autoshow|55,000|5.7|4.7|5.4|6.9|4.5|500}}
+{{CarListStatsFH4|r|Holden Torana|1977|[[Holden Torana A9X]]|autoshow|130,000|5.8|4.7|5.1|6.5|4.5|507}}
+{{CarListStatsFH4|r |Holden VL FH4|1988|[[Holden VL Commodore Group A SV]]|htf|250,000|6.5|5.2|5.7|6.8|5.2|578}}
+<!--Honda-->
+{{CarListStatsFH4|e|Honda Civic 16 Coupe|2016|[[Honda Civic Coupe GRC]]|car pass|155,000|5.8|7.8|10|10|8.0|878}}
+{{CarListStatsFH4|c|Honda Civic 84|1984|[[Honda Civic CRX Mugen]]|htf|40,000|5.7|5.0|4.9|5.4|4.7|492}}
+{{CarListStatsFH4|c|Honda Civic 74|1974|[[Honda Civic RS]]|car pass|25,000|5.0|4.7|4.3|6.7|4.3|320}}
+{{CarListStatsFH4|c|Honda Civic 97|1997|[[Honda Civic Type R (1997)|Honda Civic Type R]]|autoshow|25,000|6.2|5.3|5.5|6.8|5.2|551}}
+{{CarListStatsFH4|c|Honda Civic 04|2004|[[Honda Civic Type-R (2004)|Honda Civic Type-R]]|spin|25,000|6.2|5.8|5.7|7.2|5.5|610}}
+{{CarListStatsFH4|c|Honda Civic 07|2007|[[Honda Civic Type-R (2007)|Honda Civic Type-R]]|autoshow|20,000|6.1|6.2|5.7|6.9|5.3|576}}
+{{CarListStatsFH4|c|Honda Civic 15|2015|[[Honda Civic Type R (2015)|Honda Civic Type R]]|autoshow|38,000|7.0|6.4|6.1|7.7|6.6|714}}
+{{CarListStatsFH4|r|Honda Civic 18|2018|[[Honda Civic Type R (2018)|Honda Civic Type R]]|htf|59,000|7.4|6.7|6.0|7.7|6.8|745}}
+{{CarListStatsFH4|c|Honda CR-X|1991|[[Honda CR-X SiR]]|autoshow|20,000|6.0|5.1|5.0|6.0|4.7|504}}
+{{CarListStatsFH4|e|Honda NSX-R 92|1992|[[Honda NSX-R (1992)|Honda NSX-R]]|autoshow|90,000|6.9|6.3|6.6|7.7|6.4|707}}
+{{CarListStatsFH4|e|Honda NSX-R 05|2005|[[Honda NSX-R (2005)|Honda NSX-R]]|spin|150,000|7.0|6.4|6.6|7.8|5.9|714}}
+{{CarListStatsFH4|e|Honda NSX-R 05 GT|2005|[[Honda NSX-R GT]]|car pass|500,000|7.0|6.9|6.9|8.3|6.8|744}}
+{{CarListStatsFH4|c|Honda Prelude|1994|[[Honda Prelude Si]]|htf|250,000|5.9|5.3|5.5|7.3|4.8|500}}
+{{CarListStatsFH4|e|Honda Ridgeline|2015|[[Honda Ridgeline Baja Trophy Truck]]|autoshow|500,000|6.0|6.4|6.8|8.5|6.2|751}}
+{{CarListStatsFH4|r|Honda S800|1970|[[Honda S800]]|htf|250,000|4.7|4.0|5.3|6.8|3.9|193}}
+{{CarListStatsFH4|c|Honda S2000 03|2003|[[Honda S2000]]|car pass|25,000|6.6|5.4|5.9|7.4|4.9|618}}
+{{CarListStatsFH4|c|Honda S2000 09|2009|[[Honda S2000 CR]]|autoshow|25,000|6.4|6.2|6.2|7.5|5.3|647}}
+<!--Hoonigan-->
+{{CarListStatsFH4|e|Hoonigan Chevy Bel|1955|[[Hoonigan Chevrolet Bel Air]]|autoshow|76,000|6.5|4.3|5.8|6.9|4.5|571}}
+{{CarListStatsFH4|e|Hoonigan Chevy Nova|1972|[[Hoonigan Chevrolet "Napalm Nova"]]|spin|50,000|7.3|6.3|6.4|8.1|6.7|765}}
+{{CarListStatsFH4|e|Hoonigan Ford Bronco|1974|[[Hoonigan Ford Bronco]]|htf|200,000|5.8|8.5|8.4|10|8.2|721}}
+{{CarListStatsFH4|e|Hoonigan Ford Escort 78|1978|[[Hoonigan Ford Escort RS1800]]|autoshow|300,000|6.7|7.7|6.6|8.3|8.2|828}}
+{{CarListStatsFH4|l|Hoonigan Ford Mustang|1965|[[Hoonigan Ford "Hoonicorn" Mustang]]|autoshow|500,000|9.3|8.2|10|10|8.5|985}}
+{{CarListStatsFH4|l|Hoonigan Ford RS200|1986|[[Hoonigan Ford RS200 Evolution]]|htf|500,000|8.0|8.2|10|10|7.9|932}}
+{{CarListStatsFH4|e|Hoonigan Ford Fiesta 15|2015|[[Hoonigan Gymkhana 8 Ford Fiesta ST RX43]]|fortune|500,000|5.9|7.9|10|10|8.5|886}}
+{{CarListStatsFH4|l|Hoonigan Ford Focus 16|2016|[[Hoonigan Gymkhana 9 Ford Focus RS RX]]|autoshow|500,000|5.9|7.9|10|10|8.5|886}}
+{{CarListStatsFH4|l|Hoonigan Ford Focus 16 WP|2016|[[Hoonigan Gymkhana 9 Ford Focus RS RX|Hoonigan Gymkhana 9 Ford Focus RS RX "Welcome Pack"]]|welcome pack|500,000|6.6|8.1|10|10|8.6|900}}
+{{CarListStatsFH4|e|Hoonigan Ford Escort 91|1991|[[Hoonigan Gymkhana 10 Ford Escort Cosworth Group A]]|car pass|500,000|7.9|7.4|10|10|7.5|880}}
+{{CarListStatsFH4|e|Hoonigan Ford F-150|1977|[[Hoonigan Gymkhana 10 Ford F-150 'Hoonitruck']]|car pass|500,000|6.8|8.2|9.2|10|8.7|916}}
+{{CarListStatsFH4|e|Hoonigan Ford Fiesta 17|2017|[[Hoonigan Gymkhana 10 Ford Fiesta ST]]|htf|500,000|5.7|8.2|9.0|10|8.4|828}}
+{{CarListStatsFH4|l|Hoonigan Ford Focus 16 G10|2016|[[Hoonigan Gymkhana 10 Ford Focus RS RX]]|life|life=sks|lvl=10|500,000|5.9|7.9|10|10|8.5|886}}
+{{CarListStatsFH4|l|Hoonigan Ford Mustang 65 G10|1965|[[Hoonigan Gymkhana 10 Ford Hoonicorn Mustang]]|htf|500,000|9.0|8.2|10|10|8.5|985}}
+{{CarListStatsFH4|e|Hoonigan Mazda RX-7|1992|[[Hoonigan Mazda RX-7 Twerkstallion]]|autoshow|50,000|8.6|7.3|6.3|8.0|7.3|838}}
+{{CarListStatsFH4|e|Hoonigan Porsche 911|1991|[[Hoonigan Rauh-Welt Begriff Porsche 911 Turbo]]|life|life=ss|lvl=17|160,000|7.3|8.6|8.2|9.5|8.5|850}}
+<!--Hot Wheels-->
+{{CarListStatsFH4|l|HW 2JetZ|2018|[[Hot Wheels 2JetZ]]|hw|100,000|7.2|8.0|8.3|9.7|8.3|889}}
+{{CarListStatsFH4|l|HW Bone FH4|2011|[[Hot Wheels Bone Shaker]]|htf|150,000|6.7|7.0|6.9|8.5|7.4|795}}
+{{CarListStatsFH4|l|HW Chevy LUV|1972|[[Hot Wheels Chevrolet LUV]]|hw|100,000|6.1|5.2|7.0|8.2|5.4|663}}
+{{CarListStatsFH4|l|HW Ford F-5|1949|[[Hot Wheels Ford F-5 Dually Custom Hot Rod]]|hw|100,000|5.6|6.5|7.0|8.7|5.7|634}}
+{{CarListStatsFH4|e|HW Ford Mustang FH4|2005|[[Hot Wheels Ford Mustang]]|htf|300,000|7.1|9.2|7.3|8.8|9.7|841}}
+{{CarListStatsFH4|l|HW International-Harvester Loadstar|1969|[[Hot Wheels International-Harvester Loadstar CO-1600]]|hw|100,000|5.2|5.2|6.0|7.0|6.1|563}}
+{{CarListStatsFH4|l|HW Nash Metropolitan|1957|[[Hot Wheels Nash Metropolitan Custom]]|hw|100,000|6.4|4.7|5.2|6.6|4.5|559}}
+{{CarListStatsFH4|e|HW Rip FH4|2017|[[Hot Wheels Rip Rod]]|star|other=PR Stunt|300,000|6.2|6.4|7.3|8.8|6.3|747}}
+{{CarListStatsFH4|l|HW Studebaker Golden|1957|[[Hot Wheels Studebaker Golden Hawk 'Dream Roadster']]|hw|100,000|6.2|5.3|6.3|7.6|5.9|701}}
+{{CarListStatsFH4|l|HW Twin FH4|1969|[[Hot Wheels Twin Mill]]|htf|110,000|8.8|6.6|6.2|7.9|7.1|821}}
+<!--HSV-->
+{{CarListStatsFH4|r|HSV GEN-F|2014|[[HSV GEN-F GTS]]|autoshow|75,000|7.6|6.1|6.2|7.8|6.4|747}}
+{{CarListStatsFH4|r|HSV GTS|2011|[[HSV GTS]]|htf|250,000|7.2|6.1|6.2|7.6|6.1|713}}
+{{CarListStatsFH4|r|HSV GTSR FH4|1996|[[HSV GTSR]]|htf|250,000|6.7|6.1|5.9|7.5|5.3|669}}
+{{CarListStatsFH4|r|HSV Limited|2014|[[HSV Limited Edition Gen-F GTS Maloo]]|autoshow|62,000|7.1|6.4|6.2|7.8|6.9|764}}
+<!--Hudson-->
+{{CarListStatsFH4|r|Hudson Hornet|1952|[[Hudson Hornet]]|htf|66,000|5.0|4.2|4.8|6.5|4.3|305}}
+<!--Hummer-->
+{{CarListStatsFH4|r|Hummer H1|2006|[[Hummer H1 Alpha]]|spin|112,000|5.2|5.4|4.0|6.2|4.9|391}}
+{{CarListStatsFH4|r|Hummer H1 06 Open|2006|[[Hummer H1 Alpha Open Top]]|htf|250,000|5.1|5.4|4.1|6.5|5.0|382}}
+<!--Hyundai-->
+{{CarListStatsFH4|c|Hyundai Veloster 19|2019|[[Hyundai Veloster N]]|autoshow|30,000|6.7|5.8|6.0|7.6|5.8|657}}
+<!--Infiniti-->
+{{CarListStatsFH4|r|Infiniti Q50|2014|[[Infiniti Q50 Eau Rouge]]|autoshow|100,000|8.1|6.4|9.2|10|6.8|783}}
+{{CarListStatsFH4|r|Infiniti Q60|2015|[[Infiniti Q60 Concept]]|autoshow|50,000|7.4|6.3|6.1|7.7|6.6|757}}
+<!--International-->
+{{CarListStatsFH4|c|International Scout|1970|[[International Scout 800A]]|autoshow|40,000|5.1|4.1|4.6|7.6|3.8|334}}
+<!--Italdesign-->
+{{CarListStatsFH4|e|Italdesign Zerouno|2018|[[Italdesign Zerouno]]|htf|250,000|8.0|8.7|10|10|9.3|893}}
+<!--Jaguar-->
+{{CarListStatsFH4|l|Jaguar C-Type|1953|[[Jaguar C-Type]]|car pass|5,000,000|6.4|4.1|5.2|6.6|4.0|495}}
+{{CarListStatsFH4|l|Jaguar D-Type|1956|[[Jaguar D-Type]]|autoshow|10,000,000|6.4|4.2|5.1|6.4|3.6|513}}
+{{CarListStatsFH4|l|Jaguar E-type|1961|[[Jaguar E-type S1]]|barn|150,000|6.0|5.0|5.7|7.0|4.7|539}}
+{{CarListStatsFH4|c|Jaguar F-PACE|2017|[[Jaguar F-PACE S]]|autoshow|55,000|6.6|5.9|7.0|8.7|6.0|698}}
+{{CarListStatsFH4|e|Jaguar F-TYPE 16|2016|[[Jaguar F-TYPE Project 7]]|autoshow|190,000|7.5|7.0|6.4|8.0|7.4|805}}
+{{CarListStatsFH4|e|Jaguar F-TYPE 15|2015|[[Jaguar F-TYPE R Coupé]]|autoshow|110,000|7.9|6.5|6.4|8.1|6.9|795}}
+{{CarListStatsFH4|epic |Jaguar I-Pace|2018|[[Jaguar I-Pace]]|htf|250,000|5.5|5.9|6.2|7.8|5.9|706}}
+{{CarListStatsFH4|l|Jaguar Lightweight|1964|[[Jaguar Lightweight E-Type]]|autoshow|10,000,000|6.9|5.5|6.0|7.7|5.5|707}}
+{{CarListStatsFH4|c|Jaguar Mk|1959|[[Jaguar Mk II 3.8]]|autoshow|80,000|5.5|4.5|5.1|6.5|4.8|414}}
+{{CarListStatsFH4|c|Jaguar XE-S|2015|[[Jaguar XE-S]]|autoshow|57,000|7.3|5.5|6.0|7.7|5.3|660}}
+{{CarListStatsFH4|l|Jaguar XJ220|1993|[[Jaguar XJ220]]|barn|350,000|8.3|6.8|6.8|7.6|7.1|811}}
+{{CarListStatsFH4|r|Jaguar XFR-S|2015|[[Jaguar XFR-S]]|autoshow|110,000|8.0|6.2|6.3|7.9|6.5|755}}
+{{CarListStatsFH4|c|Jaguar XJ-S|1990|[[Jaguar XJ-S]]|autoshow|25,000|6.8|4.7|4.8|5.7|4.8|557}}
+{{CarListStatsFH4|r|Jaguar XK120|1954|[[Jaguar XK120 SE]]|autoshow|120,000|5.8|4.5|5.7|7.1|4.4|469}}
+{{CarListStatsFH4|e|Jaguar XKR-S 12|2012|[[Jaguar XKR-S (2012)|Jaguar XKR-S]]|autoshow|100,000|7.9|6.5|6.2|7.8|6.7|782}}
+{{CarListStatsFH4|e|Jaguar XKR-S 15|2015|[[Jaguar XKR-S GT]]|life|life=rr|lvl=16|190,000|7.7|6.9|6.4|8.1|7.5|798}}
+<!--James Bond Edition-->
+{{CarListStatsFH4|c|JBE AMC Hornet|1974|[[James Bond Edition AMC Hornet X Hatchback]]|bond|35,000|5.7|4.3|5.1|6.4|4.2|414}}
+{{CarListStatsFH4|l|JBE AM DB5|1964|[[James Bond Edition Aston Martin DB5]]|bond|650,000|6.3|5.0|5.7|7.2|4.7|618}}
+{{CarListStatsFH4|l|JBE AM DB10|2015|[[James Bond Edition Aston Martin DB10]]|bond|220,000|7.7|7.4|6.9|8.5|8.0|814}}
+{{CarListStatsFH4|r|JBE AM DBS 69|1969|[[James Bond Edition Aston Martin DBS (1969)|James Bond Edition Aston Martin DBS]]|bond|650,000|7.0|5.0|5.8|7.4|5.0|612}}
+{{CarListStatsFH4|e|JBE AM DBS 08|2008|[[James Bond Edition Aston Martin DBS (2008)|James Bond Edition Aston Martin DBS]]|bond|325,000|7.7|6.9|6.5|8.2|7.4|779}}
+{{CarListStatsFH4|e|JBE AM V8|1986|[[James Bond Edition Aston Martin V8]]|bond|200,000|6.9|5.3|5.7|6.8|4.9|620}}
+{{CarListStatsFH4|r|JBE BMW Z8|1999|[[James Bond Edition BMW Z8]]|bond|150,000|6.9|6.3|6.3|8.0|5.7|720}}
+{{CarListStatsFH4|c|JBE Citroen 2CV6|1981|[[James Bond Edition Citroën 2CV6]]|bond|80,000|4.1|3.9|4.1|4.8|3.8|100}}
+{{CarListStatsFH4|l|JBE Jaguar C-X75|2010|[[James Bond Edition Jaguar C-X75]]|bond|1,500,000|8.3|7.9|9.8|10|8.5|900}}
+{{CarListStatsFH4|l|JBE Lotus Esprit|1977|[[James Bond Edition Lotus Esprit S1]]|bond|550,000|5.7|5.6|5.6|6.8|5.1|541}}
+<!--Jeep-->
+{{CarListStatsFH4|c|Jeep CJ5|1976|[[Jeep CJ5 Renegade]]|autoshow|60,000|4.8|4.7|6.0|8.9|4.6|417}}
+{{CarListStatsFH4|l|Jeep CJ5 WP|1976|[[Jeep CJ5 Renegade|Jeep CJ5 Renegade "Welcome Pack"]]|welcome pack|60,000|5.6|6.1|7.7|9.0|5.6|700}}
+{{CarListStatsFH4|l|Jeep Gladiator|2020|[[Jeep Gladiator Rubicon]]|htf|250,000|5.7|4.8|5.4|7.1|4.7|498}}
+{{CarListStatsFH4|c|Jeep Grand 14|2014|[[Jeep Grand Cherokee SRT]]|spin|80,000|6.7|6.0|7.5|9.3|6.1|711}}
+{{CarListStatsFH4|r|Jeep Grand 18|2018|[[Jeep Grand Cherokee Trackhawk]]|life|life=ccs|lvl=8|73,000|7.4|6.2|9.3|10|6.7|780}}
+{{CarListStatsFH4|e|Jeep Trailcat|2016|[[Jeep Trailcat]]|life|life=ccs|lvl=3|75,000|6.8|6.5|7.0|8.1|5.6|790}}
+{{CarListStatsFH4|e|Jeep Wrangler 13|2013|[[Jeep Wrangler Unlimited DeBerti Design]]|htf|250,000|5.6|6.6|7.7|8.7|6.5|796}}
+{{CarListStatsFH4|c|Jeep Wrangler 12|2012|[[Jeep Wrangler Rubicon]]|autoshow|50,000|5.6|4.8|5.7|7.3|4.3|488}}
+<!--Kia-->
+{{CarListStatsFH4|c|Kia Stinger|2018|[[Kia Stinger]]|autoshow|46,000|7.3|6.0|6.2|7.8|5.9|715}}
+<!--Koenigsegg-->
+{{CarListStatsFH4|l|Koenigsegg Agera|2011|[[Koenigsegg Agera]]|autoshow|1,500,000|9.6|8.5|7.3|8.9|8.9|920}}
+{{CarListStatsFH4|l|Koenigsegg Agera 17|2017|[[Koenigsegg Agera RS]]|car pass|2,000,000|10|9.5|7.5|9.0|10|996}}
+{{CarListStatsFH4|l|Koenigsegg CC8S|2002|[[Koenigsegg CC8S]]|fortune|other=Treasure Chest #5|320,000|9.0|8.4|7.3|8.3|8.5|883}}
+{{CarListStatsFH4|l|Koenigsegg CCGT|2008|[[Koenigsegg CCGT]]|htf|250,000|7.8|10|7.9|9.3|10|986}}
+{{CarListStatsFH4|l|Koenigsegg CCX|2006|[[Koenigsegg CCX]]|htf|250,000|9.0|7.9|7.3|8.8|8.3|881}}
+{{CarListStatsFH4|l|Koenigsegg Jesko|2020|[[Koenigsegg Jesko]]|htf|2,800,000|10|9.7|8.3|9.6|10|998}}
+{{CarListStatsFH4|l|Koenigsegg One-1|2015|[[Koenigsegg One:1]]|autoshow|2,850,000|10|9.8|7.5|9.0|10|993}}
+{{CarListStatsFH4|l|Koenigsegg Regera|2016|[[Koenigsegg Regera]]|autoshow|1,900,000|9.2|9.1|7.3|8.9|9.7|972}}
+<!--KTM-->
+{{CarListStatsFH4|e|KTM X-Bow 18|2018|[[KTM X-Bow GT4]]|htf|400,000|6.3|10|6.7|7.9|10|861}}
+{{CarListStatsFH4|e|KTM X-Bow 13|2013|[[KTM X-Bow R]]|autoshow|105,000|6.0|9.1|7.5|9.1|9.8|819}}
+<!--Lamborghini-->
+{{CarListStatsFH4|e|Lambo Aventador 12 J|2012|[[Lamborghini Aventador J]]|fortune|other=Treasure Chest #10|2,700,000|8.3|7.9|9.4|10|8.3|871}}
+{{CarListStatsFH4|e|Lambo Aventador 12|2012|[[Lamborghini Aventador LP700-4]]|autoshow|310,000|8.7|7.8|9.8|10|8.3|882}}
+{{CarListStatsFH4|l|Lambo Aventador 12|2012|[[Lamborghini Aventador LP700-4|Lamborghini Aventador LP700-4 "Welcome Pack"]]|welcome pack|310,000|8.7|8.4|9.8|10|8.8|900}}
+{{CarListStatsFH4|fe|Lambo Aventador 12 FE|2012|[[Lamborghini Aventador LP700-4 Forza Edition|Lamborghini Aventador LP700-4 ''F.E.'']]|spin|560,000|9.0|8.5|10|10|8.4|997}}
+{{CarListStatsFH4|e|Lambo Aventador 16|2016|[[Lamborghini Aventador Superveloce]]|spin|480,000|8.7|8.7|10|10|9.1|906}}
+{{CarListStatsFH4|l|Lambo Centenario|2016|[[Lamborghini Centenario LP 770-4]]|autoshow|2,300,000|8.6|9.4|10|10|9.8|918}}
+{{CarListStatsFH4|e|Lambo Countach|1988|[[Lamborghini Countach LP5000 QV]]|autoshow|220,000|7.4|6.6|6.4|7.5|6.0|759}}
+{{CarListStatsFH4|e|Lambo Diablo 97|1997|[[Lamborghini Diablo SV]]|autoshow|174,000|8.1|6.6|6.8|8.0|6.5|787}}
+{{CarListStatsFH4|l|Lambo Diablo 99|1999|[[Lamborghini Diablo GTR]]|htf|250,000|7.8|9.9|8.2|9.1|10|915}}
+{{CarListStatsFH4|e|Lambo Gallardo 12|2012|[[Lamborghini Gallardo LP570-4 Spyder Performante|Lamborghini Gallardo LP 570-4 Spyder Performante]]|car pass|280,000|7.5|7.0|7.9|8.1|7.6|814}}
+{{CarListStatsFH4|e|Lambo Gallardo 11|2011|[[Lamborghini Gallardo LP 570-4 Superleggera]]|autoshow|180,000|7.9|7.2|8.4|9.4|7.5|833}}
+{{CarListStatsFH4|e|Lambo Huracan 14|2014|[[Lamborghini Huracán LP 610-4]]|life|life=rr|lvl=4|240,000|8.2|7.8|9.2|10|8.4|866}}
+{{CarListStatsFH4|l|Lambo Huracan 18|2018|[[Lamborghini Huracán Performante]]|htf|275,000|7.8|8.5|10|10|9.1|900}}
+{{CarListStatsFH4|r|Lambo Jarama|1972|[[Lamborghini Jarama S]]|car pass|150,000|6.3|4.7|5.5|6.6|4.9|559}}
+{{CarListStatsFH4|r|Lambo LM|1986|[[Lamborghini LM 002]]|autoshow|180,000|6.1|5.0|4.7|5.3|4.5|553}}
+{{CarListStatsFH4|l|Lambo Miura|1967|[[Lamborghini Miura P400]]|autoshow|1,000,000|6.6|5.2|5.6|6.6|4.8|619}}
+{{CarListStatsFH4|e|Lambo Murcielago|2010|[[Lamborghini Murciélago LP 670-4 SV]]|autoshow|500,000|8.2|7.4|6.7|8.0|7.9|840}}
+{{CarListStatsFH4|l|Lambo Reventon|2008|[[Lamborghini Reventón]]|autoshow|1,375,000|8.2|7.4|6.7|8.0|7.9|841}}
+{{CarListStatsFH4|fe|Lambo Reventon FE|2008|[[Lamborghini Reventón Forza Edition|Lamborghini Reventón ''F.E.'']]|tree|other=[[Lamborghini Miura P400]]|1,625,000|8.2|7.7|6.7|8.0|8.2|847}}
+{{CarListStatsFH4|l|Lambo Sesto|2011|[[Lamborghini Sesto Elemento]]|autoshow|2,500,000|8.1|10|10|10|10|948}}
+{{CarListStatsFH4|e|Lambo Urus 19|2019|[[Lamborghini Urus]]|fortune|other=Treasure Chest #2|150,000|7.6|6.7|7.6|9.3|7.4|795}}
+{{CarListStatsFH4|e|Lambo Urus 14|2014|[[Lamborghini Urus Concept]]|autoshow|230,000|7.4|6.5|7.0|8.7|7.1|774}}
+{{CarListStatsFH4|l|Lambo Veneno|2013|[[Lamborghini Veneno]]|autoshow|4,500,000|8.5|10|10|10|10|943}}
+<!--Lancia-->
+{{CarListStatsFH4|l|Lancia 037|1982|[[Lancia 037 Stradale]]|autoshow|95,000|6.0|5.5|6.1|7.3|5.5|590}}
+{{CarListStatsFH4|e|Lancia Delta 92|1992|[[Lancia Delta HF Integrale Evo]]|spin|60,000|5.7|4.7|6.2|8.0|5.0|532}}
+{{CarListStatsFH4|l|Lancia Delta 86|1986|[[Lancia Delta S4]]|autoshow|146,000|5.8|5.4|7.1|8.7|5.6|638}}
+{{CarListStatsFH4|r|Lancia Fulvia|1968|[[Lancia Fulvia Coupé Rallye 1.6 HF]]|autoshow|60,000|5.5|4.7|5.5|7.0|4.7|490}}
+{{CarListStatsFH4|l|Lancia Stratos|1974|[[Lancia Stratos HF Stradale]]|autoshow|550,000|6.1|4.8|6.1|7.8|4.6|544}}
+<!--Land Rover-->
+{{CarListStatsFH4|c|LR Defender|1997|[[Land Rover Defender 90]]|autoshow|30,000|4.8|4.8|4.6|5.5|4.5|357}}
+{{CarListStatsFH4|c|LR Range 73|1973|[[Land Rover Range Rover]]|barn|50,000|4.5|4.6|4.3|6.7|4.4|235}}
+{{CarListStatsFH4|r|LR Range 15|2015|[[Land Rover Range Rover Sport SVR]]|autoshow|133,000|7.1|6.2|7.5|9.2|6.4|752}}
+{{CarListStatsFH4|e|LR Range 18|2018|[[Land Rover Range Rover Velar First Edition]]|htf|85,000|6.7|5.8|6.1|8.0|5.9|658}}
+{{CarListStatsFH4|c|LR Series|1972|[[Land Rover Series III]]|autoshow|20,000|3.9|4.0|3.7|4.7|4.0|100}}
+{{CarListStatsFH4|fe|LR Series FE|1972|[[Land Rover Series III Forza Edition|Land Rover Series III ''F.E.'']]|spin|270,000|6.6|6.3|7.6|8.8|5.6|802}}
+<!--LEGO Speed Champions-->
+{{CarListStatsFH4|l|LEGO Bugatti Chiron|2019|[[LEGO Speed Champions Bugatti Chiron]]|lego|2,400,000|10|8.0|9.4|10|9.0|937}}
+{{CarListStatsFH4|l|LEGO Ferrari F40|1987|[[LEGO Speed Champions Ferrari F40 Competizione]]|lego|3,000,000|8.0|10|8.7|7.1|10|973}}
+{{CarListStatsFH4|l|LEGO McLaren Senna|2019|[[LEGO Speed Champions McLaren Senna]]|lego|1,000,000|8.7|10|9.3|10|10|978}}
+{{CarListStatsFH4|e|LEGO MINI Cooper|1967|[[LEGO Speed Champions Mini Cooper S Rally]]|lego|500,000|6.4|8.1|8.8|10|8.3|831}}
+{{CarListStatsFH4|l|LEGO Porsche 911|1974|[[LEGO Speed Champions Porsche 911 Turbo 3.0]]|lego|other=([[Forza Horizon 4/Barn Find|Barn Find]])|500,000|7.6|9.4|8.5|9.8|10|898}}
+<!-- Lexus -->
+{{CarListStatsFH4|r|Lexus IS F FH4|2009|[[Lexus IS F]]|htf|250,000|7.5|6.1|6.1|7.7|6.1|737}}
+{{CarListStatsFH4|e|Lexus LFA FH4|2010|[[Lexus LFA]]|htf|500,000|7.8|7.1|6.9|8.5|7.8|826}}
+{{CarListStatsFH4|e|Lexus RC F FH4|2015|[[Lexus RC F]]|htf|250,000|7.2|6.5|6.3|7.9|6.7|761}}
+<!--Local Motors-->
+{{CarListStatsFH4|e|LM Rally|2014|[[Local Motors Rally Fighter]]|autoshow|100,000|6.7|6.4|6.1|7.3|5.9|760}}
+<!--Lola-->
+{{CarListStatsFH4|e|Lola 6 T70|1969|[[Lola 6 Penske Sunoco T70 MkIIIB|Lola #6 Penske Sunoco T70 MkIIIB]]|autoshow|850,000|7.4|6.8|7.9|9.4|6.6|828}}
+<!--Lotus-->
+{{CarListStatsFH4|e|Lotus 2-Eleven|2009|[[Lotus 2-Eleven]]|spin|130,000|6.2|9.3|7.4|8.9|9.9|813}}
+{{CarListStatsFH4|e|Lotus 3-Eleven|2016|[[Lotus 3-Eleven]]|autoshow|150,000|6.8|9.3|8.0|9.4|9.9|870}}
+{{CarListStatsFH4|r|Lotus 340R|2000|[[Lotus 340R]]|autoshow|40,000|5.6|7.6|7.1|8.5|7.8|706}}
+{{CarListStatsFH4|c|Lotus Elan|1971|[[Lotus Elan Sprint]]|autoshow|57,000|5.5|5.0|5.3|6.3|4.7|456}}
+{{CarListStatsFH4|l|Lotus Eleven|1956|[[Lotus Eleven]]|autoshow|140,000|5.7|5.7|5.3|6.3|5.2|553}}
+{{CarListStatsFH4|c|Lotus Elise 05|2005|[[Lotus Elise 111S]]|spin|45,000|5.7|7.0|6.3|7.8|7.0|650}}
+{{CarListStatsFH4|l|Lotus Elise 99|1999|[[Lotus Elise Series 1 Sport 190]]|htf|81,000|6.1|6.9|7.2|8.6|6.8|728}}
+{{CarListStatsFH4|l|Lotus Elise 97|1997|[[Lotus Elise GT1]]|barn|1,800,000|6.8|8.6|7.2|8.4|9.0|815}}
+{{CarListStatsFH4|r|Lotus Esprit|2002|[[Lotus Esprit V8]]|autoshow|42,000|7.3|6.6|7.0|8.6|6.5|756}}
+{{CarListStatsFH4|r|Lotus Evora|2011|[[Lotus Evora S]]|autoshow|43,000|7.1|6.6|7.2|8.8|6.6|748}}
+{{CarListStatsFH4|r|Lotus Exige|2012|[[Lotus Exige S]]|autoshow|85,000|7.0|7.1|7.4|8.9|7.4|772}}
+<!--Maserati-->
+{{CarListStatsFH4|l|Maserati 8CTF|1939|[[Maserati 8CTF]]|autoshow|10,000,000|7.3|5.2|5.4|6.9|4.8|648}}
+{{CarListStatsFH4|l|Maserati 300|1957|[[Maserati 300 S]]|autoshow|6,000,000|6.2|5.3|5.8|7.0|4.7|668}}
+{{CarListStatsFH4|l|Maserati A6GCS-53|1953|[[Maserati A6GCS/53 Pininfarina Berlinetta]]|autoshow|2,000,000|5.5|4.8|4.7|5.1|4.6|486}}
+{{CarListStatsFH4|r|Maserati Ghibli|2014|[[Maserati Ghibli S Q4]]|htf|250,000|7.3|6.1|7.2|9.0|6.1|737}}
+{{CarListStatsFH4|r|Maserati Gran|2010|[[Maserati Gran Turismo S]]|autoshow|156,000|7.4|6.3|6.6|8.3|6.3|727}}
+{{CarListStatsFH4|c|Maserati Levante|2017|[[Maserati Levante S]]|htf|85,000|7.2|5.9|6.7|8.0|6.2|723}}
+{{CarListStatsFH4|e|Maserati MC12|2004|[[Maserati MC12]]|autoshow|1,000,000|8.4|8.0|7.5|9.1|8.3|861}}
+{{CarListStatsFH4|fe|Maserati MC12 FE|2004|[[Maserati MC12 Forza Edition|Maserati MC12 ''F.E.'']]|tree|other=[[Maserati 300 S]]|1,250,000|8.4|10|8.8|9.9|10|945}}
+{{CarListStatsFH4|l|Maserati MC12 08|2008|[[Maserati MC12 Versione Corsa]]|htf|2,500,000|8.1|10|8.9|10|10|993}}
+{{CarListStatsFH4|l|Maserati Tipo|1961|[[Maserati Tipo 61 Birdcage]]|autoshow|2,400,000|7.0|5.9|6.3|8.0|5.7|747}}
+<!--Mazda-->
+{{CarListStatsFH4|c|Mazda Mazdaspeed 05|2005|[[Mazda Mazdaspeed MX-5]]|autoshow|25,000|5.9|6.1|5.2|7.8|5.7|605}}
+{{CarListStatsFH4|c|Mazda MX-5 13|2013|[[Mazda MX-5 (2013)|Mazda MX-5]]|autoshow|26,000|5.7|5.5|5.7|7.4|5.0|525}}
+{{CarListStatsFH4|c|Mazda MX-5 16|2016|[[Mazda MX-5 (2016)|Mazda MX-5]]|autoshow|35,000|6.2|6.2|6.3|7.9|5.7|625}}
+{{CarListStatsFH4|c|Mazda MX-5 94|1994|[[Mazda MX-5 Miata (1994)|Mazda MX-5 Miata]]|autoshow|25,000|5.5|4.9|5.2|6.4|4.3|428}}
+{{CarListStatsFH4|e|Mazda_RX-3_73| 1973|[[Mazda RX-3]]|htf|250,000|5.2|4.5|5.3|6.7|4.4|359}}
+{{CarListStatsFH4|c|Mazda RX-7 97|1997|[[Mazda RX-7]]|autoshow|35,000|7.2|6.0|6.3|8.0|5.1|681}}
+{{CarListStatsFH4|c|Mazda RX-7 85|1985|[[Mazda RX-7 GSL-SE]]|htf|250,000|5.7|4.7|5.2|7.1|4.5|427}}
+{{CarListStatsFH4|r|Mazda RX-7 02|2002|[[Mazda RX-7 Spirit R Type-A]]|car pass|30,000|7.1|6.2|6.3|8.0|5.7|711}}
+{{CarListStatsFH4|r|Mazda RX-8|2011|[[Mazda RX-8 R3]]|autoshow|27,000|6.5|6.0|6.1|7.7|5.6|638}}
+{{CarListStatsFH4|e|Mazda_Cosmo_110S_Series_II_72|1972|[[Mazda Cosmo 110S Series II]]|htf|250,000|5.5|4.5|4.9|6.0|4.4|363}}
+{{CarListStatsFH4|c|Mazda Savanna|1990|[[Mazda Savanna RX-7]]|autoshow|25,000|6.5|5.3|6.0|7.7|5.3|561}}
+<!--McLaren-->
+{{CarListStatsFH4|e|McLaren 12C FH4|2011|[[McLaren 12C Coupé]]|htf|250,000|8.1|7.5|7.3|8.9|7.8|854}}
+{{CarListStatsFH4|e|McLaren 570S|2015|[[McLaren 570S Coupé]]|autoshow|224,000|7.8|7.5|7.3|8.9|8.0|848}}
+{{CarListStatsFH4|e|McLaren 600LT|2018|[[McLaren 600LT Coupé]]|htf|250,000|7.8|8.5|7.7|9.2|9.0|890}}
+{{CarListStatsFH4|e|McLaren 650S 15|2015|[[McLaren 650S Coupé]]|autoshow|420,000|7.8|7.9|7.5|9.1|8.6|877}}
+{{CarListStatsFH4|e|McLaren 650S 14|2014|[[McLaren 650S Spider]]|car pass|420,000|7.8|7.9|7.5|9.1|8.6|873}}
+{{CarListStatsFH4|e|McLaren 720S 18|2018|[[McLaren 720S Coupe]]|autoshow|340,000|8.6|8.9|7.9|9.4|9.4|929}}
+{{CarListStatsFH4|e|McLaren 720S 18 PO|2018|[[McLaren 720S Coupe Preorder Car]]|po|340,000|9.2|10|8.6|9.8|10|998}}
+{{CarListStatsFH4|e|McLaren 720S 19|2019|[[McLaren 720S Spider]]|htf|250,000|7.9|8.7|7.9|9.3|9.4|914}}
+{{CarListStatsFH4|l|McLaren F1 93|1993|[[McLaren F1]]|autoshow|2,000,000|9.0|6.9|7.3|8.5|7.2|826}}
+{{CarListStatsFH4|l|McLaren F1 97|1997|[[McLaren F1 GT]]|autoshow|5,200,000|8.7|8.3|7.6|8.9|8.6|888}}
+{{CarListStatsFH4|l|McLaren P1|2013|[[McLaren P1]]|autoshow|1,350,000|9.3|9.3|7.9|9.3|9.7|962}}
+{{CarListStatsFH4|l|McLaren P1 Owen's|2013|[[McLaren P1 'Owen's Edition']]|un|other=([https://forums.forzamotorsport.net/turn10_postst158594_-Owen-s-Car----McLaren-P1-Owen-s-Edition.aspx Exclusive Gift])|1,200,000|9.3|9.9|8.4|9.6|10|957}}
+{{CarListStatsFH4|l|McLaren Senna|2018|[[McLaren Senna]]|autoshow|1,000,000|8.4|10|8.7|9.9|10|977}}
+{{CarListStatsFH4|l|McLaren Speedtail|2019|[[McLaren Speedtail]]|htf|2,250,000|9.7|8.5|7.9|9.3|8.7|940}}
+<!--Mercedes-AMG-->
+{{CarListStatsFH4|r|M-B AMG C 63|2016|[[Mercedes-AMG C 63 S Coupé]]|autoshow|90,000|7.5|6.6|6.4|8.1|7.2|777}}
+{{CarListStatsFH4|r|M-B E 63 18|2018|[[Mercedes-AMG E 63 S]]|htf|250,000|8.0|6.5|9.3|10|7.0|805}}
+{{CarListStatsFH4|r|M-B AMG GT 18|2018|[[Mercedes-AMG GT 4-Door Coupé]]|htf|105,000|8.3|6.2|9.1|10.0|6.5|797}}
+{{CarListStatsFH4|r|M-B AMG GT 17|2017|[[Mercedes-AMG GT R]]|autoshow|295,000|7.6|7.9|7.3|8.9|8.6|858}}
+{{CarListStatsFH4|e|M-B AMG GT 17 PO|2017|[[Mercedes-AMG GT R Preorder Car]]|po|other=/ [https://twitter.com/forza_support/status/1178999905576054789 Gifted]|295,000|7.9|8.5|7.8|9.3|9.1|900}}
+{{CarListStatsFH4|r|M-B AMG GT 15|2015|[[Mercedes-AMG GT S]]|autoshow|157,000|7.6|7.3|7.1|8.7|7.9|820}}
+<!--Mercedes-Benz-->
+{{CarListStatsFH4|r|M-B 24 Truck|2015|[[Mercedes-Benz 24 Tankpool24 Racing Truck|Mercedes-Benz #24 Tankpool24 Racing Truck]]|autoshow|500,000|6.0|6.0|6.9|8.6|6.8|682}}
+{{CarListStatsFH4|r|M-B 190E|1990|[[Mercedes-Benz 190E 2.5-16 Evolution II]]|autoshow|150,000|6.6|5.3|5.7|7.2|5.4|579}}
+{{CarListStatsFH4|r|M-B 280|1967|[[Mercedes-Benz 280 SL]]|htf|150,000|5.6|4.6|4.8|7.0|4.8|448}}
+{{CarListStatsFH4|l|M-B 300 54|1954|[[Mercedes-Benz 300 SL Coupé]]|autoshow|1,200,000|6.0|4.5|5.4|6.4|4.4|476}}
+{{CarListStatsFH4|l|M-B 300 55|1955|[[Mercedes-Benz 300 SLR]]|autoshow|8,000,000|7.1|5.8|6.1|7.1|4.9|708}}
+{{CarListStatsFH4|r|M-B A 45|2013|[[Mercedes-Benz A 45 AMG]]|autoshow|65,000|7.3|6.1|8.0|9.8|6.4|722}}
+{{CarListStatsFH4|l|M-B AMG CLK|1998|[[Mercedes-Benz AMG CLK GTR]]|autoshow|2,000,000|7.7|7.8|7.2|8.6|8.1|848}}
+{{CarListStatsFH4|l|M-B AMG 87|1987|[[Mercedes-Benz AMG Hammer Coupe]]|htf|250,000|7.8|5.7|5.9|6.9|5.7|701}}
+{{CarListStatsFH4|r|M-B C 63|2012|[[Mercedes-Benz C 63 AMG Coupé Black Series]]|autoshow|143,000|8.1|6.6|6.4|8.0|7.0|792}}
+{{CarListStatsFH4|e|M-B E 350|2017|[[Mercedes-Benz E 350 D 4MATIC Terrain "Project E-AT"]]|life|life=top|lvl=4|250,000|5.7|5.6|5.9|9.0|5.3|578}}
+{{CarListStatsFH4|r|M-B E 63|2013|[[Mercedes-Benz E 63 AMG (2013)|Mercedes-Benz E 63 AMG]]|spin|105,000|8.1|6.2|8.4|9.8|6.5|777}}
+{{CarListStatsFH4|r|M-B G 65|2013|[[Mercedes-Benz G 65 AMG]]|autoshow|261,000|6.6|5.6|8.0|10|5.6|712}}
+{{CarListStatsFH4|e|M-B G 63|2014|[[Mercedes-Benz G 63 AMG 6x6]]|life|life=top|lvl=7|250,000|6.4|6.6|5.7|8.9|6.0|674}}
+{{CarListStatsFH4|e|M-B SL|2009|[[Mercedes-Benz SL 65 AMG Black Series]]|autoshow|210,000|8.2|7.0|6.7|8.3|7.3|820}}
+{{CarListStatsFH4|fe|M-B SL FE|2009|[[Mercedes-Benz SL 65 AMG Black Series Forza Edition|Mercedes-Benz SL 65 AMG Black Series ''F.E.'']]|tree|other=[[Mercedes-Benz 300 SL Coupé]]|460,000|8.2|7.0|6.7|8.3|7.3|820}}
+{{CarListStatsFH4|r|M-B SLK|2012|[[Mercedes-Benz SLK 55 AMG]]|autoshow|78,000|7.7|6.5|6.6|8.2|6.8|766}}
+{{CarListStatsFH4|e|M-B SLS|2011|[[Mercedes-Benz SLS AMG]]|autoshow|200,000|8.1|6.9|6.9|8.5|7.4|822}}
+{{CarListStatsFH4|l|M-B Super|1929|[[Mercedes-Benz Super Sport Kurz Barker Roadster]]|car pass|5,000,000|5.1|3.8|4.8|6.0|3.7|229}}
+{{CarListStatsFH4|c|M-B Unimog|2014|[[Mercedes-Benz Unimog U5023]]|autoshow|100,000|3.8|6.4|3.4|3.5|4.2|163}}
+{{CarListStatsFH4|l|M-B W154|1939|[[Mercedes-Benz W154]]|autoshow|10,000,000|8.3|5.1|5.6|7.2|4.7|676}}
+{{CarListStatsFH4|c|M-B X-Class|2018|[[Mercedes-Benz X-Class]]|htf|65,000|5.2|5.5|4.4|6.7|5.2|417}}
+<!--Mercury-->
+{{CarListStatsFH4|r|Mercury Cougar|1970|[[Mercury Cougar Eliminator]]|life|life=te|lvl=24|250,000|5.4|4.7|5.1|6.4|4.3|548}}
+{{CarListStatsFH4|c|Mercury Coupe|1949|[[Mercury Coupe]]|autoshow|45,000|4.6|3.9|4.4|6.3|3.7|158}}
+<!--Meyers-->
+{{CarListStatsFH4|r|Meyers Manx|1971|[[Meyers Manx]]|autoshow|35,000|4.3|4.8|4.8|6.0|4.7|218}}
+<!--MG-->
+{{CarListStatsFH4|l|MG Metro|1986|[[MG Metro 6R4]]|autoshow|125,000|5.5|8.6|9.9|10|8.8|852}}
+{{CarListStatsFH4|c|MG MGA|1958|[[MG MGA Twin-Cam]]|autoshow|40,000|4.9|3.9|4.8|6.3|3.7|222}}
+{{CarListStatsFH4|c|MG MGB|1965|[[MG MGB GT]]|barn|30,000|5.0|4.5|4.7|6.6|4.5|316}}
+{{CarListStatsFH4|c|MG TA|1938|[[MG TA Midget]]|car pass|50,000|3.9|3.9|3.6|5.0|3.9|100}}
+<!--MINI-->
+{{CarListStatsFH4|l|MINI Cooper|1965|[[MINI Cooper S]]|barn|30,000|4.7|4.0|4.5|6.2|3.9|205}}
+{{CarListStatsFH4|c|MINI John 09|2009|[[MINI John Cooper Works]]|autoshow|25,000|6.2|6.2|5.8|7.4|6.5|639}}
+{{CarListStatsFH4|c|MINI John 18 Convertible|2018|[[MINI John Cooper Works Convertible]]|htf|250,000|6.2|5.9|5.8|7.3|6.1|639}}
+{{CarListStatsFH4|c|MINI John 18 Countryman|2018|[[MINI John Cooper Works Countryman All4]]|htf|250,000|5.9|5.6|5.6|8.1|5.3|580}}
+{{CarListStatsFH4|r|MINI John 12|2012|[[MINI John Cooper Works GP (2012)|MINI John Cooper Works GP]]|spin|38,000|6.2|5.8|5.8|7.4|5.7|642}}
+{{CarListStatsFH4|e|MINI X-Raid 14|2014|[[MINI X-Raid All4 Racing Countryman]]|autoshow|500,000|4.4|5.8|6.8|9.9|5.9|682}}
+{{CarListStatsFH4|e|MINI X-Raid 18|2018|[[MINI X-Raid John Cooper Works Buggy]]|htf|500,000|5.4|6.4|6.5|9.1|6.3|674}}
+<!--Mitsubishi-->
+{{CarListStatsFH4|c|Mitsubishi Eclipse|1995|[[Mitsubishi Eclipse GSX]]|mitsubishi|25,000|6.6|5.2|5.7|7.8|4.7|543}}
+{{CarListStatsFH4|c|Mitsubishi Galant|1992|[[Mitsubishi Galant VR-4]]|mitsubishi|25,000|6.2|4.8|6.3|8.2|4.9|532}}
+{{CarListStatsFH4|c|Mitsubishi GTO|1997|[[Mitsubishi GTO]]|mitsubishi|20,000|6.8|5.4|6.2|8.1|5.3|602}}
+{{CarListStatsFH4|r|Mitsubishi Lancer 99|1999|[[Mitsubishi Lancer Evolution VI GSR]]|mitsubishi|28,000|6.3|5.9|7.1|9.1|5.6|675}}
+{{CarListStatsFH4|r|Mitsubishi Lancer 04|2004|[[Mitsubishi Lancer Evolution VIII MR]]|mitsubishi|31,000|6.9|5.9|7.2|9.1|5.5|686}}
+{{CarListStatsFH4|r|Mitsubishi Lancer 06|2006|[[Mitsubishi Lancer Evolution IX MR]]|mitsubishi|27,000|6.7|5.9|6.4|8.3|5.5|649}}
+{{CarListStatsFH4|r|Mitsubishi Lancer 08|2008|[[Mitsubishi Lancer Evolution X GSR]]|mitsubishi|43,000|6.4|6.0|6.7|8.9|6.0|678}}
+{{CarListStatsFH4|r|Mitsubishi Starion|1988|[[Mitsubishi Starion ESI-R]]|htf|250,000|6.0|5.3|5.9|7.8|4.9|555}}
+<!--Morgan-->
+{{CarListStatsFH4|r|Morgan 3 Wheeler|2014|[[Morgan 3 Wheeler]]|autoshow|50,000|5.1|4.7|4.9|6.1|4.7|450}}
+{{CarListStatsFH4|r|Morgan Aero 18|2018|[[Morgan Aero GT]]|car pass|150,000|7.2|7.9|7.1|8.7|7.9|811}}
+{{CarListStatsFH4|r|Morgan Aero 10|2010|[[Morgan Aero Supersports]]|autoshow|160,000|7.1|6.3|6.6|8.3|6.3|766}}
+<!--Morris-->
+{{CarListStatsFH4|c|Morris Mini-Traveller|1965|[[Morris Mini-Traveller]]|life|life=ex|lvl=8|250,000|3.7|4.0|3.5|4.4|4.0|100}}
+{{CarListStatsFH4|c|Morris Minor 58|1958|[[Morris Minor 1000]]|autoshow|20,000|4.0|3.9|3.6|4.9|3.8|100}}
+{{CarListStatsFH4|c|Morris Minor 53|1953|[[Morris Minor Series II Traveler]]|fortune|25,000|3.5|3.9|3.3|3.0|4.0|100}}
+<!--Mosler-->
+{{CarListStatsFH4|e|Mosler MT900S|2010|[[Mosler MT900S]]|htf|320,000|8.1|10|8.8|9.9|10|957}}
+<!-- Napier -->
+{{CarListStatsFH4|l|Napier Napier-Railton|1933|[[Napier Napier-Railton]]|htf|1,000,000|7.1|5.1|5.3|6.8|5.6|628}}
+<!--Nissan-->
+{{CarListStatsFH4|c|Nissan 240SX|1993|[[Nissan 240SX SE]]|autoshow|25,000|5.9|4.8|5.1|6.7|4.6|449}}
+{{CarListStatsFH4|c|Nissan 370Z|2010|[[Nissan 370Z]]|autoshow|40,000|7.2|6.3|6.2|7.9|5.7|716}}
+{{CarListStatsFH4|c|Nissan Fairlady 03|2003|[[Nissan Fairlady Z (2003)|Nissan Fairlady Z]]|autoshow|35,000|7.1|6.0|6.1|7.7|5.1|671}}
+{{CarListStatsFH4|r|Nissan Fairlady 69|1969|[[Nissan Fairlady Z 432]]|autoshow|150,000|5.4|4.7|5.4|6.4|4.6|439}}
+{{CarListStatsFH4|e|Nissan Fairlady 94|1994|[[Nissan Fairlady Z Version S Twin Turbo]]|htf|250,000|6.7|6.0|6.0|7.7|5.5|655}}
+{{CarListStatsFH4|e|Nissan GT-R 17|2017|[[Nissan GT-R (2017)|Nissan GT-R]]|autoshow|132,000|7.9|7.2|9.6|10|7.6|836}}
+{{CarListStatsFH4|e|Nissan GT-R 17 PO|2017|[[Nissan GT-R Preorder Car]]|po|other=/ [https://twitter.com/forza_support/status/1178999905576054789 Gifted]|132,000|7.9|8.5|10|10|9.0|900}}
+{{CarListStatsFH4|e|Nissan GT-R 12|2012|[[Nissan GT-R Black Edition]]|autoshow|105,000|8.0|6.8|9.4|10|7.2|820}}
+{{CarListStatsFH4|l|Nissan GT-R 95|1995|[[Nissan Nismo GT-R LM]]|spin|1,100,000|6.6|6.4|6.0|7.6|5.8|685}}
+{{CarListStatsFH4|fe|Nissan GT-R 95 FE|1995|[[Nissan Nismo GT-R LM Forza Edition|Nissan Nismo GT-R LM ''F.E.'']]|tree|other=[[Nissan R390]]|1,350,000|7.3|10|7.8|9.2|10|886}}
+{{CarListStatsFH4|r|Nissan Pulsar|1991|[[Nissan Pulsar GTI-R]]|htf|250,000|6.2|5.2|7.1|8.9|4.8|598}}
+{{CarListStatsFH4|l|Nissan R390|1998|[[Nissan R390]]|autoshow|730,000|7.6|8.2|7.3|7.8|8.5|877}}
+{{CarListStatsFH4|r|Nissan Sentra|2018|[[Nissan Sentra Nismo]]|car pass|24,000|5.8|6.1|5.8|7.4|6.2|588}}
+{{CarListStatsFH4|c|Nissan Silvia 92|1992|[[Nissan Silvia Club K's]]|autoshow|25,000|6.2|4.9|5.5|7.0|4.6|525}}
+{{CarListStatsFH4|c|Nissan Silvia 94|1994|[[Nissan Silvia K's]]|autoshow|25,000|6.5|5.4|5.9|7.5|5.0|600}}
+{{CarListStatsFH4|c|Nissan Silvia 98|1998|[[Nissan Silvia K's Aero]]|autoshow|25,000|6.5|5.5|5.9|7.5|5.0|593}}
+{{CarListStatsFH4|c|Nissan Silvia 00|2000|[[Nissan Silvia Spec-R]]|autoshow|35,000|6.6|6.1|6.1|7.7|5.2|643}}
+{{CarListStatsFH4|r|Nissan Skyline 71|1971|[[Nissan Skyline 2000GT-R]]|autoshow|60,000|5.6|4.6|5.4|6.4|4.5|455}}
+{{CarListStatsFH4|r|Nissan Skyline 93|1993|[[Nissan Skyline GT-R V-Spec (1993)|Nissan Skyline GT-R V-Spec]]|autoshow|85,000|6.5|5.4|6.2|7.7|5.6|620}}
+{{CarListStatsFH4|e|Nissan Skyline 97|1997|[[Nissan Skyline GT-R V-Spec (1997)|Nissan Skyline GT-R V-Spec]]|autoshow|37,000|6.9|5.6|6.5|8.0|5.5|633}}
+{{CarListStatsFH4|e|Nissan Skyline 02|2002|[[Nissan Skyline GT-R V-Spec II]]|life|life=ss|lvl=4|63,000|6.8|6.0|6.5|8.1|6.0|691}}
+{{CarListStatsFH4|r|Nissan Skyline 87|1987|[[Nissan Skyline GTS-R (R31)]]|autoshow|100,000|6.4|4.9|5.7|7.2|4.6|538}}
+{{CarListStatsFH4|r|Nissan Skyline 73|1973|[[Nissan Skyline H/T 2000GT-R]]|autoshow|170,000|5.6|5.0|5.2|6.1|4.7|494}}
+{{CarListStatsFH4|c|Nissan Titan|2016|[[Nissan Titan Warrior Concept]]|autoshow|50,000|5.6|5.0|5.0|7.3|4.8|491}}
+{{CarListStatsFH4|fe|Nissan Titan FE|2016|[[Nissan Titan Warrior Concept Forza Edition|Nissan Titan Warrior Concept ''F.E.'']]|vip|300,000|5.6|6.2|5.2|7.2|5.8|583}}
+<!--Noble-->
+{{CarListStatsFH4|e|Noble M600|2010|[[Noble M600]]|life|life=sth|lvl=11|450,000|8.8|8.8|7.8|9.3|9.0|900}}
+<!--Oldsmobile-->
+{{CarListStatsFH4|r|Oldsmobile Hurst-Olds|1969|[[Oldsmobile Hurst/Olds 442]]|autoshow|65,000|5.8|4.4|5.0|6.3|4.3|520}}
+<!--Opel-->
+{{CarListStatsFH4|c|Opel Kadett 63|1963|[[Opel Kadett A]]|car pass|25,000|4.2|3.9|3.8|5.5|3.8|100}}
+{{CarListStatsFH4|e|Opel Manta|1984|[[Opel Manta 400]]|autoshow|100,000|6.6|6.8|6.3|7.9|7.0|740}}
+<!--Pagani-->
+{{CarListStatsFH4|l|Pagani Huayra 12|2012|[[Pagani Huayra]]|autoshow|1,300,000|8.8|8.4|7.4|8.9|8.8|900}}
+{{CarListStatsFH4|l|Pagani Huayra 16|2016|[[Pagani Huayra BC]]|autoshow|1,500,000|8.9|9.8|8.0|9.4|10|961}}
+{{CarListStatsFH4|l|Pagani Zonda 09|2009|[[Pagani Zonda Cinque Roadster]]|autoshow|2,100,000|7.8|9.5|7.4|8.9|10|908}}
+{{CarListStatsFH4|l|Pagani Zonda 10|2010|[[Pagani Zonda R]]|autoshow|1,700,000|8.2|10|8.2|9.5|10|966}}
+{{CarListStatsFH4|fe|Pagani Zonda 10 FE|2010|[[Pagani Zonda R Forza Edition|Pagani Zonda R ''F.E.'']]|vip|1,950,000|8.9|10|8.1|9.5|10|986}}
+<!--Peel-->
+{{CarListStatsFH4|l|Peel P50|1962|[[Peel P50]]|barn|20,000|3.0|3.0|3.2|4.9|7.0|100}}
+{{CarListStatsFH4|r|Peel Trident|1965|[[Peel Trident]]|car pass|25,000|3.0|3.0|3.2|4.5|5.4|100}}
+<!-- Penhall -->
+{{CarListStatsFH4|e|Penhall The|2011|[[Penhall The Cholla]]|life|life=ccs|lvl=14|100,000|5.1|6.4|7.2|8.5|6.3|646}}
+<!--Peugeot-->
+{{CarListStatsFH4|r|Peugeot 205 91|1991|[[Peugeot 205 Rallye]]|htf|250,000|5.3|5.6|4.8|7.6|5.4|504}}
+{{CarListStatsFH4|l|Peugeot 205|1984|[[Peugeot 205 T16]]|autoshow|200,000|5.8|5.4|6.0|6.6|5.5|597}}
+{{CarListStatsFH4|fe|Peugeot 205 FE|1984|[[Peugeot 205 T16 Forza Edition|Peugeot 205 T16 ''F.E.'']]|spin|450,000|6.9|8.3|10|9.3|8.4|899}}
+{{CarListStatsFH4|l|Peugeot 207|2007|[[Peugeot 207 Super 2000]]|htf|250,000|6.1|7.8|7.4|8.8|8.1|774}}
+<!--Plymouth-->
+{{CarListStatsFH4|e|Plymouth Atomic|1958|[[Plymouth Atomic Punk Bubbletop]]|jackson|105,000|7.1|5.8|6.2|7.4|4.9|717}}
+{{CarListStatsFH4|r|Plymouth Cuda|1971|[[Plymouth Cuda 426 Hemi]]|autoshow|160,000|6.4|4.7|5.2|6.5|4.3|560}}
+{{CarListStatsFH4|r|Plymouth Fury|1958|[[Plymouth Fury]]|htf|250,000|6.1|4.5|5.1|6.5|4.4|518}}
+{{CarListStatsFH4|e|Plymouth Hemi|1970|[[Plymouth Hemi Cuda Convertible Barrett-Jackson Edition]]|jackson|55,000|6.4|5.6|5.7|7.2|5.2|689}}
+<!--Polaris-->
+{{CarListStatsFH4|c|Polaris RZR|2015|[[Polaris RZR XP 1000 EPS]]|autoshow|25,000|4.5|5.8|5.5|7.1|6.2|464}}
+<!--Pontiac-->
+{{CarListStatsFH4|e|Pontiac Firebird 68|1968|[[Pontiac Firebird]]|htf|250,000|5.9|4.4|5.0|6.2|4.3|509}}
+{{CarListStatsFH4|r|Pontiac Firebird 77|1977|[[Pontiac Firebird Trans Am (1977)|Pontiac Firebird Trans Am]]|autoshow|45,000|6.0|4.5|5.0|6.1|4.2|431}}
+{{CarListStatsFH4|c|Pontiac Firebird 87|1987|[[Pontiac Firebird Trans Am GTA]]|autoshow|25,000|6.2|4.8|5.4|6.8|4.5|505}}
+{{CarListStatsFH4|c|Pontiac Firebird 73|1973|[[Pontiac Firebird Trans Am SD-455]]|spin|61,000|6.3|4.7|5.1|6.5|4.4|536}}
+{{CarListStatsFH4|l|Pontiac GTO 65|1965|[[Pontiac GTO (1965)|Pontiac GTO]]|htf|48,000|5.6|4.3|5.0|6.3|4.3|514}}
+{{CarListStatsFH4|r|Pontiac GTO 69|1969|[[Pontiac GTO Judge]]|autoshow|90,000|5.8|4.4|5.0|6.3|4.3|514}}
+<!--Porsche-->
+{{CarListStatsFH4|l|Porsche 3 917|1970|[[Porsche 3 917 LH|Porsche #3 917 LH]]|htf|250,000|8.5|7.0|8.0|9.4|6.4|868}}
+{{CarListStatsFH4|l|Porsche 23 917-20|1971|[[Porsche 23 917/20|Porsche #23 917/20]]|autoshow|10,000,000|8.3|7.1|8.0|9.5|6.6|861}}
+{{CarListStatsFH4|l|Porsche 46 356|1951|[[Porsche 46 356 SL Gmünd Coupe|Porsche #46 356 SL Gmünd Coupe]]|htf|250,000|4.6|4.8|3.9|6.4|4.6|199}}
+{{CarListStatsFH4|l|Porsche 185 959|1986|[[Porsche 185 959 Prodrive Rally Raid|Porsche #185 959 Prodrive Rally Raid]]|car pass|205,000|6.8|6.9|8.8|10|7.1|779}}
+{{CarListStatsFH4|e|Porsche 356A|1957|[[Porsche 356A Speedster]]|autoshow|300,000|4.7|4.1|4.1|6.8|3.8|185}}
+{{CarListStatsFH4|l|Porsche 356 59|1959|[[Porsche 356 A 1600 Super]]|car pass|240,000|4.9|4.0|3.8|6.1|3.7|180}}
+{{CarListStatsFH4|e|Porsche 356 64|1964|[[Porsche 356 C Cabriolet Emory Special]]|htf|250,000|6.1|5.9|6.8|8.4|5.7|687}}
+{{CarListStatsFH4|e|Porsche 356 60|1960|[[Porsche 356 RSR from Emory Motorsport]]|htf|250,000|7.1|7.7|7.4|9.0|8.1|846}}
+{{CarListStatsFH4|l|Porsche 550A|1955|[[Porsche 550A Spyder]]|autoshow|600,000|5.9|4.2|5.4|6.9|3.7|387}}
+{{CarListStatsFH4|l|Porsche 718 60|1960|[[Porsche 718 RS 60]]|autoshow|1,000,000|6.3|6.5|6.7|7.8|5.5|716}}
+{{CarListStatsFH4|l|Porsche 718 60 WP|1960|[[Porsche 718 RS 60|Porsche 718 RS 60 "Welcome Pack"]]|welcome pack|1,000,000|6.6|7.4|7.2|8.8|6.5|800}}
+{{CarListStatsFH4|e|Porsche 718 18|2018|[[Porsche 718 Cayman GTS]]|htf|250,000|7.3|7.5|7.3|8.9|8.0|808}}
+{{CarListStatsFH4|l|Porsche 906|1966|[[Porsche 906 Carrera 6]]|htf|250,000|6.8|6.5|6.9|8.1|5.5|748}}
+{{CarListStatsFH4|e|Porsche 911 95 Gunther|1995|[[Porsche 911 Carrera 2 by Gunther Werks]]|autoshow|500,000|7.2|7.6|8.3|7.6|8.0|823}}
+{{CarListStatsFH4|l|Porsche 911 73|1973|[[Porsche 911 Carrera RS]]|autoshow|200,000|6.1|5.7|6.7|8.1|5.0|631}}
+{{CarListStatsFH4|e|Porsche 911 19 Carrera|2019|[[Porsche 911 Carrera S]]|car pass|105,000|7.8|8.1|7.4|8.9|8.4|840}}
+{{CarListStatsFH4|l|Porsche 911 98|1998|[[Porsche 911 GT1 Strassenversion]]|autoshow|2,500,000|7.6|8.2|7.1|8.7|8.8|850}}
+{{CarListStatsFH4|e|Porsche 911 95|1995|[[Porsche 911 GT2 (1995)|Porsche 911 GT2]]|autoshow|550,000|7.1|6.6|7.6|9.2|7.0|774}}
+{{CarListStatsFH4|e|Porsche 911 12 GT2|2012|[[Porsche 911 GT2 RS (2012)|Porsche 911 GT2 RS]]|autoshow|240,000|8.0|8.3|8.7|9.9|8.9|882}}
+{{CarListStatsFH4|e|Porsche 911 18|2018|[[Porsche 911 GT2 RS (2018)|Porsche 911 GT2 RS]]|autoshow|315,000|8.2|8.8|8.4|9.7|9.4|910}}
+{{CarListStatsFH4|e|Porsche 911 04|2004|[[Porsche 911 GT3 (2004)|Porsche 911 GT3]]|autoshow|65,000|7.5|7.2|7.8|9.1|7.6|803}}
+{{CarListStatsFH4|e|Porsche 911 16|2016|[[Porsche 911 GT3 RS (2016)|Porsche 911 GT3 RS]]|autoshow|235,000|8.0|9.6|8.4|9.6|10|904}}
+{{CarListStatsFH4|e|Porsche 911 16 PO|2016|[[Porsche 911 GT3 RS Preorder Car]]|po|other=/ HL: [[The Eliminator]] - Tier 20|235,000|8.6|10|8.7|9.9|10|998}}
+{{CarListStatsFH4|e|Porsche 911 19 GT3|2019|[[Porsche 911 GT3 RS (2019)|Porsche 911 GT3 RS]]|htf|255,000|8.3|9.7|8.3|9.6|10|915}}
+{{CarListStatsFH4|e|Porsche 911 12 GT3|2012|[[Porsche 911 GT3 RS 4.0]]|autoshow|200,000|7.8|8.1|8.6|9.8|8.7|847}}
+{{CarListStatsFH4|l|Porsche 911 90|1990|[[Porsche 911 reimagined by Singer - DLS]]|htf|1,800,000|8.0|7.4|8.5|9.8|7.8|855}}
+{{CarListStatsFH4|l|Porsche 911 82|1982|[[Porsche 911 Turbo 3.3]]|autoshow|150,000|6.4|5.9|6.5|6.7|5.6|688}}
+{{CarListStatsFH4|e|Porsche 911 14|2014|[[Porsche 911 Turbo S]]|autoshow|150,000|8.3|6.6|9.1|10|7.2|827}}
+{{CarListStatsFH4|r|Porsche 914-6|1970|[[Porsche 914/6]]|htf|24,000|5.3|4.7|5.2|7.0|4.2|408}}
+{{CarListStatsFH4|l|Porsche 918|2014|[[Porsche 918 Spyder]]|autoshow|850,000|8.9|9.2|10|10|9.7|942}}
+{{CarListStatsFH4|e|Porsche 928 FH4|1993|[[Porsche 928 GTS]]|htf|250,000|7.0|5.9|6.6|7.9|6.0|698}}
+{{CarListStatsFH4|r|Porsche 944|1989|[[Porsche 944 Turbo]]|autoshow|35,000|6.5|5.9|6.5|8.1|6.0|659}}
+{{CarListStatsFH4|l|Porsche 959|1987|[[Porsche 959]]|autoshow|400,000|7.7|6.3|9.0|10|6.7|784}}
+{{CarListStatsFH4|r|Porsche 968|1993|[[Porsche 968 Turbo S]]|car pass|140,000|6.9|6.1|6.6|8.3|6.2|716}}
+{{CarListStatsFH4|e|Porsche Carrera|2003|[[Porsche Carrera GT]]|autoshow|400,000|8.0|8.1|7.5|9.0|8.6|866}}
+{{CarListStatsFH4|r|Porsche Cayenne 12|2012|[[Porsche Cayenne Turbo]]|autoshow|110,000|7.1|6.0|7.7|9.5|6.3|740}}
+{{CarListStatsFH4|r|Porsche Cayenne 18|2018|[[Porsche Cayenne Turbo (2018)|Porsche Cayenne Turbo]]|spin|220,000|7.2|6.5|8.7|10|7.1|769}}
+{{CarListStatsFH4|e|Porsche Cayman 16|2016|[[Porsche Cayman GT4]]|autoshow|85,000|7.5|8.3|7.8|9.3|8.8|840}}
+{{CarListStatsFH4|r|Porsche Cayman 15|2015|[[Porsche Cayman GTS]]|life|life=rr|lvl=8|80,000|7.1|7.2|7.0|8.6|7.5|791}}
+{{CarListStatsFH4|r|Porsche Macan 15|2015|[[Porsche Macan Turbo]]|autoshow|105,000|6.7|6.0|7.0|8.9|6.4|708}}
+{{CarListStatsFH4|r|Porsche Macan 19|2019|[[Porsche Macan Turbo (2019)|Porsche Macan Turbo]]|htf|105,000|6.9|5.9|7.3|10|6.2|720}}
+{{CarListStatsFH4|r|Porsche Panamera|2017|[[Porsche Panamera Turbo (2017)|Porsche Panamera Turbo]]|autoshow|150,000|7.9|6.6|8.5|10|7.2|789}}
+<!--Quadra-->
+{{CarListStatsFH4|l|Quadra V-Tech|2058|[[Quadra Turbo-R V-Tech]]|event|event="_:NIGHTCITY.exe_" Street Scene|1,000,000|7.8|8.4|8.5|10|8.6|890}}
+<!--Quartz-->
+{{CarListStatsFH4|l|Quartz Regalia|723|[[Quartz Regalia]]|htf|100,000|6.2|5.9|7.0|9.0|5.6|675}}
+{{CarListStatsFH4|l|Quartz Regalia Type-D|723|[[Quartz Regalia Type-D]]|tree|other=[[Quartz Regalia]]|500,000|5.0|6.5|6.7|9.8|6.5|597}}
+<!--Radical-->
+{{CarListStatsFH4|e|Radical RXC|2015|[[Radical RXC Turbo]]|autoshow|330,000|7.3|10|8.0|9.4|10|958}}
+<!-- RAESR -->
+{{CarListStatsFH4|l|RAESR Tachyon|2019|[[RAESR Tachyon Speed]]|htf|1,050,000|8.7|8.5|6.9|8.6|8.9|969}}
+<!--Ram-->
+{{CarListStatsFH4|r|RAM 1500|2017|[[RAM 1500 Rebel TRX Concept]]|fortune|100,000|6.0|6.2|7.7|9.2|6.9|716}}
+{{CarListStatsFH4|c|RAM 2500|2017|[[RAM 2500 Power Wagon]]|life|life=dr|lvl=8|47,000|6.1|5.2|4.7|5.2|5.1|518}}
+<!--Reliant-->
+{{CarListStatsFH4|c|Reliant Supervan|1972|[[Reliant Supervan III]]|autoshow|35,000|3.9|3.3|4.1|5.4|3.6|100}}
+<!--Renault-->
+{{CarListStatsFH4|r|Renault 5|1980|[[Renault 5 Turbo]]|autoshow|120,000|5.5|5.0|6.3|8.0|4.8|512}}
+{{CarListStatsFH4|fe|Renault 5 FE|1980|[[Renault 5 Turbo Forza Edition|Renault 5 Turbo ''F.E.'']]|spin|316,000|7.5|8.5|8.8|10|9.3|900}}
+{{CarListStatsFH4|l|Renault Alpine|1973|[[Renault Alpine A110 1600s]]|life|life=dr|lvl=16|98,000|5.9|5.1|5.8|7.2|4.6|522}}
+{{CarListStatsFH4|c|Renault Clio 10|2010|[[Renault Clio R.S.]]|autoshow|25,000|5.9|5.8|5.8|7.4|5.5|598}}
+{{CarListStatsFH4|fe|Renault Clio 10 FE|2010|[[Renault Clio R.S. Forza Edition|Renault Clio R.S. ''F.E.'']]|spin|275,000|5.9|7.7|6.2|7.7|7.7|701}}
+{{CarListStatsFH4|r|Renault Clio 16|2016|[[Renault Clio R.S. 16 Concept]]|htf|250,000|6.4|7.3|6.5|8.1|7.4|731}}
+{{CarListStatsFH4|c|Renault Clio 07|2007|[[Renault Clio RS 197]]|htf|250,000|5.9|6.1|5.6|6.9|6.3|592}}
+{{CarListStatsFH4|c|Renault Clio 13|2013|[[Renault Clio R.S. 200 EDC]]|autoshow|29,000|5.9|6.0|6.0|7.6|6.1|606}}
+{{CarListStatsFH4|r|Renault Clio 93|1993|[[Renault Clio Williams]]|life|life=ss|lvl=8|30,000|5.6|5.2|5.7|7.3|4.9|502}}
+{{CarListStatsFH4|r|Renault Megane 08|2008|[[Renault Mégane R26.R]]|life|life=te|lvl=10|250,000|6.2|7.0|6.3|7.9|7.2|704}}
+{{CarListStatsFH4|r|Renault Megane 18|2018|[[Renault Megane R.S.]]|htf|250,000|6.5|7.0|6.0|7.6|7.1|702}}
+{{CarListStatsFH4|c|Renault Megane 10|2010|[[Renault Megane R.S. 250]]|autoshow|30,000|6.3|6.4|6.1|7.8|6.5|666}}
+{{CarListStatsFH4|r|Renault Sport|2003|[[Renault Sport Clio V6]]|htf|250,000|6.3|5.9|5.9|7.3|5.6|627}}
+<!--Rimac-->
+{{CarListStatsFH4|l|Rimac C Two|2019|[[Rimac Concept Two]]|htf|2,000,000|9.3|8.1|10|10|8.5|994}}
+<!--RJ Anderson-->
+{{CarListStatsFH4|e|RJA 37 Pro|2016|[[RJ Anderson 37 Polaris RZR-Rockstar Energy Pro 2 Truck|RJ Anderson #37 Polaris RZR-Rockstar Energy Pro 2 Truck]]|autoshow|500,000|6.6|6.7|6.2|7.6|6.5|815}}
+<!--Rossion -->
+{{CarListStatsFH4|e|Rossion Q1|2010|[[Rossion Q1]]|htf|250,000|7.5|8.3|7.6|9.1|8.7|855}}
+<!-- Rover -->
+{{CarListStatsFH4|r|Rover SD1|1984|[[Rover SD1 Vitesse]]|htf|250,000|5.8|5.1|5.0|5.9|4.7|498}}
+<!--Saleen-->
+{{CarListStatsFH4|e|Saleen S1 18|2018|[[Saleen S1]]|htf|250,000|7.0|8.0|7.9|9.3|8.5|837}}
+{{CarListStatsFH4|e|Saleen S5S|2010|[[Saleen S5S Raptor]]|fortune|other=(Treasure Chest #8)|180,000|8.4|8.0|7.9|9.4|8.3|873}}
+{{CarListStatsFH4|e|Saleen S7|2004|[[Saleen S7]]|autoshow|388,000|8.3|8.2|7.8|9.3|8.4|879}}
+<!--Shelby-->
+{{CarListStatsFH4|e|Shelby 1000|2012|[[Shelby 1000]]|htf|105,000|8.7|6.0|6.2|7.8|6.3|782}}
+{{CarListStatsFH4|l|Shelby Cobra 65 427|1965|[[Shelby Cobra 427 S/C]]|autoshow|2,100,000|6.6|5.4|5.9|7.5|4.8|700}}
+{{CarListStatsFH4|l|Shelby Cobra 65 Daytona|1965|[[Shelby Cobra Daytona Coupé]]|autoshow|8,000,000|7.3|5.0|5.5|6.5|4.8|645}}
+{{CarListStatsFH4|l|Shelby Monaco|1963|[[Shelby Monaco King Cobra]]|jackson|550,000|7.4|7.2|7.1|8.7|6.5|837}}
+<!--Spania GTA-->
+{{CarListStatsFH4|e|SG Spano|2016|[[Spania GTA Spano]]|autoshow|800,000|9.0|8.7|7.7|9.1|9.3|931}}
+<!--Subaru-->
+{{CarListStatsFH4|e|Subaru 199 WRX|2016|[[Subaru WRX STI VT15R Rally Car|Subaru #199 WRX STI VT15R Rally Car]]|autoshow|300,000|5.9|7.7|8.8|10|8.0|762}}
+{{CarListStatsFH4|l|Subaru 199 WRX WP|2016|[[Subaru WRX STI VT15R Rally Car|Subaru #199 WRX STI VT15R Rally Car "Welcome Pack"]]|welcome pack|300,000|6.1|7.3|9.2|10|7.7|800}}
+{{CarListStatsFH4|c|Subaru BRZ|2013|[[Subaru BRZ]]|autoshow|32,000|6.4|5.2|5.8|7.3|4.7|562}}
+{{CarListStatsFH4|l|Subaru Impreza 98|1998|[[Subaru Impreza 22B STi]]|barn|110,000|6.4|6.0|6.6|8.5|5.5|650}}
+{{CarListStatsFH4|c|Subaru Impreza 04|2004|[[Subaru Impreza WRX STi (2004)|Subaru Impreza WRX STi]]|spin|28,000|6.6|5.8|7.5|9.4|5.5|670}}
+{{CarListStatsFH4|c|Subaru Impreza 05|2005|[[Subaru Impreza WRX STI (2005)|Subaru Impreza WRX STI]]|autoshow|51,000|6.7|5.9|7.7|9.5|5.5|694}}
+{{CarListStatsFH4|r|Subaru Impreza 08|2008|[[Subaru Impreza WRX STI (2008)|Subaru Impreza WRX STI]]|autoshow|31,000|6.4|6.0|6.9|9.2|6.1|681}}
+{{CarListStatsFH4|c|Subaru Legacy|1990|[[Subaru Legacy RS]]|autoshow|25,000|6.1|4.8|5.6|7.4|4.9|503}}
+{{CarListStatsFH4|r|Subaru WRX 11|2011|[[Subaru WRX STI (2011)|Subaru WRX STI]]|autoshow|33,000|6.7|6.0|6.7|8.5|6.0|682}}
+{{CarListStatsFH4|r|Subaru WRX 15|2015|[[Subaru WRX STI (2015)|Subaru WRX STI]]|autoshow|42,000|6.7|6.0|7.0|8.8|6.1|693}}
+<!--Sunbeam-->
+{{CarListStatsFH4|r|Sunbeam Tiger|1967|[[Sunbeam Tiger]]|autoshow|65,000|5.8|4.5|5.6|7.1|4.5|500}}
+<!--Talbot-->
+{{CarListStatsFH4|r|Talbot Sunbeam|1979|[[Talbot Sunbeam Lotus]]|autoshow|25,000|5.3|4.6|5.4|6.9|4.7|469}}
+<!--Tamo-->
+{{CarListStatsFH4|e|Tamo Racemo|2017|[[Tamo Racemo]]|autoshow|600,000|5.9|5.7|6.1|7.8|5.6|577}}
+<!--Terradyne-->
+{{CarListStatsFH4|l|Terradyne Gurkha|2014|[[Terradyne Gurkha LAPV]]|autoshow|450,000|5.0|5.1|3.5|4.1|5.3|223}}
+<!--Top Gear-->
+{{CarListStatsFH4|l|TG Track-Tor|2014|[[Top Gear Track-Tor]]|life|life=top|lvl=5|250,000|5.2|6.9|6.8|8.4|5.9|577}}
+<!--Toyota-->
+{{CarListStatsFH4|l|Toyota 1 T100|1993|[[Toyota 1 T100 Baja Truck|Toyota #1 T100 Baja Truck]]|autoshow|500,000|5.6|6.6|7.4|9.2|6.5|732}}
+{{CarListStatsFH4|l|Toyota 1 T100 WP|1993|[[Toyota 1 T100 Baja Truck|Toyota #1 T100 Baja Truck "Welcome Pack"]]|welcome pack|500,000|7.1|7.1|8.6|9.9|6.6|800}}
+{{CarListStatsFH4|l|Toyota 2000GT|1969|[[Toyota 2000GT]]|htf|750,000|6.0|4.6|5.5|7.0|4.4|447}}
+{{CarListStatsFH4|r|Toyota Celica 74 FH4|1974|[[Toyota Celica GT]]|htf|250,000|5.1|4.5|4.6|6.3|4.4|312}}
+{{CarListStatsFH4|e|Toyota Celica 92 FH4|1992|[[Toyota Celica GT-Four RC ST185]]|htf|250,000|6.5|5.2|6.3|8.4|5.1|577}}
+{{CarListStatsFH4|r|Toyota Celica 94 FH4|1994|[[Toyota Celica GT-Four ST205]]|htf|250,000|6.8|5.1|6.7|8.4|5.0|595}}
+{{CarListStatsFH4|r|Toyota Corolla 74 FH4|1974|[[Toyota Corolla SR5]]|htf|250,000|4.8|4.5|4.2|6.8|4.5|290}}
+{{CarListStatsFH4|e|Toyota GT86 FH4|2013|[[Toyota GT86]]|htf|250,000|6.2|5.2|5.8|7.3|5.1|562}}
+{{CarListStatsFH4|c|Toyota Hilux|2007|[[Toyota Hilux Arctic Trucks AT38]]|autoshow|55,000|5.0|6.7|4.6|5.8|5.7|516}}
+{{CarListStatsFH4|c|Toyota Land|2016|[[Toyota Land Cruiser Arctic Trucks AT37]]|autoshow|83,000|5.0|6.3|4.3|5.1|5.3|444}}
+{{CarListStatsFH4|r|Toyota MR2 95|1995|[[Toyota MR2 GT]]|htf|250,000|6.8|5.3|6.6|8.3|4.8|621}}
+{{CarListStatsFH4|r|Toyota MR2 89|1989|[[Toyota MR2 SC]]|htf|250,000|5.9|4.9|5.6|7.6|4.7|481}}
+{{CarListStatsFH4|e|Toyota Sprinter FH4|1985|[[Toyota Sprinter Trueno GT Apex]]|htf|250,000|5.4|4.7|5.6|7.2|4.5|444}}
+{{CarListStatsFH4|r|Toyota Supra 92 FH4|1992|[[Toyota Supra 2.0 GT]]|htf|250,000|6.2|5.1|5.8|7.5|4.7|543}}
+{{CarListStatsFH4|l|Toyota Supra 98 FH4|1998|[[Toyota Supra RZ]]|autoshow|250,000|7.1|6.1|6.2|7.8|5.6|693}}
+<!--Triumph-->
+{{CarListStatsFH4|r|Triumph Spitfire|1962|[[Triumph Spitfire]]|barn|20,000|5.0|3.9|5.0|6.3|3.7|203}}
+{{CarListStatsFH4|c|Triumph TR3B|1962|[[Triumph TR3B]]|car pass|25,000|4.8|4.4|3.9|5.8|4.3|243}}
+{{CarListStatsFH4|c|Triumph TR6|1970|[[Triumph TR6 PI]]|car pass|25,000|5.5|4.6|5.0|6.3|4.5|419}}
+{{CarListStatsFH4|e|Triumph TR7|1979|[[Triumph TR7 Roadster]]|life|life=s7|lvl=7|250,000|5.0|4.7|4.2|5.4|4.4|245}}
+<!--TVR-->
+{{CarListStatsFH4|l|TVR Cerbera |1998|[[TVR Cerbera Speed 12]]|barn|500,000|9.0|7.7|6.6|8.2|7.7|874}}
+{{CarListStatsFH4|r|TVR Griffith|2018|[[TVR Griffith]]|car pass|105,000|7.7|7.9|6.9|8.6|8.3|844}}
+{{CarListStatsFH4|e|TVR Sagaris|2005|[[TVR Sagaris]]|autoshow|86,000|7.2|7.1|6.4|8.1|7.0|797}}
+{{CarListStatsFH4|fe|TVR Sagaris FE|2005|[[TVR Sagaris Forza Edition|TVR Sagaris ''F.E.'']]|tree|other=[[TVR Sagaris]]|336,000|7.9|9.4|7.9|9.4|9.1|902}}
+{{CarListStatsFH4|r|TVR Tuscan|2001|[[TVR Tuscan S]]|htf|250,000|7.1|6.3|6.6|8.2|6.3|747}}
+<!--Ultima-->
+{{CarListStatsFH4|e|Ultima Evolution|2015|[[Ultima Evolution Coupe 1020]]|life|life=ds|lvl=4|130,000|9.0|10|8.6|9.8|10|998}}
+<!--Vauxhall-->
+{{CarListStatsFH4|c|Vauxhall Astra|2012|[[Vauxhall Astra VXR (2012)|Vauxhall Astra VXR]]|autoshow|25,000|6.5|6.3|6.1|7.8|6.7|684}}
+{{CarListStatsFH4|c|Vauxhall Corsa 09|2009|[[Vauxhall Corsa VXR (2009)|Vauxhall Corsa VXR]]|htf|250,000|6.1|5.9|5.3|7.4|5.1|600}}
+{{CarListStatsFH4|c|Vauxhall Corsa 16|2016|[[Vauxhall Corsa VXR (2016)|Vauxhall Corsa VXR]]|autoshow|28,000|5.9|6.1|5.2|7.5|6.3|610}}
+{{CarListStatsFH4|c|Vauxhall Insignia|2010|[[Vauxhall Insignia VXR]]|car pass|42,000|7.1|6.0|6.8|8.6|6.0|676}}
+{{CarListStatsFH4|r|Vauxhall Lotus|1990|[[Vauxhall Lotus Carlton]]|autoshow|70,000|7.2|5.4|5.9|7.6|5.3|665}}
+{{CarListStatsFH4|c|Vauxhall Monaro|2005|[[Vauxhall Monaro VXR]]|autoshow|25,000|7.6|6.0|6.2|7.8|5.5|716}}
+{{CarListStatsFH4|c|Vauxhall VX220|2004|[[Vauxhall VX220 Turbo]]|car pass|20,000|6.4|6.8|7.1|8.7|6.8|717}}
+<!--Volkswagen-->
+{{CarListStatsFH4|e|VW 34 Beetle|2017|[[Volkswagen 34 Volkswagen Andretti Rallycross Beetle|Volkswagen #34 Volkswagen Andretti Rallycross Beetle]]|autoshow|500,000|5.7|7.8|10|10|8.1|869}}
+{{CarListStatsFH4|l|VW 94 ID|2018|[[Volkswagen 94 Volkswagen Motorsport I.D R Pikes Peak|Volkswagen #94 Volkswagen Motorsport I.D R Pikes Peak]]|htf|250,000|6.2|10|10|10|10|998}}
+{{CarListStatsFH4|e|VW 1107 Bug|1970|[[Volkswagen 1107 Desert Dingo Racing Stock Bug|Volkswagen #1107 Desert Dingo Racing Stock Bug]]|autoshow|25,000|4.8|6.0|4.7|6.4|5.2|438}}
+{{CarListStatsFH4|l|VW Beetle|1963|[[Volkswagen Beetle]]|autoshow|20,000|4.1|4.0|3.7|3.8|3.8|100}}
+{{CarListStatsFH4|e|VW Class|1969|[[Volkswagen Class 5/1600 Baja Bug]]|autoshow|60,000|4.6|6.3|4.5|7.2|6.1|407}}
+{{CarListStatsFH4|c|VW Corrado|1995|[[Volkswagen Corrado VR6]]|autoshow|20,000|6.2|5.2|5.5|7.1|4.8|535}}
+{{CarListStatsFH4|r|VW Double|1966|[[Volkswagen Double Cab Pick-Up]]|car pass|50,000|3.8|4.0|3.6|3.7|4.0|100}}
+{{CarListStatsFH4|e|VW Global|2014|[[Volkswagen Global RallyCross Beetle]]|spin|500,000|6.1|7.6|10|10|7.9|846}}
+{{CarListStatsFH4|c|VW Golf 83|1983|[[Volkswagen Golf GTI]]|autoshow|20,000|5.2|4.7|5.4|6.9|4.6|408}}
+{{CarListStatsFH4|c|VW Golf 92|1992|[[Volkswagen Golf Gti 16v Mk2]]|autoshow|20,000|5.5|5.0|5.2|6.5|4.7|454}}
+{{CarListStatsFH4|r|VW Golf 10|2010|[[Volkswagen Golf R (2010)|Volkswagen Golf R]]|spin|64,000|6.5|5.8|6.6|8.3|5.1|661}}
+{{CarListStatsFH4|r|VW Golf 14|2014|[[Volkswagen Golf R (2014)|Volkswagen Golf R]]|autoshow|50,000|6.6|6.0|7.3|8.9|5.6|672}}
+{{CarListStatsFH4|r|VW Golf 03|2003|[[Volkswagen Golf R32]]|autoshow|20,000|6.4|5.8|6.6|8.6|5.4|630}}
+{{CarListStatsFH4|c|VW GTI|1998|[[Volkswagen GTI VR6 Mk3]]|autoshow|25,000|5.9|5.1|5.5|6.9|5.1|512}}
+{{CarListStatsFH4|c|VW Karmann|1967|[[Volkswagen Karmann Ghia]]|htf|250,000|4.2|4.5|3.7|5.4|4.6|100}}
+{{CarListStatsFH4|r|VW Scirocco 11|2011|[[Volkswagen Scirocco R]]|autoshow|45,000|6.5|6.2|6.0|7.7|6.2|678}}
+{{CarListStatsFH4|c|VW Scirocco 81|1981|[[Volkswagen Scirocco S]]|autoshow|20,000|4.8|4.6|4.4|6.4|4.5|264}}
+{{CarListStatsFH4|c|VW Touareg|2008|[[Volkswagen Touareg R50]]|autoshow|48,000|6.4|5.9|5.5|9.0|6.3|631}}
+{{CarListStatsFH4|l|VW Type 2|1963|[[Volkswagen Type 2 De Luxe]]|autoshow|40,000|3.8|4.0|3.6|3.9|3.9|100}}
+{{CarListStatsFH4|fe|VW Type 2 FE|1963|[[Volkswagen Type 2 De Luxe Forza Edition|Volkswagen Type 2 De Luxe ''F.E.'']]|spin|290,000|8.7|8.6|10|10|8.3|897}}
+{{CarListStatsFH4|c|VW Type 3|1967|[[Volkswagen Type 3 1600 L]]|htf|250,000|4.6|4.5|3.8|5.6|4.5|153}}
+<!--Volvo-->
+{{CarListStatsFH4|c|Volvo 242|1983|[[Volvo 242 Turbo Evolution]]|autoshow|45,000|5.9|4.5|5.5|7.0|4.8|512}}
+{{CarListStatsFH4|c|Volvo 850|1997|[[Volvo 850 R]]|autoshow|25,000|6.5|5.0|5.1|6.5|4.6|544}}
+{{CarListStatsFH4|e|Volvo Iron|2016|[[Volvo Iron Knight]]|autoshow|800,000|7.6|5.9|7.3|8.9|6.9|797}}
+{{CarListStatsFH4|r|Volvo V60|2015|[[Volvo V60 Polestar]]|autoshow|62,000|6.8|5.5|7.0|8.9|5.7|652}}
+<!-- VUHL -->
+{{CarListStatsFH4|l|VUHL 05RR 17|2017|[[VUHL 05RR]]|htf|250,000 |6.9 |10 |9.1 |10 |10 |926}}
+<!--W Motors-->
+{{CarListStatsFH4|l|WM Lykan|2016|[[W Motors Lykan HyperSport]]|autoshow|3,400,000|8.7|8.4|7.7|9.2|9.0|907}}
+<!--Willys-->
+{{CarListStatsFH4|c|Willys MB|1945|[[Willys MB Jeep]]|autoshow|40,000|3.9|4.2|4.0|6.0|4.0|100}}
+<!--Zenvo-->
+{{CarListStatsFH4|l|Zenvo ST1|2016|[[Zenvo ST1]]|life|life=wf|lvl=10|1,000,000|8.8|7.9|7.1|8.7|8.4|900}}
+{{CarListStatsFH4|l|Zenvo TSR-S|2019|[[Zenvo TSR-S]]|htf|1,200,000|8.9|9.9|8.2|9.5|10|972}}
+|}
+
+==Traffic==
+<div style="column-count: 2">
+*2010 [[Abarth 500 esseesse]]
+*2004 [[Audi S4 (2004)|Audi S4]]
+*1964 [[Austin FX4 Taxi]]
+*2000 [[BMW 323ti Sport]]
+*2011 [[BMW X5 M]]
+*2009 [[Ford Fiesta Zetec S]]
+*2011 [[Ford Transit Diesel]]
+*1997 [[Land Rover Defender 90]]
+*2010 [[Mazda Mazdaspeed 3 (2010)|Mazda Mazdaspeed 3]]
+*2009 [[Mercedes-Benz A200 Turbo Coupe]]
+*2004 [[Mercedes-Benz C 32 AMG]]
+*1965 [[Mini Cooper S (1965)|Mini Cooper S]]
+*2009 [[Mini John Cooper Works]]
+*1992 [[Mitsubishi Galant VR-4]]
+*2014 [[Playground Box Truck]]
+*2014 [[Playground Bus]]
+*2014 [[Playground Flatbed Truck]]
+*2018 [[Playground Gritter]]
+*2018 [[Playground Tractor]]
+*2005 [[Subaru Legacy B4 2.0 GT]]
+*2003 [[Volkswagen Bora VR6]]
+*2011 [[Volkswagen Fox]]
+*1998 [[Volkswagen GTI VR6 Mk3]]
+</div>
+
+==Trivia==
+*A large portion of the car list was leaked on June 23, 2018 by a reddit user after the title was mistakenly made available for download for users that have pre-ordered the title.<ref>{{ref|https://old.reddit.com/r/forza/comments/8t9sys/list_of_cars_showing_in_downloaded_folder_for_fh4/|List of cars showing in downloaded folder for FH4|reddit.com|06/24/2018}}</ref> It revealed the return of Barn Finds and Forza Edition cars, as well as the addition of Horizon Stories cars.
+**Another portion of the car list was leaked on August 11, 2018 on gtplanet.net that included 'Bond' variant cars as notable additions.<ref>https://imgur.com/a/ym0ngMp (credits to TheAdmiester)</ref><ref>https://pastebin.com/8KS1deDN (credits to TheAdmiester)</ref>
+*On September 7, 2018, an official car list featuring the majority of the more than 450 cars available to play at launch was released, which also revealed the absence of [[Mitsubishi]] cars in ''Forza Horizon 4''.<ref>{{ref|https://forzamotorsport.net/en-us/news/wir_9_7_18|Forza Week in Review 9-7-18|forzamotorsport.net|09-08-2018}}</ref>
+**Later on the 15th of January 2019, Mitsubishi returned with the release of the Free Mitsubishi Motors Car Pack DLC.<ref>{{ref|https://www.gtplanet.net/mitsubishi-returns-to-forza-horizon-4-seven-free-cars-coming-january-15/|Mitsubishi Returns to Forza Horizon 4; Seven Free Cars Coming January 15|gtplanet.net|01-24-2018}}</ref>
+
+==References==
+<references />
+{{CarListsNav}}
+[[Category:Car Lists]]
+[[Category:Forza Horizon 4]]

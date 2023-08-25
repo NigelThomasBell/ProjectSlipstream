@@ -1,0 +1,681 @@
+{{game|fm3=y}}
+{{CarListInfobox
+|image         = FM3 BMW M5 E60.jpg
+|description   = Full car list
+|unlock        = Buy Cars, [[Auction House]], etc.
+|cars          = 495
+|lowest class  = <!--{{PI|fm3|100}}-->
+|highest class = <!--{{PI|fm3|997}}-->
+|related       = 
+}}
+{{cleanup}}
+This list summarizes every vehicle including DLC cars featured in ''[[Forza Motorsport 3]]''.
+
+==Cars==
+{{TableSortNotice}}
+{|class="table table-widthFull sortable"
+!Year
+!Vehicle
+!data-sort-type="currency"|Value
+!<abbr title="Performance Index">PI</abbr><br />
+!style="width:23px"|<abbr title="Speed">S</abbr><br />
+!style="width:23px"|<abbr title="Handling">H</abbr><br />
+!style="width:23px"|<abbr title="Acceleration">A</abbr><br />
+!style="width:23px"|<abbr title="Launch">L</abbr><br />
+!style="width:23px"|<abbr title="Braking">B</abbr><br />
+|-
+<!--Acura-->
+{{CarListFM3|2008|[[Acura ARX-01b|Acura #15 Lowe's Fernandez ARX-01b]]|1,000,000|946|7.2|8.9|8.9|7.7|8.9}}
+{{CarListFM3|2008|[[Acura ARX-01b|Acura #26 Andretti-Green Racing ARX-01b]]|1,000,000|945|7.2|8.9|8.9|7.7|8.9}}
+{{CarListFM3|2002|[[Acura 42 Realtime Racing NSX|Acura #42 Realtime Racing NSX]]|150,000|657|6.3|6.6|7.3|7.4|6.6}}
+{{CarListFM3|2008|[[Acura ARX-01b|Acura #66 de Ferran Motorsports ARX-01b]]|1,000,000|944|7.2|8.9|8.9|7.7|8.9}}
+{{CarListFM3|2009|[[Acura ARX-02a|Acura #66 de Ferran Motorsports ARX-02a]]|2,000,000|984|7.4|9.2|9.0|7.6|9.2}}
+{{CarListFM3|2005|[[Acura NSX (2005)#Forza Motorsport NSX|Acura Forza Motorsport NSX]]|300,000|711|8.2|6.4|8.1|7.7|6.4}}
+{{CarListFM3|2001|[[Acura Integra Type-R]]|13,000|284|5.2|5.0|4.2|4.9|4.8}}
+{{CarListFM3|1997|[[Acura NSX (1997)|Acura NSX]]|45,000|409|6.3|5.5|5.4|5.7|5.2}}
+{{CarListFM3|2005|[[Acura NSX (2005)|Acura NSX]]|60,000|412|6.6|5.5|5.3|5.6|5.2}}
+{{CarListFM3|2002|[[Acura RSX Type-S]]|10,000|232|5.3|4.7|4.0|4.6|4.5}}
+{{CarListFM3|2010|[[Acura TSX V6]]<sup>W</sup>|24,000|272|6.4|5.0|3.8|4.0|4.6}}
+
+<!--Alfa Romeo-->
+{{CarListFM3|2007|[[Alfa Romeo 8C Competizione]]|300,000|541|7.2|5.6|6.4|6.6|5.4}}
+{{CarListFM3|2009|[[Alfa Romeo Brera Italia Independent]]|38,000|223|5.0|5.0|3.3|4.3|4.8}}
+{{CarListFM3|1965|[[Alfa Romeo Giulia Sprint GTA Stradale]]<sup>M</sup>|89,000|164|3.3|4.3|4.1|5.0|4.2}}
+{{CarListFM3|2008|[[Alfa Romeo MiTo]]|18,000|191|4.4|4.7|3.3|4.4|4.5}}
+
+<!--AMC-->
+{{CarListFM3|1971|[[AMC Javelin-AMX]]<sup>C</sup>|16,000|253|3.9|4.3|4.8|5.0|4.0}}
+
+<!--Aston Martin-->
+{{CarListFM3|2009|[[Aston Martin Lola|Aston Martin #007 Aston Martin Lola]]<sup>Ho</sup>|1,500,000|976|8.5|8.7|9.0|7.8|8.6}}
+{{CarListFM3|2006|[[Aston Martin DBR9|Aston Martin #007 Aston Martin Racing DBR9]]|400,000|828|6.7|7.5|8.3|7.1|7.6}}
+{{CarListFM3|2008|[[Aston Martin DBR9|Aston Martin #008 Bell Motorsports DBR9]]|400,000|826|6.7|7.5|8.3|7.1|7.6}}
+{{CarListFM3|2008|[[Aston Martin DBR9|Aston Martin #009 Aston Martin Racing DBR9]]|400,000|827|6.7|7.5|8.3|7.1|7.6}}
+{{CarListFM3|1964|[[Aston Martin DB5 Vantage]]<sup>M</sup>|450,000|265|5.1|4.6|4.6|5.2|4.3}}
+{{CarListFM3|2005|[[Aston Martin DB9 Coupe]]|127,000|475|6.8|5.5|5.4|6.5|5.4}}
+{{CarListFM3|2008|[[Aston Martin DBS]]<sup>V</sup>|260,000|523|7.5|5.7|6.3|6.4|5.7}}
+{{CarListFM3|2010|[[Aston Martin One-77]]<sup>A</sup>|1,850,000|684|8.5|6.0|7.9|7.0|6.0}}
+{{CarListFM3|2010|[[Aston Martin Rapide]]<sup>J</sup>|190,000|470|7.7|5.4|5.4|6.2|5.2}}
+{{CarListFM3|2010|[[Aston Martin V12 Vantage]]<sup>J</sup>|275,000|523|7.4|5.7|6.2|6.6|5.7}}
+{{CarListFM3|2001|[[Aston Martin V12 Vanquish]]|96,000|471|7.2|5.4|5.6|4.8|5.2}}
+
+<!--Audi-->
+{{CarListFM3|2002|[[Audi 1 Champion S4 Competition|Audi #1 Champion S4 Competition]]|150,000|644|6.4|6.5|7.0|8.9|6.5}}
+{{CarListFM3|2003|[[Audi 1 Champion RS 6|Audi #1 Champion RS 6]]|150,000|655|6.6|6.6|7.2|8.7|6.5}}
+{{CarListFM3|2006|[[Audi R8 (LMP1)|Audi #2 Audi Sport North America R8]]|1,200,000|938|7.3|8.8|9.0|8.0|8.8}}
+{{CarListFM3|2008|[[Audi R10 TDI|Audi #2 Audi Sport North America R10 TDI]]|2,000,000|980|8.1|8.9|9.3|8.2|8.9}}
+{{CarListFM3|2006|[[Audi R10 TDI|Audi #2 Audi Sport Team Joest R10 TDI]]|2,000,000|978|7.9|8.9|9.3|8.2|8.9}}
+{{CarListFM3|2009|[[Audi 2 Audi Sport Team Joest R15 TDI|Audi #2 Audi Sport Team Joest R15 TDI]]<sup>Ho</sup>|1,500,000|983|8.2|8.9|9.1|7.9|8.8}}
+{{CarListFM3|2008|[[Audi A4 Touring Car]]|400,000|814|5.9|8.0|8.2|7.0|8.1}}
+{{CarListFM3|2001|[[Audi R8 (LMP1)|Audi #4 Johansson Motorsport R8]]|1,200,000|937|7.3|8.8|9.0|8.0|8.8}}
+{{CarListFM3|2004|[[Audi R8 (LMP1)|Audi #5 Audi Sport Japan Team Goh R8]]|1,200,000|938|7.3|8.8|9.0|8.0|8.8}}
+{{CarListFM3|2004|[[Audi 8 ABT TT-R|Audi #8 Audi ABT TT-R]]|250,000|810|6.7|7.9|8.1|7.0|7.9}}
+{{CarListFM3|2009|[[Audi Q7 V12 TDI]]|135,000|289|6.1|4.3|4.5|5.8|4.4}}
+{{CarListFM3|2008|[[Audi R8]]|120,000|508|7.6|5.7|6.1|7.4|5.6}}
+{{CarListFM3|2010|[[Audi R8 5.2 FSI quattro]]|149,000|558|7.9|5.8|7.0|7.7|5.8}}
+{{CarListFM3|2009|[[Audi R8 LMS Show Car]]<sup>A</sup>|320,000|712|6.8|6.8|7.8|7.9|7.0}}
+{{CarListFM3|2006|[[Audi RS 4]]|45,000|461|7.1|5.3|5.0|7.0|5.1}}
+{{CarListFM3|2003|[[Audi RS 6 (2003)|Audi RS 6]]|27,000|403|6.7|5.1|5.1|5.8|5.0}}
+{{CarListFM3|2009|[[Audi RS 6 (2009)|Audi RS 6]]<sup>A</sup>|155,000|480|7.9|5.3|5.6|7.1|5.3}}
+{{CarListFM3|2000|[[Audi S4 (2000)|Audi S4]]|10,000|294|5.6|5.1|4.0|5.3|4.8}}
+{{CarListFM3|2004|[[Audi S4 (2004)|Audi S4]]|19,000|330|6.6|5.0|4.7|6.0|4.7}}
+{{CarListFM3|2010|[[Audi S4 (2010)|Audi S4]]<sup>Ho</sup>|48,000|391|6.7|5.3|4.9|6.2|5.1}}
+{{CarListFM3|2007|[[Audi S5]]|46,000|371|6.7|5.3|4.8|6.2|5.1}}
+{{CarListFM3|2004|[[Audi TT Coupé 3.2 quattro]]|18,000|289|5.6|5.2|3.8|4.8|4.9}}
+{{CarListFM3|2007|[[Audi TT Coupé S-Line]]|35,000|352|5.7|5.4|4.5|5.6|5.2}}
+{{CarListFM3|2010|[[Audi TT RS Coupe]]<sup>J</sup>|42,000|442|6.6|5.4|5.5|6.9|5.2}}
+
+<!--Bentley-->
+{{CarListFM3|2003|[[Bentley 7 Team Bentley Speed 8|Bentley #7 Team Bentley Speed 8]]|1,500,000|938|7.9|8.4|8.9|7.6|8.4}}
+{{CarListFM3|2004|[[Bentley Continental GT]]|75,000|398|7.5|4.9|5.1|6.5|4.6}}
+{{CarListFM3|2010|[[Bentley Continental Supersports]]<sup>R</sup>|220,000|482|8.6|5.1|6.2|7.8|5.1}}
+
+<!--Bertone-->
+{{CarListFM3|2010|[[Bertone Mantide]]<sup>E</sup>|1,000,000|648|9.0|6.1|7.6|6.8|6.0}}
+
+<!--BMW Motorsport-->
+{{CarListFM3|1973|[[BMW Motorsport 2002 Turbo]]<sup>C</sup>|48,000|217|4.3|4.6|4.1|4.3|4.5}}
+{{CarListFM3|1971|[[BMW Motorsport 3.0 CSL]]|123,000|209|4.3|4.7|3.8|4.8|4.5}}
+{{CarListFM3|2005|[[BMW M3 GTR (Race)|BMW Motorsport #2 BMW M3 GTR]]|300,000|715|6.3|7.0|7.5|6.1|7.0}}
+{{CarListFM3|2001|[[BMW M3 GTR (Race)|BMW Motorsport #6 Prototype Technology Group M3 GTR]]|300,000|713|6.3|7.0|7.5|6.1|7.0}}
+{{CarListFM3|1999|[[BMW V12 LMR|BMW Motorsport #15 BMW V12 LMR]]|1,400,000|971|7.8|8.7|9.0|7.9|8.7}}
+{{CarListFM3|2009|[[BMW M3 GT2|BMW Motorsport #92 Rahal Letterman Racing M3 GT2]]|380,000|743|6.4|7.1|7.8|7.0|7.1}}
+{{CarListFM3|2009|[[BMW Motorsport 135i Coupé]]|37,000|397|6.1|5.2|5.2|6.2|5.1}}
+{{CarListFM3|1981|[[BMW Motorsport M1]]|140,000|392|5.5|5.3|5.2|5.1|5.2}}
+{{CarListFM3|1991|[[BMW Motorsport M3 E30]]|15,000|286|5.2|5.1|4.3|5.0|4.9}}
+{{CarListFM3|1997|[[BMW Motorsport M3 E36]]|12,000|410|6.6|5.2|5.2|6.3|5.1}}
+{{CarListFM3|2005|[[BMW Motorsport M3 E46 Coupe]]|31,000|430|6.4|5.4|5.4|6.4|5.2}}
+{{CarListFM3|2008|[[BMW Motorsport M3 E92]]|48,000|462|7.0|5.4|5.9|6.3|5.3}}
+{{CarListFM3|2002|[[BMW Motorsport M3-GTR]]|180,000|499|6.6|5.5|6.2|6.4|5.4}}
+{{CarListFM3|2009|[[BMW Motorsport M5 E60]]|80,000|455|7.0|5.2|5.8|6.1|5.0}}
+{{CarListFM3|2010|[[BMW Motorsport M6 Coupe]]<sup>A</sup>|90,000|455|7.3|5.2|5.8|6.0|5.0}}
+{{CarListFM3|2009|[[BMW Motorsport X5 xDrive48i]]|55,000|184|5.4|4.2|3.7|4.9|4.2}}
+{{CarListFM3|2010|[[BMW Motorsport X6 M]]<sup>S</sup>|84,000|416|7.0|4.8|5.4|6.9|4.7}}
+{{CarListFM3|2008|[[BMW Motorsport Z4 M Coupe]]|42,000|438|6.4|5.4|5.5|6.3|5.2}}
+{{CarListFM3|2011|[[BMW Motorsport Z4 sDrive35is]]<sup>J</sup>|48,000|444|6.5|5.3|5.6|6.4|5.0}}
+
+<!--Bugatti-->
+{{CarListFM3|1992|[[Bugatti EB110 SS]]<sup>J</sup>|300,000|591|8.3|5.9|7.4|7.5|5.7}}
+{{CarListFM3|2009|[[Bugatti Veyron 16.4]]|1,400,000|700|10|5.9|8.5|8.5|6.0}}
+
+<!--Buick-->
+{{CarListFM3|1987|[[Buick Regal GNX]]|63,000|320|5.5|4.5|4.9|5.1|4.3}}
+
+<!--Cadillac-->
+{{CarListFM3|2008|[[Cadillac 8 Remington Shaving CTS-V|Cadillac #8 Remington Shaving CTS-V]]|180,000|690|6.4|6.7|7.6|7.1|6.7}}
+{{CarListFM3|2002|[[Cadillac 6 Team Cadillac Northstar LMP-02|Cadillac #2 Team Cadillac Northstar LMP-02]]|1,200,000|939|7.7|8.7|9.1|8.0|8.6}}
+{{CarListFM3|2004|[[Cadillac SCCA CTS-V|Cadillac #16 Team Cadillac CTS-V]]|180,000|690|6.4|6.7|7.6|7.1|6.7}}
+{{CarListFM3|2004|[[Cadillac CTS-V (2004)|Cadillac CTS-V]]|21,000|412|6.6|5.1|5.8|5.8|5.1}}
+{{CarListFM3|2009|[[Cadillac CTS-V (2009)|Cadillac CTS-V]]|58,000|494|7.3  |5.3|6.4|6.2|5.3}}
+{{CarListFM3|2011|[[Cadillac CTS-V Coupe]]<sup>W</sup>|62,000|511|7.6|5.4|6.5|6.3|5.3}}
+
+<!--Chevrolet-->
+{{CarListFM3|2004|[[Chevrolet Corvette C5.R|Chevrolet #3 Corvette Racing C5.R]]|500,000|809|6.5|7.7|7.8|6.4|7.7}}
+{{CarListFM3|2006|[[Chevrolet Corvette C6.R|Chevrolet #4 Corvette Racing C6.R]]|600,000|827|6.7|7.5|8.2|7.1|7.6}}
+{{CarListFM3|2007|[[Chevrolet Corvette C6.R|Chevrolet #4 Corvette Racing C6.R]]|600,000|828|6.7|7.5|8.2|7.1|7.6}}
+{{CarListFM3|2003|[[Chevrolet Corvette C5.R|Chevrolet #50 Corvette Racing C5.R]]|500,000|807|6.5|7.7|7.8|6.4|7.7}}
+{{CarListFM3|2005|[[Chevrolet Corvette Z06 (GT3)|Chevrolet #31 Whelen Engineering Corvette Z06]]|200,000|713|7.0|6.7|7.8|7.1|6.6}}
+{{CarListFM3|2003|[[Chevrolet Corvette Z06 (GT3)|Chevrolet #73 3R-Racing Corvette Z06]]|200,000|712|7.0|6.7|7.8|7.1|6.6}}
+{{CarListFM3|2005|[[Chevrolet Corvette Z06 (GT3)|Chevrolet #99 Tiger Racing Corvette Z06]]|200,000|711|7.0|6.7|7.8|7.1|6.6}}
+{{CarListFM3|2009|[[Chevrolet Aveo5 LT]]|9,000|102|3.8|4.8|3.0|3.3|4.6}}
+{{CarListFM3|2002|[[Chevrolet Camaro 35th Anniversary SS]]|24,000|321|6.1|4.9|5.0|4.8|4.6}}
+{{CarListFM3|1990|[[Chevrolet Camaro IROC-Z]]|6,000|219|5.5|4.5|4.0|4.6|4.2}}
+{{CarListFM3|2010|[[Chevrolet Camaro SS (2010)|Chevrolet Camaro SS]]|33,000|436|6.4|5.3|5.9|5.6|5.1}}
+{{CarListFM3|1969|[[Chevrolet Camaro Z28 (1969)|Chevrolet Camaro Z28]]|31,000|230|4.8|4.0|5.0|4.1|3.8}}
+{{CarListFM3|1979|[[Chevrolet Camaro Z28 (1979)|Chevrolet Camaro Z28]]|14,000|159|3.9|4.7|3.2|4.2|4.4}}
+{{CarListFM3|1970|[[Chevrolet Chevelle SS-454]]|55,000|270|4.2|4.0|5.4|4.6|3.8}}
+{{CarListFM3|2005|[[Chevrolet Cobalt SS Coupe]]|10,000|278|5.2|4.9|3.9|4.8|4.7}}
+{{CarListFM3|1960|[[Chevrolet Corvette (1960)|Chevrolet Corvette]]<sup>M</sup>|120,000|198|5.0|3.8|4.9|4.5|3.6}}
+{{CarListFM3|1996|[[Chevrolet Corvette Grand Sport (1996)|Chevrolet Corvette Grand Sport]]|30,000|395|6.6|5.4|5.2|4.9|5.0}}
+{{CarListFM3|2010|[[Chevrolet Corvette Grand Sport (2010)|Chevrolet Corvette Grand Sport]]<sup>A</sup>|60,000|543|7.5|5.7|6.7|6.6|5.5}}
+{{CarListFM3|1967|[[Chevrolet Corvette Stingray 427]]|90,000|345|5.2|4.4|5.7|4.8|4.2}}
+{{CarListFM3|2002|[[Chevrolet Corvette Z06 (2002)|Chevrolet Corvette Z06]]|26,000|527|7.1|5.8|6.3|6.2|5.5}}
+{{CarListFM3|2006|[[Chevrolet Corvette Z06 (2006)|Chevrolet Corvette Z06]]|48,000|590|7.9|5.9|7.2|6.7|5.7}}
+{{CarListFM3|1970|[[Chevrolet Corvette ZR-1]]|110,000|295|4.4|4.5|5.2|4.7|4.2}}
+{{CarListFM3|2009|[[Chevrolet Corvette ZR1]]<sup>V</sup>|100,000|638|8.2|6.0|7.5|6.8|6.0}}
+{{CarListFM3|1970|[[Chevrolet El Camino SS-454]]<sup>C</sup>|50,000|284|5.7|4.0|5.4|4.3|3.7}}
+{{CarListFM3|2008|[[Chevrolet Monte Carlo SS Stock Car]]|180,000|715|7.5|6.9|7.7|6.7|6.8}}
+
+<!--Chrysler-->
+{{CarListFM3|2008|[[Chrysler 300C SRT-8]]|26,000|407|6.4|5.0|5.6|5.6|4.9}}
+{{CarListFM3|2006|[[Chrysler Crossfire SRT6]]|19,000|393|6.1|5.2|5.2|5.9|4.9}}
+{{CarListFM3|1998|[[Eagle Talon TSi Turbo|Chrysler Eagle Talon TSi Turbo]]|5,000|261|5.5|5.0|3.7|4.9|4.7}}
+{{CarListFM3|2009|[[Jeep Grand Cherokee SRT8|Chrysler Jeep Grand Cherokee SRT8]]<sup>S</sup>|38,000|293|6.0|4.0|4.8|6.0|4.0}}
+{{CarListFM3|1968|[[Plymouth Barracuda Formula-S|Chrysler Plymouth Barracuda Formula-S]]|38,000|206|5.0|3.9|4.9|4.4|3.7}}
+{{CarListFM3|1971|[[Plymouth Cuda 426 HEMI|Chrysler Plymouth Cuda 426 Hemi]]<sup>U</sup>|400,000|343|5.5|4.5|5.5|4.8|4.2}}
+{{CarListFM3|2004|[[Chrysler PT Cruiser GT]]|6,000|145|4.1|4.3|3.2|4.3|4.2}}
+
+<!--Citroën-->
+{{CarListFM3|2009|[[Citroën C4 VTS]]|21,000|174|4.5|4.6|3.1|4.1|4.4}}
+{{CarListFM3|2011|[[Citroën DS3]]<sup>W</sup>|23,000|190|4.4|4.6|3.5|4.6|4.4}}
+
+<!--DeLorean-->
+{{CarListFM3|1982|[[DeLorean DMC-12]]<sup>C</sup>|20,000|104|4.3|5.0|3.0|3.0|4.7}}
+
+<!--De Tomaso-->
+{{CarListFM3|1971|[[De Tomaso Pantera]]<sup>C</sup>|42,000|316|5.1|4.8|5.0|5.8|4.4}}
+
+<!--Devon-->
+{{CarListFM3|2010|[[Devon GTX]]<sup>E</sup>|300,000|640|7.7|6.2|7.5|6.7|6.1}}
+
+<!--Dodge-->
+{{CarListFM3|2003|[[Dodge Viper GTS-R (2002)|Dodge #1 Team Zakspeed Viper GTS-R]]|400,000|768|6.7|7.2|8.2|7.4|7.1}}
+{{CarListFM3|2008|[[Dodge Viper Competition Coupe|Dodge #2 Mopar Dodge Viper Competition<br />Coupe]]|300,000|715|7.0|7.0|7.7|7.1|6.9}}
+{{CarListFM3|2008|[[Dodge Viper Competition Coupe|Dodge #11 Primetime Racing Group Viper Competition Coupe]]|300,000|714|7.0|7.0|7.7|7.1|6.9}}
+{{CarListFM3|2004|[[Dodge Viper Competition Coupe|Dodge #22 3R-Racing Viper Competition Coupe]]|300,000|712|6.9|7.0|7.6|7.1|6.9}}
+{{CarListFM3|2003|[[Dodge Viper Competition Coupe|Dodge #23 Magellan Financial Viper Competition Coupe]]|300,000|711|6.9|7.0|7.6|7.1|6.9}}
+{{CarListFM3|2000|[[Dodge Viper GTS-R (2000)|Dodge #57 Carsport Holland Viper GTS-R]]|400,000|766|6.7|7.2|8.2|7.4|7.1}}
+{{CarListFM3|2000|[[Dodge Viper GTS-R (2000)|Dodge #91 Team Oreca Dodge Viper GTS-R]]|400,000|764|6.7|7.2|8.2|7.4|7.1}}
+{{CarListFM3|2003|[[Dodge Viper GTS-R (2002)|Dodge #126 Team Zakspeed Viper GTS-R]]|400,000|769|6.7|7.2|8.2|7.4|7.1}}
+{{CarListFM3|1970|[[Dodge Challenger R/T Hemi]]|150,000|347|4.2|4.2|5.7|4.6|4.0}}
+{{CarListFM3|2009|[[Dodge Challenger SRT8]]|38,000|427|6.5|5.1|5.9|5.7|5.0}}
+{{CarListFM3|1969|[[Dodge Charger Daytona Hemi]]<sup>M</sup>|400,000|322|5.9|4.4|5.5|4.8|4.2}}
+{{CarListFM3|1969|[[Dodge Charger R/T]]|67,000|235|4.7|4.1|5.0|4.7|3.8}}
+{{CarListFM3|2006|[[Dodge Charger SRT8 (2006)|Dodge Charger SRT8]]|25,000|401|6.5|5.0|5.5|5.5|4.9}}
+{{CarListFM3|2008|[[Dodge Charger Stock Car]]|140,000|713|7.5|6.9|7.7|6.7|6.8}}
+{{CarListFM3|2006|[[Dodge Ram SRT10]]|25,000|331|5.5|4.2|5.5|5.4|4.2}}
+{{CarListFM3|2003|[[Dodge SRT4]]|9,000|343|5.6|5.0|4.7|5.2|4.7}}
+{{CarListFM3|1996|[[Dodge Stealth R/T Turbo]]|8,000|317|6.0|5.1|4.2|5.3|4.8}}
+{{CarListFM3|2003|[[Dodge Viper Competition Coupe]]|110,000|666|6.5|6.9|7.5|6.9|6.8}}
+{{CarListFM3|1999|[[Dodge Viper GTS ACR]]|46,000|529|7.0|5.9|6.2|6.0|5.8}}
+{{CarListFM3|2003|[[Dodge Viper SRT-10]]|43,000|573|7.8|5.9|7.0|6.5|5.6}}
+{{CarListFM3|2008|[[Dodge Viper SRT10 ACR]]|105,000|649|6.9|6.8|7.0|6.0|6.7}}
+
+<!--Ferrari-->
+{{CarListFM3|2005|[[Ferrari 550 Maranello GTS|Ferrari #11 Larbre Competition 550 Maranello GTS]]|600,000|808|6.9|7.4|8.2|7.3|7.4}}
+{{CarListFM3|1998|[[Ferrari F333 SP|Ferrari #12 Risi Competizione F333 SP]]|1,400,000|932|7.7|8.4|9.0|7.6|8.3}}
+{{CarListFM3|1998|[[Ferrari F333 SP|Ferrari #30 MOMO Doran Racing F333 SP]]|1,400,000|933|7.7|8.4|9.0|7.6|8.3}}
+{{CarListFM3|2006|[[Ferrari F430GT|Ferrari #62 Risi Competizione F430GT]]|380,000|749|6.5|7.0|8.0|7.3|7.0}}
+{{CarListFM3|2008|[[Ferrari F430GT|Ferrari #71 Tafel Racing F430GT]]|380,000|752|6.5|7.0|8.0|7.3|7.0}}
+{{CarListFM3|2003|[[Ferrari 550 Maranello GTS|Ferrari #72 Team Alphand Aventures 550 Maranello GTS]]|600,000|806|6.9|7.4|8.2|7.3|7.4}}
+{{CarListFM3|2003|[[Ferrari 550 Maranello GTS|Ferrari #88 Veloqx I Prodrive Racing 550 Maranello]]|600,000|805|6.9|7.4|8.2|7.3|7.4}}
+{{CarListFM3|2008|[[Ferrari F430GT|Ferrari #90 Farnbacher Racing F430GT]]|380,000|751|6.5|7.0|8.0|7.3|7.0}}
+{{CarListFM3|1957|[[Ferrari 250 California]]<sup>C</sup>|2,750,000|221|5.1|4.3|4.8|3.7|4.1}}
+{{CarListFM3|1964|[[Ferrari 250 GTO]]|20,000,000|368|6.3|5.0|5.3|3.7|4.5}}
+{{CarListFM3|1957|[[Ferrari 250 Testa Rossa]]<sup>M</sup>|15,000,000|361|5.7|4.3|5.9|5.1|4.1}}
+{{CarListFM3|1967|[[Ferrari 330 P4]]|11,000,000|629|7.2|5.7|8.0|7.3|5.5}}
+{{CarListFM3|1999|[[Ferrari 360 Modena]]|95,000|517|6.8|5.6|6.2|7.0|5.5}}
+{{CarListFM3|2007|[[Ferrari 430 Scuderia]]<sup>V</sup>|270,000|636|8.0|5.9|7.5|7.5|6.0}}
+{{CarListFM3|2010|[[Ferrari 458 Italia]]<sup>Ho</sup>|250,000|641|8.0|6.1|7.3|7.5|6.2}}
+{{CarListFM3|1991|[[Ferrari 512 TR]]|76,000|411|6.9|5.3|5.4|4.7|5.0}}
+{{CarListFM3|2002|[[Ferrari 575M Maranello]]|120,000|516|7.3|5.5|6.3|6.7|5.3}}
+{{CarListFM3|2006|[[Ferrari 599 GTB Fiorano]]|310,000|631|8.3|5.8|7.5|7.1|5.9}}
+{{CarListFM3|2010|[[Ferrari 599XX]]<sup>Ho</sup>|2,500,000|754|7.5|6.9|8.2|7.2|7.0}}
+{{CarListFM3|2004|[[Ferrari 612 Scaglietti]]|140,000|503|7.6|5.4|6.3|6.6|5.2}}
+{{CarListFM3|2009|[[Ferrari California]]|230,000|488|7.5|5.5|5.8|6.6|5.5}}
+{{CarListFM3|2003|[[Ferrari Challenge Stradale]]|170,000|551|7.0|6.1|6.2|6.9|6.1}}
+{{CarListFM3|1969|[[Ferrari Dino 246 GT]]|57,000|219|5.0|4.8|4.1|3.5|4.5}}
+{{CarListFM3|2002|[[Ferrari Enzo Ferrari]]|1,300,000|721|8.4|6.5|8.2|7.7|6.5}}
+{{CarListFM3|1994|[[Ferrari F355 Berlinetta]]|60,000|455|6.9|5.6|5.8|5.6|5.4}}
+{{CarListFM3|1995|[[Ferrari F355 Challenge]]|77,000|511|6.3|6.0|6.0|6.3|6.0}}
+{{CarListFM3|1987|[[Ferrari F40]]|390,000|596|7.2|6.2|7.1|7.3|5.9}}
+{{CarListFM3|1989|[[Ferrari F40 Competizione]]|1,350,000|830|8.4|7.4|8.9|7.3|7.3}}
+{{CarListFM3|2004|[[Ferrari F430]]|150,000|580|7.7|5.7|6.9|7.2|5.8}}
+{{CarListFM3|1995|[[Ferrari F50]]|450,000|605|7.4|6.4|7.1|6.2|6.2}}
+{{CarListFM3|1996|[[Ferrari F50 GT]]|500,000|867|8.1|7.8|9.0|7.9|7.8}}
+{{CarListFM3|2005|[[Ferrari FXX]]|3,000,000|789|7.3|7.5|8.5|8.0|7.5}}
+{{CarListFM3|1984|[[Ferrari GTO]]|320,000|479|6.5|5.2|6.4|6.5|5.0}}
+
+<!--Fiat-->
+{{CarListFM3|1980|[[Fiat 131 Abarth]]<sup>M</sup>|60,000|134|3.6|4.6|3.3|4.6|4.5}}
+{{CarListFM3|2010|[[Fiat Abarth 500 esseesse]]|22,000|207|4.2|4.5|3.7|4.9|4.4}}
+{{CarListFM3|2010|[[Fiat Punto Evo Sport]]<sup>W</sup>|24,000|148|4.0|4.6|3.0|3.8|4.4}}
+
+<!--Ford-->
+{{CarListFM3|2009|[[Ford FG Falcon|Ford #1 TeamVodafone FG Falcon]]|350,000|720|6.7|6.8|7.5|6.4|6.8}}
+{{CarListFM3|2009|[[Ford FG Falcon|Ford #5 Ford Performance Racing FG Falcon]]|350,000|720|6.7|6.8|7.5|6.4|6.8}}
+{{CarListFM3|2009|[[Ford FG Falcon|Ford #9 SP Tools Racing FG Falcon]]|350,000|720|6.7|6.8|7.5|6.4|6.8}}
+{{CarListFM3|2009|[[Ford 10 Tiger Racing Mustang|Ford #10 Tiger Racing Mustang]]|150,000|704|6.8|6.6|7.5|6.7|6.6}}
+{{CarListFM3|2009|[[Ford FG Falcon|Ford #25 Britek Motorsport FG Falcon]]|350,000|720|6.7|6.8|7.5|6.4|6.8}}
+{{CarListFM3|2009|[[Ford 40 Robertson Racing Ford GT Mk7|Ford #40 Robertson Racing Ford GT Mk7]]<sup>J</sup>|300,000|741|5.9|7.0|7.7|6.6|7.0}}
+{{CarListFM3|2009|[[Ford Fiesta Zetec S]]|16,000|176|4.0|4.9|3.2|4.3|4.8}}
+{{CarListFM3|2010|[[Ford Fusion Sport]]<sup>S</sup>|28,000|240|5.6|4.9|3.6|4.6|4.6}}
+{{CarListFM3|2008|[[Ford Fusion Stock Car]]|150,000|714|7.5|6.9|7.7|6.7|6.8}}
+{{CarListFM3|2009|[[Ford Focus RS (2009)|Ford Focus RS]]|35,000|354|5.0|5.1|4.9|5.5|4.9}}
+{{CarListFM3|2006|[[Ford Focus ST (2006)|Ford Focus ST]]|18,000|265|5.2|4.8|4.1|5.2|4.5}}
+{{CarListFM3|2005|[[Ford GT]]|150,000|557|7.4|5.9|6.4|5.3|5.8}}
+{{CarListFM3|1966|[[Ford GT40 Mk II]]|1,460,000|566|7.2|5.6|6.5|4.5|5.4}}
+{{CarListFM3|1970|[[Ford Mustang Boss 429]]|150,000|252|5.0|4.2|5.1|4.3|3.9}}
+{{CarListFM3|2000|[[Ford SVT Cobra R (2000)|Ford Mustang Cobra R]]|42,000|432|6.7|5.2|5.8|5.4|5.0}}
+{{CarListFM3|2005|[[Ford Mustang GT (2005)|Ford Mustang GT]]|17,000|289|5.7|4.6|4.7|5.3|4.5}}
+{{CarListFM3|1985|[[Ford RS200 Evolution]]|121,000|586|5.1|5.7|7.7|7.7|5.6}}
+{{CarListFM3|2007|[[Ford Shelby GT500 (2007)|Ford Shelby GT500]]|50,000|434|6.5|5.0|5.8|5.6|4.9}}
+{{CarListFM3|2010|[[Ford Shelby GT500 (2010)|Ford Shelby GT500]]<sup>A</sup>|50,000|460|7.3|5.0|6.0|5.4|4.8}}
+{{CarListFM3|1987|[[Ford Sierra Cosworth RS500]]<sup>C</sup>|48,000|311|5.2|5.2|4.5|5.4|5.0}}
+{{CarListFM3|1993|[[Ford SVT Cobra R (1993)|Ford SVT Cobra R]]|14,000|248|4.9|4.9|4.2|5.0|4.6}}
+{{CarListFM3|2003|[[Ford SVT Focus]]|6,000|192|4.3|4.7|3.3|4.0|4.5}}
+{{CarListFM3|2010|[[Ford Taurus SHO]]<sup>R</sup>|38,000|328|6.3|4.9|4.6|5.6|4.6}}
+
+<!--Gumpert-->
+{{CarListFM3|2010|[[Gumpert Apollo S]]<sup>E</sup>|345,000|762|6.8|6.8|8.4|8.0|6.8}}
+
+<!--Holden-->
+{{CarListFM3|2009|[[Holden Commodore VE|Holden #2 Toll Holden Racing Team Commodore VE]]|350,000|717|6.7|6.8|7.5|6.4|6.8}}
+{{CarListFM3|2009|[[Holden Commodore VE|Holden #33 Garry Rogers Team Commodore VE]]|350,000|717|6.7|6.8|7.5|6.4|6.8}}
+{{CarListFM3|2009|[[Holden Commodore VE|Holden #39 Supercheap Auto Racing Commordore VE]]|350,000|717|6.7|6.8|7.5|6.4|6.8}}
+{{CarListFM3|2009|[[Holden Commodore VE|Holden #51 Sprint Gas Racing Commodore VE]]|350,000|717|6.7|6.8|7.5|6.4|6.8}}
+{{CarListFM3|2009|[[Holden HSV w427]]<sup>R</sup>|135,000|469|7.0|5.2|6.2|6.2|5.2}}
+
+<!--Honda-->
+{{CarListFM3|2005|[[Honda NSX (GT500)|Honda #8 ARTA NSX]]|400,000|816|6.4|8.0|8.2|7.6|7.9}}
+{{CarListFM3|2003|[[Honda NSX (GT500)|Honda #16 G'ZOX NSX]]|400,000|814|6.4|8.0|8.2|7.6|7.9}}
+{{CarListFM3|2005|[[Honda NSX (GT500)|Honda #18 TAKATA DOME NSX]]|400,000|815|6.4|8.0|8.2|7.6|7.9}}
+{{CarListFM3|1994|[[Honda Civic 1.5 VTi]]|4,000|163|4.3|4.8|3.0|3.8|4.6}}
+{{CarListFM3|1999|[[Honda Civic Si Coupe (1999)|Honda Civic Si Coupe]]|7,000|173|4.4|4.7|3.4|4.1|4.6}}
+{{CarListFM3|2006|[[Honda Civic Si Coupe (2006)|Honda Civic Si Coupe]]|13,000|262|5.3|5.0|4.0|4.7|4.8}}
+{{CarListFM3|2004|[[Honda Civic Type-R (2004)|Honda Civic Type-R]]|11,000|272|5.1|4.8|4.4|5.1|4.6}}
+{{CarListFM3|2007|[[Honda Civic Type-R (2007)|Honda Civic Type-R]]|17,000|283|5.2|5.3|4.0|4.9|5.0}}
+{{CarListFM3|1995|[[Honda CR-X Del Sol SiR]]|4,000|187|4.3|4.6|3.7|4.3|4.4}}
+{{CarListFM3|1991|[[Honda CR-X SiR]]|4,000|217|5.0|4.5|3.9|4.6|4.2}}
+{{CarListFM3|2009|[[Honda Fit Sport]]|9,000|130|3.9|4.7|3.0|3.8|4.5}}
+{{CarListFM3|2000|[[Honda Integra Type-R (2000)|Honda Integra Type-R]]|8,000|273|5.1|5.0|4.1|4.8|4.8}}
+{{CarListFM3|2002|[[Honda Integra Type-R (2002)|Honda Integra Type-R]]|12,000|285|5.1|5.1|4.2|4.9|4.8}}
+{{CarListFM3|2004|[[Honda Mugen Civic Type-R]]|14,000|299|5.5|5.1|4.2|5.0|4.9}}
+{{CarListFM3|2010|[[Honda Mugen Civic Type-R 3D]]<sup>J</sup>|52,000|346|5.3|5.4|4.6|5.3|5.3}}
+{{CarListFM3|2002|[[Honda Mugen Integra Type-R]]|14,000|328|5.3|5.5|4.4|5.0|5.3}}
+{{CarListFM3|1992|[[Honda NSX-R (1992)|Honda NSX-R]]|98,000|418|6.2|5.4|5.5|6.1|5.2}}
+{{CarListFM3|2005|[[Honda NSX-R (2005)|Honda NSX-R]]|150,000|457|6.5|5.6|5.7|6.2|5.5}}
+{{CarListFM3|2005|[[Honda NSX-R GT]]|900,000|474|5.9|5.9|5.7|6.3|5.7}}
+{{CarListFM3|2000|[[Honda Prelude SiR]]|4,000|241|5.1|5.1|3.5|4.3|4.8}}
+{{CarListFM3|2003|[[Honda S2000]]|15,000|360|5.9|5.2|4.9|5.1|5.0}}
+
+<!--Hyundai-->
+{{CarListFM3|2010|[[Hyundai Forza Motorsport Genesis Coupe]]<sup>Hy</sup>|400,000|856|5.9|8.4|8.3|7.5|8.5}}
+{{CarListFM3|2010|[[Hyundai Genesis Coupe]]|24,000|344|6.0|5.2|4.5|5.5|5.0}}
+{{CarListFM3|2010|[[Hyundai HKS Genesis Coupe]]<sup>Hy</sup>|65,000|497|6.7|5.5|6.3|6.1|5.3}}
+{{CarListFM3|2010|[[Hyundai Rhys Millen Racing Genesis Coupe]]<sup>Hy</sup>|180,000|736|5.7|7.0|7.9|6.8|7.0}}
+{{CarListFM3|2003|[[Hyundai Tuscani Elisa]]|8,000|181|4.6|5.0|3.1|4.2|4.7}}
+
+<!--Infiniti-->
+{{CarListFM3|2003|[[Infiniti G35 Coupe]]|17,000|346|6.4|5.2|4.6|5.6|5.1}}
+{{CarListFM3|2008|[[Infiniti G37 Coupe Sport]]|32,000|367|6.6|5.1|4.9|5.8|4.9}}
+
+<!--Jaguar-->
+{{CarListFM3|2010|[[Jaguar 33 RSR XKR GT|Jaguar #33 Jaguar RSR XKR GT]]<sup>J</sup>|300,000|742|6.4|7.5|7.6|6.9|7.4}}
+{{CarListFM3|1968|[[Jaguar D-Type]]<sup>U</sup>|3,500,000|337|6.6|4.6|4.9|3.0|4.3}}
+{{CarListFM3|1961|[[Jaguar E-type S1]]|75,000|211|4.7|4.5|3.6|4.8|4.3}}
+{{CarListFM3|2010|[[Jaguar XFR]]|80,000|499|8.2|5.2|6.0|6.1|5.1}}
+{{CarListFM3|1993|[[Jaguar XJ220]]|190,000|602|7.8|5.9|7.2|6.2|5.8}}
+{{CarListFM3|2009|[[Jaguar XKR-S (2009)|Jaguar XKR-S]]<sup>Ho</sup>|111,000|486|7.0|5.4|5.7|6.0|5.3}}
+
+<!--Joss-->
+{{CarListFM3|2010|[[Joss JT1]]<sup>E</sup>|400,000|718|7.3|6.6|8.4|7.8|6.5}}
+
+<!--Kia-->
+{{CarListFM3|2010|[[Kia Forte Koup SX]]<sup>W</sup>|18,000|181|4.6|4.9|3.0|4.1|4.6}}
+
+<!--Koenigsegg-->
+{{CarListFM3|2002|[[Koenigsegg CC8S]]|350,000|665|8.8|6.3|7.6|6.4|6.1}}
+{{CarListFM3|2008|[[Koenigsegg CCGT]]|750,000|855|8.1|7.6|8.6|7.6|7.7}}
+
+<!--Lamborghini-->
+{{CarListFM3|1988|[[Lamborghini Countach LP5000 QV]]|150,000|481|7.1|5.5|6.2|5.4|5.1}}
+{{CarListFM3|1999|[[Lamborghini Diablo GTR]]|210,000|665|7.5|6.7|7.5|7.3|6.7}}
+{{CarListFM3|1997|[[Lamborghini Diablo SV]]|110,000|517|7.5|5.7|6.3|5.7|5.4}}
+{{CarListFM3|2005|[[Lamborghini Gallardo]]|115,000|544|7.5|5.9|6.2|5.5|5.7}}
+{{CarListFM3|2007|[[Lamborghini Gallardo Superleggera]]<sup>V</sup>|195,000|603|7.4|6.0|6.9|7.9|6.1}}
+{{CarListFM3|2006|[[Lamborghini Miura Concept]]|450,000|620|7.8|5.9|7.4|7.9|6.0}}
+{{CarListFM3|1967|[[Lamborghini Miura P400]]<sup>M</sup>|420,000|329|5.8|4.8|5.5|4.7|4.5}}
+{{CarListFM3|2005|[[Lamborghini Murciélago]]|190,000|526|8.2|5.8|6.0|5.0|5.7}}
+{{CarListFM3|2007|[[Lamborghini Murciélago LP640]]|300,000|547|7.7|5.9|6.5|5.8|5.9}}
+{{CarListFM3|2010|[[Lamborghini Murciélago LP 670-4 SV]]<sup>Ho</sup>|400,000|648|8.0|6.1|7.3|6.5|6.2}}
+{{CarListFM3|2008|[[Lamborghini Reventón]]|2,100,000|610|7.9|5.8|7.2|6.6|5.8}}
+
+<!--Lancia-->
+{{CarListFM3|1968|[[Lancia 037 Stradale]]<sup>U</sup>|259,000|291|4.6|5.5|3.6|4.4|5.5}}
+{{CarListFM3|1992|[[Lancia Delta Integrale EVO]]|22,000|273|4.5|4.6|4.5|5.8|4.5}}
+{{CarListFM3|1974|[[Lancia Stratos HF Stradale]]|50,000|287|4.7|5.0|4.7|5.9|4.8}}
+
+<!--Land Rover-->
+{{CarListFM3|2008|[[Land Rover Range Rover Supercharged (2008)|Land Rover Range Rover Supercharged]]|68,000|263|5.6|4.2|4.4|5.7|4.1}}
+
+<!--Lexus-->
+{{CarListFM3|2008|[[Lexus SC430 (GT500)|Lexus #6 ENEOS SC430]]|600,000|831|6.1|8.2|8.1|7.3|8.2}}
+{{CarListFM3|2008|[[Lexus SC430 (GT500)|Lexus #25 ECLIPSE ADVAN SC430]]|600,000|830|6.1|8.2|8.1|7.3|8.2}}
+{{CarListFM3|2008|[[Lexus SC430 (GT500)|Lexus #36 PETRONAS TOM'S SC430]]|600,000|828|6.1|8.2|8.1|7.3|8.2}}
+{{CarListFM3|2009|[[Lexus IS F]]|52,000|466|7.2|5.2|5.7|5.9|5.0}}
+{{CarListFM3|2003|[[Lexus IS300]]|12,000|256|5.6|5.0|3.8|4.8|4.8}}
+{{CarListFM3|2006|[[Lexus IS350]]|26,000|349|6.2|5.2|4.3|5.4|5.0}}
+{{CarListFM3|2002|[[Lexus SC430]]|19,000|297|5.9|5.0|4.2|5.0|4.8}}
+
+<!--Lotus-->
+{{CarListFM3|2009|[[Lotus 2-Eleven]]<sup>A</sup>|66,000|572|5.0|6.5|7.0|7.9|6.7}}
+{{CarListFM3|1990|[[Lotus Carlton]]|20,000|409|6.6|4.9|5.8|5.6|4.7}}
+{{CarListFM3|1971|[[Lotus Elan Sprint]]|29,000|131|4.0|4.6|3.3|4.0|4.5}}
+{{CarListFM3|2005|[[Lotus Elise 111S]]|21,000|367|4.6|5.7|4.7|5.9|5.6}}
+{{CarListFM3|2002|[[Lotus Esprit V8]]|45,000|455|6.5|5.4|5.8|6.8|5.2}}
+{{CarListFM3|2009|[[Lotus Evora]]|89,000|423|6.1|5.6|5.2|6.6|5.4}}
+{{CarListFM3|2009|[[Lotus Evora Type 124 Endurance Race Car]]<sup>S</sup>|200,000|650|6.5|6.9|6.8|6.3|7.0}}
+{{CarListFM3|2006|[[Lotus Exige Cup 240]]|33,000|457|5.3|5.9|5.8|6.9|5.9}}
+
+<!--Maserati-->
+{{CarListFM3|2005|[[Maserati MC12 (GT1)|Maserati #9 Vitaphone Racing Team MC12]]|700,000|845|7.3|7.7|8.7|7.8|7.8}}
+{{CarListFM3|2005|[[Maserati MC12 (GT1)|Maserati #15 JMB Racing MC12]]|700,000|843|7.3|7.7|8.7|7.8|7.8}}
+{{CarListFM3|2005|[[Maserati MC12 (GT1)|Maserati #35 Risi Competizione MC12]]|700,000|842|7.3|7.7|8.7|7.8|7.8}}
+{{CarListFM3|2006|[[Maserati GranSport]]|52,000|423|6.6|5.3|5.2|5.8|5.2}}
+{{CarListFM3|2008|[[Maserati GranTurismo]]|90,000|435|6.6|5.5|5.0|6.2|5.4}}
+{{CarListFM3|2004|[[Maserati MC12]]|650,000|663|7.6|6.7|7.5|7.8|6.6}}
+
+<!--Mazda-->
+{{CarListFM3|2009|[[Mazda B09/86|Mazda #16 Dyson Racing B09/86]]|1,200,000|943|7.5|8.6|9.0|7.3|8.6}}
+{{CarListFM3|2011|[[Mazda 2]]<sup>W</sup>|9,000|106|3.6|5.0|3.0|3.2|4.8}}
+{{CarListFM3|2005|[[Mazda Axela Sport 23S]]|12,000|142|4.4|4.7|3.0|3.6|4.5}}
+{{CarListFM3|2008|[[Mazda Furai]]<sup>J</sup>|350,000|840|6.2|8.4|8.4|7.7|8.4}}
+{{CarListFM3|2009|[[Mazda Mazdaspeed 3 (2009)|Mazda Mazdaspeed 3]]|19,000|311|5.3|4.9|4.6|5.1|4.7}}
+{{CarListFM3|2010|[[Mazda Mazdaspeed 3 (2010)|Mazda Mazdaspeed 3]]<sup>S</sup>|20,000|313|5.5|5.0|4.5|5.2|4.7}}
+{{CarListFM3|2001|[[Mazda Mazdaspeed Familia]]|6,000|198|5.2|4.7|3.1|4.1|4.4}}
+{{CarListFM3|2001|[[Mazda Mazdaspeed Roadster]]|14,000|261|4.5|5.4|3.5|4.4|5.2}}
+{{CarListFM3|1994|[[Mazda MX-5 Miata (1994)|Mazda MX-5 Miata]]|6,000|158|3.9|5.1|3.0|3.6|5.0}}
+{{CarListFM3|2007|[[Mazda MX-5 Roadster Coupe]]|16,000|247|4.5|5.3|3.4|4.4|5.2}}
+{{CarListFM3|2010|[[Mazda MX-5 Superlight]]<sup>R</sup>|28,000|250|4.4|5.4|3.3|4.2|5.3}}
+{{CarListFM3|1997|[[Mazda RX-7]]|18,000|394|6.6|5.3|5.0|6.2|5.0}}
+{{CarListFM3|2002|[[Mazda RX-8 Mazdaspeed]]|20,000|302|5.6|5.3|4.0|4.9|5.1}}
+{{CarListFM3|1990|[[Mazda Savanna RX-7]]|6,000|267|5.7|5.1|3.8|5.0|4.8}}
+
+<!--McLaren-->
+{{CarListFM3|1998|[[McLaren F1 GTR|McLaren #41 Gulf Team Davidoff McLaren F1 GTR]]|1,200,000|846|7.0|7.6|8.5|7.8|7.8}}
+{{CarListFM3|1998|[[McLaren F1 GTR|McLaren #41 Team McLaren F1 GTR]]|1,200,000|843|7.0|7.6|8.5|7.8|7.8}}
+{{CarListFM3|1997|[[McLaren F1 GTR|McLaren #43 Team BMW Motorsport McLaren F1 GTR]]|1,200,000|842|7.0|7.6|8.5|7.8|7.8}}
+{{CarListFM3|1997|[[McLaren F1 GT]]|3,800,000|692|8.6|6.5|8.2|7.4|6.5}}
+{{CarListFM3|2011|[[McLaren MP4-12C]]<sup>W</sup>|270,000|667|7.7|6.0|7.8|7.3|6.1}}
+
+<!--Mercedes-Benz-->
+{{CarListFM3|1990|[[Mercedes-Benz 190E 2.5-16 Evolution II]]<sup>C</sup>|59,000|309|4.9|5.5|4.0|4.9|5.4}}
+{{CarListFM3|2009|[[Mercedes-Benz A200 Turbo Coupe]]|24,000|172|4.7|4.2|3.7|4.7|4.0}}
+{{CarListFM3|1998|[[Mercedes-Benz AMG Mercedes CLK GTR]]|1,230,000|655|7.4|6.5|7.2|6.6|6.4}}
+{{CarListFM3|1954|[[Mercedes-Benz 300SL Gullwing Coupe]]|450,000|189|4.2|4.6|3.5|4.3|4.3}}
+{{CarListFM3|2004|[[Mercedes-Benz C32 AMG]]|17,000|340|6.7|4.9|4.7|5.7|4.6}}
+{{CarListFM3|2010|[[Mercedes-Benz C63 AMG]]<sup>W</sup>|57,000|463|7.4|5.1|6.2|5.9|5.0}}
+{{CarListFM3|2010|[[Mercedes-Benz CL 65 AMG]]<sup>W</sup>|190,000|497|8.5|4.9|6.3|5.8|5.0}}
+{{CarListFM3|2003|[[Mercedes-Benz CLK55 AMG Coupe]]|20,000|414|7.2|5.2|5.5|6.3|5.0}}
+{{CarListFM3|2010|[[Mercedes-Benz E 63 AMG (2010)|Mercedes-Benz E 63 AMG]]<sup>R</sup>|100,000|464|7.9|5.1|6.1|5.9|4.9}}
+{{CarListFM3|2009|[[Mercedes-Benz ML 63 AMG]]|85,000|335|6.3|4.3|5.3|6.4|4.3}}
+{{CarListFM3|2008|[[Mercedes Benz C-Class Touring Car]]|800,000|818|6.0|7.9|8.2|7.1|8.1}}
+{{CarListFM3|2009|[[Mercedes-Benz SL 65 AMG Black Series]]|290,000|548|7.3|5.6|6.7|6.5|5.5}}
+{{CarListFM3|2010|[[Mercedes-Benz SLK55 AMG (2010)|Mercedes-Benz SLK55 AMG]]<sup>S</sup>|44,000|455|6.9|5.2|6.1|6.3|5.2}}
+{{CarListFM3|2005|[[Mercedes-Benz SLR]]|300,000|609|8.2|5.7|7.2|6.6|5.8}}
+{{CarListFM3|2009|[[Mercedes-Benz SLR Stirling Moss]]<sup>Ho</sup>|1,100,000|638|8.3|5.8|7.4|6.6|5.9}}
+
+<!--Mini-->
+{{CarListFM3|2003|[[Mini Cooper S (2003)|Mini Cooper S]]|12,000|209|4.6|4.9|3.4|4.1|4.7}}
+{{CarListFM3|2011|[[Mini Coupé Concept]]<sup>R</sup>|30,000|309|5.2|4.6|4.7|5.3|4.6}}
+{{CarListFM3|2009|[[Mini John Cooper Works]]|27,000|298|5.0|4.6|4.5|5.3|4.6}}
+
+<!--Mitsubishi-->
+{{CarListFM3|2010|[[Mitsubishi Colt Ralliart]]<sup>W</sup>|25,500|219|3.9|4.8|3.8|4.9|4.7}}
+{{CarListFM3|1995|[[Mitsubishi Eclipse GSX]]|4,000|256|5.7|5.0|3.7|4.8|4.7}}
+{{CarListFM3|2006|[[Mitsubishi Eclipse GT]]|13,000|251|5.2|5.0|4.0|4.5|4.7}}
+{{CarListFM3|2003|[[Mitsubishi Eclipse GTS]]|9,000|138|4.7|4.8|3.0|3.5|4.5}}
+{{CarListFM3|1998|[[Mitsubishi FTO GP Version R]]|6,000|241|5.1|5.0|3.6|4.8|4.7}}
+{{CarListFM3|1997|[[Mitsubishi GTO]]|8,000|324|6.0|5.1|4.2|5.5|4.8}}
+{{CarListFM3|2006|[[Mitsubishi HKS Time Attack Evolution CT230R]]|300,000|675|5.7|6.3|8.4|9.4|6.4}}
+{{CarListFM3|1999|[[Mitsubishi Lancer Evolution VI GSR]]|14,000|359|5.2|5.4|4.8|6.0|5.2}}
+{{CarListFM3|2004|[[Mitsubishi Lancer Evolution VIII MR]]|21,000|374|5.6|5.4|4.9|6.2|5.2}}
+{{CarListFM3|2008|[[Mitsubishi Lancer Evolution IX MR]]|23,000|380|5.6|5.4|4.9|6.2|5.3}}
+{{CarListFM3|2008|[[Mitsubishi Lancer Evolution X GSR]]|26,000|381|5.4|5.4|4.8|6.1|5.2}}
+
+<!--Morgan-->
+{{CarListFM3|2010|[[Morgan Aero SuperSports]]<sup>S</sup>|180,000|508|6.4|5.3|6.6|6.3|5.2}}
+
+<!--Mosler-->
+{{CarListFM3|2010|[[Mosler MT900S]]<sup>E</sup>|320,000|740|7.4|7.5|8.0|7.9|7.4}}
+
+<!--Nissan-->
+{{CarListFM3|2003|[[Nissan Fairlady Z (GT300)|Nissan #3 HASEMISPORT ENDLESS Z]]|200,000|713|6.5|7.5|7.1|6.9|7.4}}
+{{CarListFM3|2005|[[Nissan Fairlady Z (GT300)|Nissan #46 Dream Cube's ADVAN Z]]|200,000|712|6.5|7.5|7.1|6.9|7.4}}
+{{CarListFM3|2008|[[Nissan GT-R (GT500)|Nissan #3 YellowHat YMS TOMICA GT-R]]|600,000|847|6.4|8.4|8.1|7.3|8.4}}
+{{CarListFM3|2008|[[Nissan GT-R (GT500)|Nissan #12 CALSONIC IMPUL GT-R]]|600,000|846|6.4|8.4|8.1|7.3|8.4}}
+{{CarListFM3|2003|[[Nissan Skyline (GT500)|Nissan #12 CALSONIC SKYLINE]]|400,000|825|6.3|8.0|8.0|7.0|8.0}}
+{{CarListFM3|2008|[[Nissan GT-R (GT500)|Nissan #23 XANAVI NISMO GT-R]]|600,000|846|6.4|8.4|8.1|7.3|8.4}}
+{{CarListFM3|2003|[[Nissan Skyline (GT500)|Nissan #23 XANAVI NISMO GT-R]]|400,000|825|6.3|8.0|8.0|7.0|8.0}}
+{{CarListFM3|2008|[[Nissan GT-R (GT500)|Nissan #24 WOODONE ADVAN Clarion GT-R]]|600,000|845|6.4|8.4|8.1|7.3|8.4}}
+{{CarListFM3|1997|[[Nissan R390 GT1|Nissan #23 Nissan Motorsports R390]]|2,000,000|864|7.0|7.8|8.6|7.5|7.9}}
+{{CarListFM3|1998|[[Nissan R390 GT1|Nissan #32 NISSAN R390 GT1]]|2,000,000|864|7.0|7.8|8.6|7.5|7.9}}
+{{CarListFM3|2010|[[Nissan 370Z]]|32,000|441|6.6|5.6|5.5|6.4|5.3}}
+{{CarListFM3|1970|[[Nissan Datsun 510]]|22,000|102|3.2|4.8|3.0|3.8|4.7}}
+{{CarListFM3|2003|[[Nissan Fairlady Z (2003)|Nissan Fairlady Z]]|14,000|375|6.5|5.3|4.8|5.9|5.0}}
+{{CarListFM3|1969|[[Nissan Fairlady Z 432]]|12,000|139|3.6|4.9|3.0|3.8|4.8}}
+{{CarListFM3|1994|[[Nissan Fairlady Z Version S Twin Turbo]]|9,000|296|5.8|5.1|4.2|5.0|4.8}}
+{{CarListFM3|2010|[[Nissan GT-R SpecV]]<sup>Ho</sup>|150,000|609|8.0|5.8|6.9|8.8|5.8}}
+{{CarListFM3|1993|[[Nissan Mine's R32 Skyline GT-R]]|260,000|606|7.9|5.7|7.8|9.0|5.5}}
+{{CarListFM3|2002|[[Nissan Mine's R34 Skyline GT-R]]|300,000|616|7.5|5.9|7.7|7.9|5.9}}
+{{CarListFM3|1998|[[Nissan R390]]|1,250,000|706|7.3|6.1|7.8|6.8|6.0}}
+{{CarListFM3|2007|[[Nissan Sentra SE-R Spec V]]|16,000|230|4.9|4.7|3.9|4.9|4.4}}
+{{CarListFM3|1992|[[Nissan Silvia CLUB K's]]|5,000|235|5.2|4.8|3.8|4.9|4.5}}
+{{CarListFM3|1994|[[Nissan Silvia K's]]|5,000|250|4.9|5.0|3.9|5.0|4.7}}
+{{CarListFM3|2000|[[Nissan Silvia Spec-R]]|16,000|338|5.7|5.2|4.6|5.7|4.9}}
+{{CarListFM3|1971|[[Nissan Skyline 2000GT-R]]<sup>M</sup>|50,000|131|4.2|4.3|3.5|4.2|4.2}}
+{{CarListFM3|2003|[[Nissan Skyline Coupe 350GT]]|14,000|350|6.3|5.2|4.6|5.7|5.0}}
+{{CarListFM3|1993|[[Nissan Skyline GT-R V-Spec (1993)|Nissan Skyline GT-R V-Spec]]|13,000|366|5.6|5.2|4.9|5.6|5.2}}
+{{CarListFM3|1997|[[Nissan Skyline GT-R V-Spec (1997)|Nissan Skyline GT-R V-Spec]]|19,000|368|5.7|5.4|4.7|5.4|5.2}}
+{{CarListFM3|2002|[[Nissan Skyline GT-R V-Spec II]]|54,000|401|6.0|5.5|5.0|6.0|5.3}}
+{{CarListFM3|2000|[[Nissan Top Secret Silvia D1-Spec S15]]|250,000|648|5.2|5.8|7.6|6.7|5.8}}
+{{CarListFM3|2009|[[Nissan Versa SL]]|9,000|128|4.0|4.8|3.0|3.5|4.6}}
+
+<!--Opel-->
+{{CarListFM3|2003|[[Opel Astra V8|Opel #5 OPC TEAM PHOENIX Astra V8]]|200,000|817|6.1|8.0|8.2|7.1|8.1}}
+{{CarListFM3|2004|[[Opel Speedster Turbo]]|37,000|382|5.0|5.3|5.1|6.6|5.1}}
+
+<!--Pagani-->
+{{CarListFM3|2003|[[Pagani 17 Carsport America Zonda GR|Pagani #17 Carsport America Zonda GR]]|300,000|826|7.1|7.4|8.5|7.5|7.5}}
+{{CarListFM3|1999|[[Pagani Zonda C12]]|400,000|631|6.7|6.4|7.3|7.4|6.3}}
+{{CarListFM3|2010|[[Pagani Zonda R]]<sup>A</sup>|1,600,000|848|8.2|7.6|8.6|7.9|7.6}}
+
+<!--Panoz-->
+{{CarListFM3|2003|[[Panoz LMP-01|Panoz #11 JML Team Panoz LMP-01]]|1,200,000|934|7.0|8.7|9.0|7.9|8.7}}
+{{CarListFM3|2002|[[Panoz LMP-01|Panoz #50 Panoz Motor Sports LMP-01]]|1,200,000|933|7.0|8.7|9.0|7.9|8.7}}
+{{CarListFM3|2005|[[Panoz Esperante GTLM (GT2)|Panoz #51 Panoz Esperante GTLM]]|250,000|773|6.7|7.3|7.8|7.2|7.3}}
+{{CarListFM3|2006|[[Panoz Esperante GTLM (GT2)|Panoz #81 Team LNT Panoz Esperante GTLM]]|250,000|776|6.7|7.3|7.9|7.2|7.3}}
+{{CarListFM3|2005|[[Panoz Esperante GTLM]]|80,000|505|7.8|5.4|6.3|5.6|5.2}}
+
+<!--Peugeot-->
+{{CarListFM3|1993|[[Peugeot 908|Peugeot #3 Peugeot Talbot Sport 905 EVO 1C]]|2,000,000|953|7.4|8.9|9.1|7.8|8.9}}
+{{CarListFM3|2007|[[Peugeot 908|Peugeot #8 Peugeot Sport 908]]|1,500,000|997|8.1|9.0|9.5|8.3|9.0}}
+{{CarListFM3|2009|[[Peugeot 908|Peugeot #9 Peugeot Sport Total 908]]|1,500,000|995|7.8|9.0|9.5|8.3|9.0}}
+{{CarListFM3|2004|[[Peugeot 206 RC]]|15,000|275|4.6|4.6|4.5|5.2|4.5}}
+{{CarListFM3|2007|[[Peugeot 207 RC]]|20,000|219|4.7|5.0|3.4|4.4|4.8}}
+{{CarListFM3|2007|[[Peugeot 207 Super 2000]]|300,000|537|4.9|6.2|6.2|5.8|6.2}}
+{{CarListFM3|2010|[[Peugeot RCZ]]<sup>S</sup>|34,000|273|5.1|5.3|3.7|4.3|5.0}}
+
+<!--Pontiac-->
+{{CarListFM3|1987|[[Pontiac Firebird Trans Am GTA]]|6,000|194|5.2|4.7|3.3|4.4|4.4}}
+{{CarListFM3|2002|[[Pontiac Firebird Trans Am Ram Air]]|13,000|322|6.0|4.9|5.1|5.0|4.5}}
+{{CarListFM3|1973|[[Pontiac Firebird Trans Am SD-455]]|25,000|236|5.3|4.1|4.9|4.4|3.8}}
+{{CarListFM3|2009|[[Pontiac G8 GXP]]|40,000|394|6.3|4.9|5.8|5.6|4.8}}
+{{CarListFM3|2004|[[Pontiac GTO (2004)|Pontiac GTO]]|17,000|340|6.4|4.9|5.2|5.4|4.6}}
+{{CarListFM3|2006|[[Pontiac Solstice]]|17,000|252|4.0|5.4|3.2|4.5|5.2}}
+
+<!--Porsche-->
+{{CarListFM3|2008|[[Porsche 911 GT3 Cup (997)|Porsche #2 Gruppe Orange Racing 911 GT3 Cup]]|200,000|666|6.6|6.3|7.6|7.6|6.4}}
+{{CarListFM3|2005|[[Porsche 911 GT3 Cup (997)|Porsche #3 Lechner Racing School Team 1 911 GT3 Cup]]|200,000|656|6.7|6.3|7.4|7.5|6.3}}
+{{CarListFM3|2005|[[Porsche 911 GT3-RSR (996)|Porsche #5 Xbox 360 911 GT3-RSR]]|250,000|715|5.7|7.0|7.8|7.7|7.0}}
+{{CarListFM3|1998|[[Porsche 911 GT1-98|Porsche #5 Zakspeed Racing 911 GT1-98]]|1,200,000|849|6.6|7.8|8.4|7.3|7.9}}
+{{CarListFM3|2008|[[Porsche RS Spyder Evo|Porsche #7 Penske Racing RS Spyder Evo]]|1,000,000|952|7.5|9.0|9.0|7.8|9.0}}
+{{CarListFM3|2008|[[Porsche RS Spyder Evo|Porsche #16 Dyson Racing RS Spyder Evo]]|1,000,000|955|7.5|9.0|9.0|7.8|9.0}}
+{{CarListFM3|1987|[[Porsche 962c|Porsche #17 Racing Porsche AG 962c]]|2,000,000|931|6.8|8.7|8.9|7.4|8.6}}
+{{CarListFM3|1998|[[Porsche 911 GT1-98|Porsche #26 Porsche AG 911 GT1-98]]|1,200,000|849|6.6|7.8|8.4|7.3|7.9}}
+{{CarListFM3|2005|[[Porsche 911 GT3-RSR (996)|Porsche #31 Petersen-White Lightning 911 GT3-RSR]]|250,000|713|5.7|7.0|7.8|7.7|7.0}}
+{{CarListFM3|2008|[[Porsche 911 GT3-RSR (997)|Porsche #45 Flying Lizard 911 GT3-RSR]]|250,000|742|6.5|7.2|7.9|7.2|7.2}}
+{{CarListFM3|2005|[[Porsche 911 GT3 Cup (996)|Porsche #55 Applied Materials 911 GT3 Cup]]|200,000|647|6.7|6.3|7.4|7.7|6.3}}
+{{CarListFM3|2005|[[Porsche 911 GT3 Cup (996)|Porsche #66 AXA Racing 911 GT3 Cup]]|200,000|647|6.7|6.3|7.4|7.7|6.3}}
+{{CarListFM3|2007|[[Porsche 911 GT3-RSR (997)|Porsche #80 Flying Lizard 911 GT3-RSR]]|250,000|734|6.5|7.1|7.8|7.2|7.1}}
+{{CarListFM3|2006|[[Porsche 911 GT3 Cup (997)|Porsche #82 Red Bull 911 GT3 Cup]]|200,000|666|6.6|6.3|7.6|7.6|6.4}}
+{{CarListFM3|1973|[[Porsche 911 Carrera RS]]|200,000|280|4.8|4.8|4.4|5.8|4.6}}
+{{CarListFM3|1998|[[Porsche 911 GT1 Strassenversion]]|1,300,000|716|6.7|7.0|7.8|7.3|7.1}}
+{{CarListFM3|1995|[[Porsche 911 GT2 (1995)|Porsche 911 GT2]]|240,000|540|6.9|5.8|6.2|7.7|5.7}}
+{{CarListFM3|2008|[[Porsche 911 GT2 (997)]]|186,000|590|7.7|6.0|6.9|7.8|6.1}}
+{{CarListFM3|2004|[[Porsche 911 GT3 (996)]]|65,000|528|7.3|5.9|6.0|7.0|6.0}}
+{{CarListFM3|2007|[[Porsche 911 GT3 (997)]]|105,000|551|7.6|5.9|6.4|6.9|6.0}}
+{{CarListFM3|2007|[[Porsche 911 GT3 RS (997)]]<sup>V</sup>|150,000|562|7.2|6.1|6.4|6.9|6.2}}
+{{CarListFM3|2010|[[Porsche 911 Sport Classic]]<sup>J</sup>|240,000|531|7.3|5.7|6.4|7.5|5.8}}
+{{CarListFM3|2007|[[Porsche 911 Turbo (997)]]|115,000|639|7.8|5.7|6.5|8.4|5.7}}
+{{CarListFM3|1982|[[Porsche 911 Turbo 3.3]]|38,000|360|5.7|5.0|5.2|5.4|4.9}}
+{{CarListFM3|1970|[[Porsche 914/6]]|14,000|126|3.6|4.9|3.0|3.6|4.7}}
+{{CarListFM3|1989|[[Porsche 944 Turbo]]|12,000|294|5.4|5.0|4.2|5.5|4.8}}
+{{CarListFM3|1987|[[Porsche 959]]|400,000|541|7.6|5.4|6.8|8.5|5.2}}
+{{CarListFM3|2003|[[Porsche Boxster S (2003)|Porsche Boxster S]]|25,000|392|6.1|5.4|4.9|6.1|5.2}}
+{{CarListFM3|2010|[[Porsche Boxster S (2010)|Porsche Boxster S]]<sup>A</sup>|42,000|447|6.4|5.5|5.6|6.4|5.4}}
+{{CarListFM3|2003|[[Porsche Carrera GT]]|340,000|640|7.8|6.2|7.4|7.7|6.4}}
+{{CarListFM3|2009|[[Porsche Cayenne Turbo S]]|118,000|401|7.8|6.2|7.4|7.7|6.4}}
+{{CarListFM3|2006|[[Porsche Cayman S]]|44,000|453|6.6|5.7|5.5|6.4|5.4}}
+{{CarListFM3|2010|[[Porsche Panamera Turbo (2010)|Porsche Panamera Turbo]]<sup>Ho</sup>|130,000|517|7.6|5.4|6.2|7.8|5.4}}
+
+<!--Radical-->
+{{CarListFM3|2010|[[Radical SR8 Supersport]]<sup>E</sup>|115,000|853|6.3|7.9|9.2|8.4|8.0}}
+
+<!--Renault-->
+{{CarListFM3|1980|[[Renault 5 Turbo]]|48,000|241|4.0|4.6|4.1|5.4|4.6}}
+{{CarListFM3|2007|[[Renault Clio RS 197]]|20,000|291|4.8|5.2|4.3|5.2|5.0}}
+{{CarListFM3|2010|[[Renault Mégane RS 250]]<sup>R</sup>|28,000|427|5.3|5.2|4.6|5.5|5.0}}
+{{CarListFM3|2003|[[Renault Sport Clio V6]]|20,000|312|5.2|5.1|4.3|5.2|5.1}}
+{{CarListFM3|2009|[[Renault Twingo Renault Sport Cup]]|14,000|200|4.1|5.1|3.2|4.3|5.0}}
+
+<!--Rossion-->
+{{CarListFM3|2010|[[Rossion Q1]]<sup>E</sup>|100,000|598|7.2|6.2|7.1|7.4|6.2}}
+
+<!--Saab-->
+{{CarListFM3|2002|[[Saab 9-3 Aero]]|11,000|206|5.1|4.8|3.5|4.2|4.5}}
+{{CarListFM3|2008|[[Saab 9-3 Turbo X]]|27,000|230|5.5|4.9|3.4|4.5|4.6}}
+{{CarListFM3|1978|[[Saab 99 Turbo]]<sup>C</sup>|7,000|108|3.9|4.7|3.0|3.5|4.5}}
+
+<!--Saleen-->
+{{CarListFM3|2003|[[Saleen S7R|Saleen #2 Konrad Motorsports S7R]]|600,000|834|7.2|7.5|8.7|7.9|7.7}}
+{{CarListFM3|2002|[[Saleen S7R|Saleen #11 Graham Nash Motorsport S7R]]|600,000|833|7.2|7.5|8.7|7.9|7.7}}
+{{CarListFM3|2001|[[Saleen S7R|Saleen #26 Konrad Motorsports S7R]]|600,000|842|7.2|7.5|8.7|7.9|7.7}}
+{{CarListFM3|2000|[[Saleen S281]]|20,000|387|6.0|5.1|5.3|5.7|4.8}}
+{{CarListFM3|2006|[[Saleen S281 E]]|39,000|483|6.8|5.1|6.2|5.9|5.0}}
+{{CarListFM3|2008|[[Saleen S331 Supercab]]|45,000|221|4.8|4.2|3.7|3.7|4.3}}
+{{CarListFM3|2010|[[Saleen S5S Raptor]]<sup>A</sup>|185,000|647|7.5|6.0|7.8|7.2|6.0}}
+{{CarListFM3|2004|[[Saleen S7]]|320,000|698|8.9|6.5|8.1|8.0|6.4}}
+
+<!--Saturn-->
+{{CarListFM3|2006|[[Saturn ION Red Line]]|11,000|276|5.3|4.8|4.2|4.6|4.5}}
+{{CarListFM3|2007|[[Saturn Sky Red Line]]|21,000|365|5.1|5.2|4.7|5.7|5.0}}
+
+<!--Scion-->
+{{CarListFM3|2005|[[Scion tC (2005)|Scion tC]]|10,000|203|4.6|4.8|3.4|4.4|4.6}}
+{{CarListFM3|2009|[[Scion xD]]|9,000|175|4.4|4.8|3.0|3.9|4.6}}
+
+<!--SEAT-->
+{{CarListFM3|2009|[[SEAT Ibiza CUPRA]]|17,000|286|4.8|5.0|4.1|5.1|4.8}}
+{{CarListFM3|2007|[[SEAT Leon CUPRA]]|21,000|321|5.3|5.1|4.6|5.2|4.8}}
+{{CarListFM3|2003|[[SEAT Leon Cupra R (2003)|SEAT Leon Cupra R]]|11,000|295|5.1|5.2|4.1|5.0|4.9}}
+{{CarListFM3|2010|[[SEAT Leon CUPRA R (2010)|SEAT Leon CUPRA R]]<sup>R</sup>|24,000|439|5.5|4.9|6.6|6.5|4.7}}
+{{CarListFM3|2007|[[SEAT Leon Supercup]]|47,000|471|4.3|6.3|5.4|5.9|6.3}}
+
+<!--Shelby-->
+{{CarListFM3|1965|[[Shelby Cobra 427 S/C]]|1,430,000|499|6.4|4.9|6.9|5.9|4.7}}
+{{CarListFM3|1965|[[Shelby Cobra Daytona Coupe]]<sup>M</sup>|1,000,000|476|6.8|5.2|6.2|4.5|4.9}}
+{{CarListFM3|1968|[[Shelby GT-500KR]]|120,000|206|3.7|4.0|4.7|4.2|3.8}}
+{{CarListFM3|1999|[[Shelby Series 1]]|140,000|461|5.7|5.8|5.6|4.5|5.5}}
+
+<!--Spada Vetture Sport-->
+{{CarListFM3|2010|[[Spada Vetture Sport Codatronca TS]]<sup>E</sup>|400,000|670|7.9|6.1|7.6|6.9|6.1}}
+
+<!--Spyker-->
+{{CarListFM3|2010|[[Spyker C8 Laviolette LM85]]<sup>E</sup>|260,000|517|7.0|5.6|6.3|7.2|5.6}}
+
+<!--SSC-->
+{{CarListFM3|2010|[[SSC Ultimate Aero]]<sup>E</sup>|620,000|672|9.9|6.1|8.4|7.6|6.1}}
+
+<!--Subaru-->
+{{CarListFM3|2003|[[Subaru 77 CUSCO SUBARU ADVAN IMPREZA|Subaru #77 CUSCO SUBARU ADVAN IMPREZA]]|200,000|713|6.3|7.5|7.1|7.2|7.5}}
+{{CarListFM3|1998|[[Subaru Impreza 22B STi]]|36,000|366|5.4|5.5|4.8|6.0|5.3}}
+{{CarListFM3|2004|[[Subaru Impreza WRX STi (2004)|Subaru Impreza WRX STi]]|17,000|374|5.7|5.4|5.0|6.3|5.3}}
+{{CarListFM3|2005|[[Subaru Impreza WRX STi (2005)|Subaru Impreza WRX STi]]|18,000|382|5.9|5.4|5.0|6.4|5.3}}
+{{CarListFM3|2008|[[Subaru Impreza WRX STI (2008)|Subaru Impreza WRX STI]]|27,000|372|5.4|5.2|4.9|6.4|5.1}}
+{{CarListFM3|2005|[[Subaru Legacy B4 2.0 GT]]|18,000|319|6.0|5.1|4.3|5.5|4.9}}
+{{CarListFM3|2010|[[Subaru Legacy B4 2.5 GT]]<sup>S</sup>|31,000|339|6.2|5.1|4.5|5.8|4.9}}
+
+<!--Toyota-->
+{{CarListFM3|1999|[[Toyota 3 Toyota Motorsports GT-ONE TS020|Toyota #3 Toyota Motorsports GT-ONE TS020]]|2,000,000|934|7.9|8.4|8.8|7.6|8.4}}
+{{CarListFM3|2005|[[Toyota Supra (GT500)|Toyota #6 EXXON Superflo Supra]]|400,000|819|6.2|8.1|8.1|7.2|8.0}}
+{{CarListFM3|2006|[[Toyota Supra (GT500)|Toyota #25 ECLIPSE ADVAN SUPRA]]|400,000|817|6.2|8.1|8.1|7.2|8.0}}
+{{CarListFM3|2004|[[Toyota Supra (GT500)|Toyota #35 YellowHat YMS Supra]]|400,000|818|6.2|8.1|8.1|7.2|8.0}}
+{{CarListFM3|2005|[[Toyota Supra (GT500)|Toyota #36 OPEN INTERFACE TOM'S SUPRA]]|400,000|817|6.2|8.1|8.1|7.2|8.0}}
+{{CarListFM3|1969|[[Toyota 2000GT]]|117,000|121|4.5|4.7|3.0|3.3|4.4}}
+{{CarListFM3|2004|[[Toyota Altezza RS200]]|10,000|257|5.5|5.1|3.6|4.5|4.9}}
+{{CarListFM3|1994|[[Toyota Celica GT-Four ST205]]|9,000|251|5.5|4.9|3.7|4.7|4.6}}
+{{CarListFM3|2003|[[Toyota Celica SS-I]]|8,000|272|5.4|5.1|4.0|4.7|4.8}}
+{{CarListFM3|1984|[[Toyota Celica Supra]]|4,000|178|4.3|5.1|3.0|3.8|4.9}}
+{{CarListFM3|2002|[[Toyota MR-S]]|9,000|218|4.3|5.2|3.4|4.4|5.0}}
+{{CarListFM3|1995|[[Toyota MR2 GT]]|7,000|307|5.7|4.9|4.5|5.8|4.7}}
+{{CarListFM3|2002|[[Toyota Soarer 430SCV]]|22,000|299|6.0|5.0|4.2|5.0|4.8}}
+{{CarListFM3|1985|[[Toyota Sprinter Trueno GT Apex]]|5,000|200|4.2|4.6|4.0|4.9|4.4}}
+{{CarListFM3|1992|[[Toyota Supra 2.0 GT Twin Turbo]]|5,000|204|5.5|5.0|3.0|3.9|4.7}}
+{{CarListFM3|1998|[[Toyota Supra RZ]]|24,000|396|6.4|5.3|5.1|6.0|5.0}}
+{{CarListFM3|1995|[[Toyota Tom's T020 MR2]]|11,000|356|5.6|5.4|4.6|5.9|5.2}}
+{{CarListFM3|2002|[[Toyota Tom's W123 MR-S]]|15,000|340|4.8|5.6|4.4|5.6|5.5}}
+{{CarListFM3|1998|[[Toyota Top Secret 0-300 Supra]]|300,000|702|8.3|5.8|7.7|6.6|5.8}}
+{{CarListFM3|2008|[[Toyota Yaris S]]|11,000|150|4.1|4.0|3.0|3.7|4.6}}
+
+<!--TVR-->
+{{CarListFM3|1998|[[TVR Cerbera Speed 12]]|1,000,000|775|9.3|6.5|8.2|7.3|6.4}}
+{{CarListFM3|2005|[[TVR Sagaris]]|57,000|565|6.7|5.7|6.9|6.3|5.6}}
+{{CarListFM3|2001|[[TVR Tuscan S]]|26,000|523|6.7|5.6|6.6|6.6|5.4}}
+
+<!--Vauxhall-->
+{{CarListFM3|2006|[[Vauxhall Astra VXR (2006)|Vauxhall Astra VXR]]|17,000|305|5.4|5.0|4.3|5.0|4.8}}
+{{CarListFM3|2009|[[Vauxhall Corsa VXR (2009)|Vauxhall Corsa VXR]]|21,000|252|4.5|4.8|4.2|4.7|4.6}}
+{{CarListFM3|2010|[[Vauxhall Insignia VXR]]<sup>R</sup>|42,000|349|6.5|5.0|4.6|5.9|4.8}}
+{{CarListFM3|2005|[[Vauxhall Monaro VXR]]|25,000|352|6.6|5.0|5.1|4.7|4.8}}
+{{CarListFM3|2004|[[Vauxhall VX220 Turbo]]|20,000|397|5.4|5.3|5.1|6.7|5.1}}
+
+<!--Volkswagen-->
+{{CarListFM3|2004|[[Volkswagen Beetle (2004)|Volkswagen Beetle]]|7,000|149|4.1|4.6|3.0|3.9|4.4}}
+{{CarListFM3|2003|[[Volkswagen Bora VR6]]|9,000|199|5.1|4.7|3.5|4.5|4.4}}
+{{CarListFM3|1995|[[Volkswagen Corrado VR6]]|6,000|186|5.0|4.6|3.2|4.4|4.4}}
+{{CarListFM3|2006|[[Volkswagen Golf GTi (2006)|Volkswagen Golf GTi]]|16,000|276|4.9|5.2|3.9|4.9|5.0}}
+{{CarListFM3|1992|[[Volkswagen Golf GTi 16v Mk2]]|5,000|139|4.0|4.9|3.0|3.6|4.6}}
+{{CarListFM3|2010|[[Volkswagen Golf GTI Mk6]]|19,000|278|5.2|5.1|4.0|4.7|4.8}}
+{{CarListFM3|2010|[[Volkswagen Golf R (2010)|Volkswagen Golf R]]<sup>R</sup>|34,000|347|5.6|5.2|4.7|6.0|5.0}}
+{{CarListFM3|2003|[[Volkswagen Golf R32]]|18,000|304|5.3|5.0|4.5|5.8|4.8}}
+{{CarListFM3|1984|[[Volkswagen Rabbit GTI]]|4,000|100|3.4|4.4|3.0|4.0|4.3}}
+{{CarListFM3|2009|[[Volkswagen Scirocco GT]]|27,000|283|4.9|5.2|4.0|5.1|4.9}}
+{{CarListFM3|2008|[[Volkswagen Touareg R50]]|68,000|249|5.4|4.3|4.0|5.4|4.4}}
+
+<!--Volvo-->
+{{CarListFM3|2004|[[Volvo 24 At-Speed S60 R|Volvo #24 At-Speed S60 R]]|150,000|671|6.1|6.4|7.9|9.2|6.5}}
+{{CarListFM3|1983|[[Volvo 242 Turbo Evolution]]<sup>C</sup>|7,500|212|4.9|4.2|4.4|4.7|4.1}}
+{{CarListFM3|2009|[[Volvo C30 R-Design]]|23,000|268|5.5|4.7|3.9|5.1|4.5}}
+{{CarListFM3|2004|[[Volvo S60 R]]|16,000|316|6.0|5.0|4.4|5.5|4.8}}
+
+<!--Wiesmann-->
+{{CarListFM3|2010|[[Wiesmann GT MF5 (2010)|Wiesmann GT MF5]]<sup>E</sup>|225,000|613|7.4|5.8|7.3|6.7|5.7}}
+|}
+<small>
+<sup>Hy</sup>Vehicles featured in the [[Forza_Motorsport_3/Downloadable_Content#Hyundai_Car_Pack|Hyundai Car Pack]].<br />
+<sup>Ho</sup>Vehicles featured in the [[Forza_Motorsport_3/Downloadable_Content#Hot Holidays Car Pack|Hot Holidays Car Pack]].<br />
+<sup>A</sup>Vehicles featured in the [[Forza_Motorsport_3/Downloadable_Content#AutoWeek Car Show Pack|AutoWeek Car Show Pack]].<br />
+<sup>V</sup>Vehicles featured in the [[Forza_Motorsport_3/Downloadable_Content#VIP Car Pack|VIP Car Pack]].<br />
+<sup>M</sup>Vehicles featured in the [[Forza_Motorsport_3/Downloadable_Content#Motorsport Legends Car Pack|Motorsport Legends Car Pack]].<br />
+<sup>J</sup>Vehicles featured in the [[Forza_Motorsport_3/Downloadable_Content#Jalopnik Car Pack|Jalopnik Car Pack]].<br />
+<sup>R</sup>Vehicles featured in the [[Forza_Motorsport_3/Downloadable_Content#Road & Track Car Pack|Road & Track Car Pack]].<br />
+<sup>E</sup>Vehicles featured in the [[Forza_Motorsport_3/Downloadable_Content#Exotic Car Pack|Exotic Car Pack]].<br />
+<sup>S</sup>Vehicles featured in the [[Forza_Motorsport_3/Downloadable_Content#Summer Velocity Car Pack|Summer Velocity Car Pack]].<br />
+<sup>W</sup>Vehicles featured in the [[Forza_Motorsport_3/Downloadable_Content#World Class Car Pack|World Class Car Pack]].<br />
+<sup>C</sup>Vehicles featured in the [[Forza_Motorsport_3/Downloadable_Content#Community Choice Classics Car Pack|Community Choice Classics Car Pack]].<br />
+<sup>U</sup>Vehicles featured in the [[Forza Motorsport 3/Ultimate Collection|Ultimate Collection]]
+</small>
+[[Category:Car Lists]]
+[[Category:Forza Motorsport 3]]
