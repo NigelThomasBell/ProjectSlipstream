@@ -8,7 +8,28 @@
     4. Performing data visualisation.
 * I made this project to gather further insights and learn more about the racing games that I enjoy playing.
 
-## Virtual environment installation:
+## Commands (Shell)
+### Virtual environment installation:
+* Windows (cmd, ps):
+    ```
+    sh/install.cmd
+    ```
+* Mac/Linux (bash):
+    ```
+    sh sh/install.sh
+    ```
+### Running the notebook: 
+* Windows (cmd, ps):
+    ```
+    sh/run.cmd
+    ```
+* Mac/Linux (bash):
+    ```
+    sh sh/run.sh
+    ```
+
+## Commands (Manual) 
+### Virtual environment installation:
 1. 
     ```
     python -m venv venv
@@ -27,7 +48,7 @@
     pip install jupyterlab pandas plotly pycountry
     ```
 
-## Running the notebook: 
+### Running the notebook: 
 1. Activate the virtual environment:
 
     If using bash:
