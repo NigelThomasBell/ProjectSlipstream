@@ -1,10 +1,12 @@
 # Slipstream
-## Project description and features
-* Slipstream is a data science project. It uses vehicle lists from every (as of writing) released game in the Forza series of racing games to create a dataset. This dataset is used for data visualisation and will eventually be used to develop a public WebAPI allowing people to access and use the data.
-* I made this project to gather further insights and learn more about the racing games that I enjoy playing.
+## Part 2 - Data Visualisation with Tableau
 
-## Table of Contents 
-Each part of the project is on a separate branch of the repository.
-1. [Part-1](https://github.com/NigelThomasBell/Slipstream/tree/Part-1) - Data extraction, processing and simply visualisation using Python and Python Libraries.
-2. [Part-2](https://github.com/NigelThomasBell/Slipstream/tree/Part-2) - Data Visualisation using a Tableau Dashboard
-3. [Part-3](https://github.com/NigelThomasBell/Slipstream/tree/Part-3) - WebAPI and website using a web framework and Vercel (still in development).
+## Instructions
+1. Download the latest version of Tableau Public.
+2. Open the .twbx file.
+3. Go to "Data Source" and add the datasets to use them. 
+4. The datasets need to be have relationships established with certain IDs.
+    * For each [GAME]
+        1. Draw a line from game_series.csv to [GAME]_games.csv. Create the relationship with the 'Game Series ID' column from both .csv files and ensure the operator is "=".
+        2. Draw a line from [GAME]_series.csv to [GAME]_vehicles.csv. Create the relationship with the 'Game ID' column from both .csv files and ensure the operator is "=".
+5. If you try to save the dashboard, it will attempt to upload it to Tableau Public under your account. Once uploaded, it can be viewed, downloaded or deleted from your public Tableau dashboards.
