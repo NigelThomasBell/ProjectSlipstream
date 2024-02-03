@@ -1,6 +1,8 @@
-# Slipstream
+# ProjectSlipstream
+![ProjectSlipstream Project Image](/_readme_images/ProjectSlipstream.png "ProjectSlipstream Project Image")
+
 ## Project description and features
-* Slipstream is a data science project. It uses vehicle lists from every (as of writing) released game in the Forza series of racing games to create a dataset.
+* ProjectSlipstream is a data science project. It uses vehicle lists from every (as of writing) released game in the Forza series of racing games to create a dataset.
 * It involves multiple steps:
     1. Use the MediaWiki API to extract the wiki markup.
     2. Perform data extraction and processing.
@@ -45,7 +47,7 @@
     ```
 3. 
     ```
-    pip install jupyterlab pandas plotly pycountry
+    pip install jupyterlab pandas pyarrow plotly pycountry
     ```
 
 ### Running the notebook: 
