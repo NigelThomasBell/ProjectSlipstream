@@ -8,4 +8,3 @@
 Each part of the project is on a separate branch of the repository.
 1. [Part-1](https://github.com/NigelThomasBell/Slipstream/tree/Part-1) - Data extraction, processing and simply visualisation using Python and Python Libraries.
 2. [Part-2](https://github.com/NigelThomasBell/Slipstream/tree/Part-2) - Data Visualisation using a Tableau Dashboard
-3. (still in development) [Part-3](https://github.com/NigelThomasBell/Slipstream/tree/Part-3) - WebAPI and website using a web framework and Vercel.
